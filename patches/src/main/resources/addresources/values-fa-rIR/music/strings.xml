@@ -22,15 +22,15 @@ Second \"item\" text"</string>
   <!-- 'Download' should be translated using the same localized wording YouTube displays for the button. -->
   <!-- misc.settings.settingsPatch -->
   <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="morphe_settings_music_screen_0_about_title">درباره</string>
-  <string name="morphe_settings_music_screen_1_ads_title">تبلیغات</string>
-  <string name="morphe_settings_music_screen_2_general_title">عمومی</string>
-  <string name="morphe_settings_music_screen_3_player_title">پلیر</string>
+  <string name="argusos_settings_music_screen_0_about_title">درباره</string>
+  <string name="argusos_settings_music_screen_1_ads_title">تبلیغات</string>
+  <string name="argusos_settings_music_screen_2_general_title">عمومی</string>
+  <string name="argusos_settings_music_screen_3_player_title">پلیر</string>
   <!-- ad.hideAdsPatch -->
-  <string name="morphe_music_hide_video_ads_title">مخفی کردن تبلیغات ویدیویی</string>
+  <string name="argusos_music_hide_video_ads_title">مخفی کردن تبلیغات ویدیویی</string>
   <!-- interaction.crossfade.crossfadePatch -->
   <!-- Empty string because custom preference handles the title itself -->
-  <string name="morphe_music_crossfade_about_title">درباره</string>
+  <string name="argusos_music_crossfade_about_title">درباره</string>
   <!-- Banner row has no text; it shows a full-width graphic via a custom layout. -->
   <!-- interaction.remember.repeatstate.rememberRepeatStatePatch-->
   <!-- interaction.remember.shufflestate.rememberShuffleStatePatch -->
@@ -64,7 +64,7 @@ Second \"item\" text"</string>
   <!-- 'scrobble' must be kept untranslated -->
   <!-- 'scrobble' must be kept untranslated -->
   <!-- 'scrobbling' must be kept untranslated -->
-  <string name="morphe_music_listenbrainz_token_status_invalid_unknown">ناشناخته</string>
+  <string name="argusos_music_listenbrainz_token_status_invalid_unknown">ناشناخته</string>
   <!-- 'scrobbling' must be kept untranslated -->
   <!-- 'scrobbling' must be kept untranslated -->
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->

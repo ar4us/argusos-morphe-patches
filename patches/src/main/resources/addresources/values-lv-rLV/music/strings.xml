@@ -39,11 +39,11 @@ Second \"item\" text"</string>
   <!-- 'Start radio' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- flyoutmenu.components.hideFlyoutMenuComponentsPatch -->
   <!-- layout.startpage.changeStartPagePatch -->
-  <string name="morphe_change_start_page_entry_history">Skatīšanās vēsture</string>
-  <string name="morphe_change_start_page_entry_library">Bibliotēka</string>
-  <string name="morphe_change_start_page_entry_playlists">Atskaņošanas saraksti</string>
-  <string name="morphe_change_start_page_entry_search">Meklēt</string>
-  <string name="morphe_change_start_page_entry_subscriptions">Abonementi</string>
+  <string name="argusos_change_start_page_entry_history">Skatīšanās vēsture</string>
+  <string name="argusos_change_start_page_entry_library">Bibliotēka</string>
+  <string name="argusos_change_start_page_entry_playlists">Atskaņošanas saraksti</string>
+  <string name="argusos_change_start_page_entry_search">Meklēt</string>
+  <string name="argusos_change_start_page_entry_subscriptions">Abonementi</string>
   <!-- layout.compactheader.hideFilterBarPatch -->
   <!-- layout.miniplayer.changeMiniplayerColorPatch -->
   <!-- layout.miniplayer.miniplayerNextPreviousButtonsPatch -->

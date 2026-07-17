@@ -6,7 +6,7 @@ plugins {
 }
 
 configure<LibraryExtension> {
-    namespace = "app.morphe.extension.shared.youtube"
+    namespace = "app.argusos.extension.shared.youtube"
     compileSdk = 36
 
     defaultConfig {

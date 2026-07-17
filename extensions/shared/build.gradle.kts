@@ -5,7 +5,7 @@ dependencies {
 }
 
 configure<ApplicationExtension> {
-    namespace = "app.morphe.extension"
+    namespace = "app.argusos.extension"
     compileSdk = 36
 
     defaultConfig {

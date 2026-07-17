@@ -17,163 +17,163 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.initialization.initializationPatch -->
-  <string name="morphe_restart_first_run">Tənzimləməni bitirmək üçün yenidən başlat</string>
+  <string name="argusos_restart_first_run">Tənzimləməni bitirmək üçün yenidən başlat</string>
   <!-- layout.branding.baseCustomBrandingPatch -->
-  <string name="morphe_custom_branding_name_title">Tətbiq adı</string>
+  <string name="argusos_custom_branding_name_title">Tətbiq adı</string>
   <!-- interaction.downloads.downloadsPatch -->
-  <string name="morphe_external_downloader_screen_title">Xarici yükləmələr</string>
-  <string name="morphe_external_downloader_name_title">Yükləyici paketi adı</string>
-  <string name="morphe_external_downloader_name_summary">Quraşdırılan xarici yükləyici tətbiqinizin paket adı</string>
-  <string name="morphe_external_downloader_other_item_hint">Paket adını qeyd et</string>
-  <string name="morphe_external_downloader_other_item">Digər</string>
-  <string name="morphe_external_downloader_not_found_title">Tətbiq quraşdırılmayıb</string>
-  <string name="morphe_external_downloader_not_installed_warning">%s quraşdırılmayıb. Xahiş olunur, onu quraşdır.</string>
-  <string name="morphe_external_downloader_package_not_found_warning">"Paket adı: %s ilə quraşdırılmış tətbiq tapılmadı
+  <string name="argusos_external_downloader_screen_title">Xarici yükləmələr</string>
+  <string name="argusos_external_downloader_name_title">Yükləyici paketi adı</string>
+  <string name="argusos_external_downloader_name_summary">Quraşdırılan xarici yükləyici tətbiqinizin paket adı</string>
+  <string name="argusos_external_downloader_other_item_hint">Paket adını qeyd et</string>
+  <string name="argusos_external_downloader_other_item">Digər</string>
+  <string name="argusos_external_downloader_not_found_title">Tətbiq quraşdırılmayıb</string>
+  <string name="argusos_external_downloader_not_installed_warning">%s quraşdırılmayıb. Xahiş olunur, onu quraşdır.</string>
+  <string name="argusos_external_downloader_package_not_found_warning">"Paket adı: %s ilə quraşdırılmış tətbiq tapılmadı
 
 Paket adının düzgün olduğunu və tətbiqin quraşdırıldığını yoxla"</string>
-  <string name="morphe_external_downloader_empty_warning">Paket adı boş ola bilməz</string>
-  <!-- Translations of this should be identical to morphe_custom_branding_icon_entry_7 -->
-  <string name="morphe_custom_branding_name_entry_5">Fərdi</string>
-  <string name="morphe_custom_branding_icon_title">Tətbiq simvolu</string>
-  <string name="morphe_custom_branding_icon_entry_1">Əsil</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe qara</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe qaranlıq</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe işıqlı</string>
-  <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">İşıqlı Morphe oynat</string>
-  <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Qara Morphe oynat</string>
-  <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
-  <string name="morphe_custom_branding_icon_entry_7">Fərdi</string>
-  <string name="morphe_custom_branding_notification_icon_title">Bildiriş simvolu</string>
-  <string name="morphe_custom_branding_notification_icon_entry_1">Uyğun tətbiq simvolu</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe oynat</string>
+  <string name="argusos_external_downloader_empty_warning">Paket adı boş ola bilməz</string>
+  <!-- Translations of this should be identical to argusos_custom_branding_icon_entry_7 -->
+  <string name="argusos_custom_branding_name_entry_5">Fərdi</string>
+  <string name="argusos_custom_branding_icon_title">Tətbiq simvolu</string>
+  <string name="argusos_custom_branding_icon_entry_1">Əsil</string>
+  <string name="argusos_custom_branding_icon_entry_2">Morphe qara</string>
+  <string name="argusos_custom_branding_icon_entry_3">Morphe qaranlıq</string>
+  <string name="argusos_custom_branding_icon_entry_4">Morphe işıqlı</string>
+  <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
+  <string name="argusos_custom_branding_icon_entry_5">İşıqlı Morphe oynat</string>
+  <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
+  <string name="argusos_custom_branding_icon_entry_6">Qara Morphe oynat</string>
+  <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
+  <string name="argusos_custom_branding_icon_entry_7">Fərdi</string>
+  <string name="argusos_custom_branding_notification_icon_title">Bildiriş simvolu</string>
+  <string name="argusos_custom_branding_notification_icon_entry_1">Uyğun tətbiq simvolu</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe oynat</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe Bildirişi</string>
-  <string name="morphe_check_watch_history_domain_name_dialog_message">Baxış tarixçəniz saxlanılmır.&lt;br&gt;&lt;br&gt;Bu çox güman ki, DNS reklam əngəlləyici və ya şəbəkə proksisinə görədir.&lt;br&gt;&lt;br&gt;Bunu düzəltmək üçün s.youtube.com-u&lt;/b&gt; &lt;b&gt;ağ siyahıya salın və ya bütün DNS əngəlləyiciləri və proksiləri bağlayın.</string>
-  <string name="morphe_check_watch_history_domain_name_dialog_ignore">Təkrar göstərmə</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Morphe Bildirişi</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_message">Baxış tarixçəniz saxlanılmır.&lt;br&gt;&lt;br&gt;Bu çox güman ki, DNS reklam əngəlləyici və ya şəbəkə proksisinə görədir.&lt;br&gt;&lt;br&gt;Bunu düzəltmək üçün s.youtube.com-u&lt;/b&gt; &lt;b&gt;ağ siyahıya salın və ya bütün DNS əngəlləyiciləri və proksiləri bağlayın.</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_ignore">Təkrar göstərmə</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
-  <string name="morphe_spoof_video_streams_screen_title">Video yayımların saxtalaşdır</string>
-  <string name="morphe_spoof_video_streams_screen_summary">Oynatma problemlərin önləmək üçün qəbuledici saxtakarlığını tənzimlə</string>
-  <string name="morphe_spoof_video_streams_title">Video yayımların saxtalaşdır</string>
-  <string name="morphe_spoof_video_streams_summary">"Uyğun video yayımı istəməklə əksər istifadəçilər üçün oynatma problemlərini düzəldir
+  <string name="argusos_spoof_video_streams_screen_title">Video yayımların saxtalaşdır</string>
+  <string name="argusos_spoof_video_streams_screen_summary">Oynatma problemlərin önləmək üçün qəbuledici saxtakarlığını tənzimlə</string>
+  <string name="argusos_spoof_video_streams_title">Video yayımların saxtalaşdır</string>
+  <string name="argusos_spoof_video_streams_summary">"Uyğun video yayımı istəməklə əksər istifadəçilər üçün oynatma problemlərini düzəldir
 
 YouTube Premium istifadəçisisinizsə, bu tənzimləmə tələb olunmaya bilər"</string>
-  <string name="morphe_spoof_video_streams_no_clients_toast">Hər hansı qəbuledici yayımları əldə etmək olmadı</string>
-  <string name="morphe_spoof_video_streams_user_dialog_message">Bu tənzimləməni qapatmaq oynatma problemlərinə səbəb ola bilər.</string>
-  <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_title.
-         "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
-  <string name="morphe_spoof_video_streams_no_clients_suggest_vr_toast">Aktivləşdirməyə cəhd edin: Video yayımların saxtalaşdır &gt; Android VR girişi</string>
-  <string name="morphe_spoof_video_streams_client_type_title">İlkin qəbuledici</string>
-  <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_about_title">Android VR girişi</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_about_summary">Android VR-a daxil olunmayıb. Daxil olmaq üçün bura toxun</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_about_summary_signed_in">Hazırda Android VR-a daxil olunub</string>
-  <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_about_summary_disabled">Bu xüsusiyyəti istifadə etmək üçün, \"İlkin qəbuledici\"-ni Android VR-a dəyişdir</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_dialog_title">Android VR-a Giriş Et</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_dialog_not_signed_in_message">"Android VR-a daxil olmaq bəzi istifadəçilər üçün oynatma problemlərini düzəldə bilər
+  <string name="argusos_spoof_video_streams_no_clients_toast">Hər hansı qəbuledici yayımları əldə etmək olmadı</string>
+  <string name="argusos_spoof_video_streams_user_dialog_message">Bu tənzimləməni qapatmaq oynatma problemlərinə səbəb ola bilər.</string>
+  <!-- "Spoof video streams" must use the same translation as argusos_spoof_video_streams_title.
+         "Sign in to Android VR" must use the same translation as argusos_spoof_video_streams_sign_in_android_vr_about_title -->
+  <string name="argusos_spoof_video_streams_no_clients_suggest_vr_toast">Aktivləşdirməyə cəhd edin: Video yayımların saxtalaşdır &gt; Android VR girişi</string>
+  <string name="argusos_spoof_video_streams_client_type_title">İlkin qəbuledici</string>
+  <!-- Ensure this translation matches the translation of argusos_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_about_title">Android VR girişi</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_about_summary">Android VR-a daxil olunmayıb. Daxil olmaq üçün bura toxun</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_about_summary_signed_in">Hazırda Android VR-a daxil olunub</string>
+  <!-- "Default client" must be the same translated text as argusos_spoof_video_streams_client_type_title -->
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_about_summary_disabled">Bu xüsusiyyəti istifadə etmək üçün, \"İlkin qəbuledici\"-ni Android VR-a dəyişdir</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_dialog_title">Android VR-a Giriş Et</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_dialog_not_signed_in_message">"Android VR-a daxil olmaq bəzi istifadəçilər üçün oynatma problemlərini düzəldə bilər
 
 Daxil olmaq üçün aşağıda davam et-i vurun"</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_dialog_continue">Davam et</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_dialog_reset">Çıxış et</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_title">Təlimatlar</string>
-  <!-- "Open website" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_message">"Aktivləşdirmə kodu: %s
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_dialog_continue">Davam et</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_dialog_reset">Çıxış et</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_activation_code_dialog_title">Təlimatlar</string>
+  <!-- "Open website" must use the same translation as argusos_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_activation_code_dialog_message">"Aktivləşdirmə kodu: %s
 
 1. \"Cihazı əlaqələndir\" veb saytını açmaq üçün aşağıda \"Veb saytı aç\"-a toxun
 2. Yuxarıda görünən aktivləşdirmə şifrəsin buferdən yapışdır (yaxud kənara yaz)
 3. Təhrik olunduqda Google-a daxil olun. Çoxlu hesabınız varsa, sonra bu YouTube hesabını seçin
 4. \"YouTube VR-a Giriş-ə\" icazə ver-ə toxun
 5. \"Cihaz qoşuldu\" məlumatına çatandan sonra bu tətbiqə qayıdın"</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website">Veb saytı aç</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_toast_get_activation_code_failed">Aktivləşdirmə şifrəsi buraxılışı alınmadı</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_toast_get_authorization_code_failed">Təsdiqlənmə token-i buraxılış üçün alınmadı</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Uğurla daxil olundu</string>
-  <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Təsdiqlənmə saxlanıldı
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website">Veb saytı aç</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_toast_get_activation_code_failed">Aktivləşdirmə şifrəsi buraxılışı alınmadı</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_toast_get_authorization_code_failed">Təsdiqlənmə token-i buraxılış üçün alınmadı</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Uğurla daxil olundu</string>
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Təsdiqlənmə saxlanıldı
 
 • Morphe tənzimləmələriniz Android VR təsdiqlənməsini idxal/ixrac etməyəcək
 • Bu tətbiq 6 ay ərzində istifadə olunmazsa, Google bu təsdiqlənməni siləcək
 • Google parolunuzu dəyişdirsəniz və ya bu cihazı Google tənzimləmələrinizdən çıxarsanız, təkrar daxil olmalı olacaqsınız"</string>
-  <string name="morphe_oauth2_connection_failure_timeout">OAuth2 keçici olaraq əlçatan deyil (API vaxtı bitdi)</string>
-  <string name="morphe_oauth2_connection_failure_status_400">Android VR girişi sonlandı, VR-a təkrar daxil olmağa cəhd et</string>
-  <string name="morphe_oauth2_connection_failure_status">OAuth2 keçici olaraq əlçatan deyil (vəziyyət %d)</string>
-  <string name="morphe_oauth2_connection_failure_generic">OAuth2 keçici olaraq əlçatan deyil</string>
-  <string name="morphe_oauth2_connection_failure_auth_not_approved">VR-a daxil olmaq olmur, veb sayt təsdiqlənməsi qəbul edilməyib</string>
-  <string name="morphe_oauth2_connection_failure_auth_error">VR-a daxil olmaq olmur: %s</string>
-  <string name="morphe_oauth2_toast_reset">Android VR-dan Çıxıldı</string>
-  <string name="morphe_oauth2_toast_invalid">Token-dəki etibarsız VR girişi, VR-a təkrar daxil olmağa cəhd et</string>
-  <string name="morphe_spoof_video_streams_disable_player_js_update_title">Oynadıcı JavaScript yenilənməsini qapat</string>
-  <string name="morphe_spoof_video_streams_disable_player_js_update_summary">"Oynadıcının JavaScript-ini xüsusi versiyaya bağlayır
+  <string name="argusos_oauth2_connection_failure_timeout">OAuth2 keçici olaraq əlçatan deyil (API vaxtı bitdi)</string>
+  <string name="argusos_oauth2_connection_failure_status_400">Android VR girişi sonlandı, VR-a təkrar daxil olmağa cəhd et</string>
+  <string name="argusos_oauth2_connection_failure_status">OAuth2 keçici olaraq əlçatan deyil (vəziyyət %d)</string>
+  <string name="argusos_oauth2_connection_failure_generic">OAuth2 keçici olaraq əlçatan deyil</string>
+  <string name="argusos_oauth2_connection_failure_auth_not_approved">VR-a daxil olmaq olmur, veb sayt təsdiqlənməsi qəbul edilməyib</string>
+  <string name="argusos_oauth2_connection_failure_auth_error">VR-a daxil olmaq olmur: %s</string>
+  <string name="argusos_oauth2_toast_reset">Android VR-dan Çıxıldı</string>
+  <string name="argusos_oauth2_toast_invalid">Token-dəki etibarsız VR girişi, VR-a təkrar daxil olmağa cəhd et</string>
+  <string name="argusos_spoof_video_streams_disable_player_js_update_title">Oynadıcı JavaScript yenilənməsini qapat</string>
+  <string name="argusos_spoof_video_streams_disable_player_js_update_summary">"Oynadıcının JavaScript-ini xüsusi versiyaya bağlayır
 
 • Etibarlı oynadıcı JavaScript hash-i tələb olunur
 • Oynadıcı JavaScript hash-ləri təqribən bir ay müddətində qüvvədədir və köhnəlmiş hash-lər GVS tərəfindən ləğv ediləcək
 • Hash ləğv edilərsə, oynatma uğursuz olur"</string>
-  <string name="morphe_spoof_video_streams_disable_player_js_update_user_dialog_message">"Etibarlı oynadıcı JavaScript hash-i təmin etməlisiniz.
+  <string name="argusos_spoof_video_streams_disable_player_js_update_user_dialog_message">"Etibarlı oynadıcı JavaScript hash-i təmin etməlisiniz.
 
 Oynadıcı JavaScript hash-i köhnədirsə, oynatma uğursuz olacaq."</string>
-  <string name="morphe_spoof_video_streams_player_js_hash_value_title">Oynadıcı JavaScript hash-i</string>
-  <string name="morphe_spoof_video_streams_player_js_hash_value_summary">İşlək oynadıcı JavaScript hash-i qeyd et</string>
+  <string name="argusos_spoof_video_streams_player_js_hash_value_title">Oynadıcı JavaScript hash-i</string>
+  <string name="argusos_spoof_video_streams_player_js_hash_value_summary">İşlək oynadıcı JavaScript hash-i qeyd et</string>
   <!-- misc.quic.disableQUICProtocolPatch -->
-  <string name="morphe_disable_quic_protocol_title">QUIC protokolunu qeyri-aktiv et</string>
+  <string name="argusos_disable_quic_protocol_title">QUIC protokolunu qeyri-aktiv et</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->
-  <string name="morphe_disable_drc_audio_title">DRC səsin qapat</string>
+  <string name="argusos_disable_drc_audio_title">DRC səsin qapat</string>
   <!-- misc.audio.tracks.forceOriginalAudioPatch -->
-  <string name="morphe_force_original_audio_title">Orijinal səs dilini zorla</string>
-  <string name="morphe_force_original_audio_summary">Həmişə videonun dublyaj olunan versiyası əvəzinə əsil audio trekini oynadır</string>
+  <string name="argusos_force_original_audio_title">Orijinal səs dilini zorla</string>
+  <string name="argusos_force_original_audio_summary">Həmişə videonun dublyaj olunan versiyası əvəzinə əsil audio trekini oynadır</string>
   <!-- misc.proxy.networkProxyPatch -->
-  <string name="morphe_proxy_screen_title">Şəbəkə proksisi</string>
-  <string name="morphe_proxy_screen_summary">Dəstəklənən şəbəkə sorğularını proksi vasitəsilə yönləndir</string>
-  <string name="morphe_proxy_enabled_title">Proksini aktivləşdir</string>
-  <string name="morphe_proxy_enabled_summary">Dəstəklənən şəbəkə sorğularını konfiqurasiya olunmuş HTTP və ya HTTPS proksi vasitəsilə yönləndirir</string>
-  <string name="morphe_proxy_host_title">Proksi host</string>
-  <string name="morphe_proxy_host_summary">Proksi serverin host adı və ya IP ünvanı</string>
-  <string name="morphe_proxy_port_title">Proksi portu</string>
-  <string name="morphe_proxy_port_summary">Proksi serverin portu</string>
-  <string name="morphe_proxy_https_title">HTTPS proksi istifadə et</string>
-  <string name="morphe_proxy_https_summary">HTTP əvəzinə proksi serverə qoşulmaq üçün HTTPS istifadə et</string>
-  <string name="morphe_proxy_auth_enabled_title">Proksi təsdiqlənməsi</string>
-  <string name="morphe_proxy_auth_enabled_summary">Proksi sorğuları ilə əsas təsdiqlənməni göndərir</string>
-  <string name="morphe_proxy_auth_username_title">Proksi istifadəçi adı</string>
-  <string name="morphe_proxy_auth_username_summary">Əsas proksi təsdiqlənməsi üçün istifadəçi adı</string>
-  <string name="morphe_proxy_auth_password_title">Proksi parolu</string>
-  <string name="morphe_proxy_auth_password_summary">Əsas proksi təsdiqlənməsi üçün parol</string>
-  <string name="morphe_proxy_allow_direct_fallback_title">Birbaşa ehtiyat keçidə icazə ver</string>
-  <string name="morphe_proxy_allow_direct_fallback_summary">Proksi sıradan çıxarsa, birbaşa qoşul</string>
+  <string name="argusos_proxy_screen_title">Şəbəkə proksisi</string>
+  <string name="argusos_proxy_screen_summary">Dəstəklənən şəbəkə sorğularını proksi vasitəsilə yönləndir</string>
+  <string name="argusos_proxy_enabled_title">Proksini aktivləşdir</string>
+  <string name="argusos_proxy_enabled_summary">Dəstəklənən şəbəkə sorğularını konfiqurasiya olunmuş HTTP və ya HTTPS proksi vasitəsilə yönləndirir</string>
+  <string name="argusos_proxy_host_title">Proksi host</string>
+  <string name="argusos_proxy_host_summary">Proksi serverin host adı və ya IP ünvanı</string>
+  <string name="argusos_proxy_port_title">Proksi portu</string>
+  <string name="argusos_proxy_port_summary">Proksi serverin portu</string>
+  <string name="argusos_proxy_https_title">HTTPS proksi istifadə et</string>
+  <string name="argusos_proxy_https_summary">HTTP əvəzinə proksi serverə qoşulmaq üçün HTTPS istifadə et</string>
+  <string name="argusos_proxy_auth_enabled_title">Proksi təsdiqlənməsi</string>
+  <string name="argusos_proxy_auth_enabled_summary">Proksi sorğuları ilə əsas təsdiqlənməni göndərir</string>
+  <string name="argusos_proxy_auth_username_title">Proksi istifadəçi adı</string>
+  <string name="argusos_proxy_auth_username_summary">Əsas proksi təsdiqlənməsi üçün istifadəçi adı</string>
+  <string name="argusos_proxy_auth_password_title">Proksi parolu</string>
+  <string name="argusos_proxy_auth_password_summary">Əsas proksi təsdiqlənməsi üçün parol</string>
+  <string name="argusos_proxy_allow_direct_fallback_title">Birbaşa ehtiyat keçidə icazə ver</string>
+  <string name="argusos_proxy_allow_direct_fallback_summary">Proksi sıradan çıxarsa, birbaşa qoşul</string>
   <!-- ad.hideFullscreenAdsPatch -->
-  <string name="morphe_hide_fullscreen_ads_title">Tam ekran reklamlarını gizlət</string>
-  <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_original_audio_not_available">Bu xüsusiyyəti istifadə etmək üçün \"Video yayımların saxtalaşdır\"-ı Android Reel-ə və ya TV-yə dəyişdir</string>
+  <string name="argusos_hide_fullscreen_ads_title">Tam ekran reklamlarını gizlət</string>
+  <!-- 'Spoof video streams' should be the same translation used for 'argusos_spoof_video_streams_screen_title'. -->
+  <string name="argusos_force_original_audio_not_available">Bu xüsusiyyəti istifadə etmək üçün \"Video yayımların saxtalaşdır\"-ı Android Reel-ə və ya TV-yə dəyişdir</string>
   <!-- misc.privacy.sanitizeSharingLinksPatch -->
-  <string name="morphe_sanitize_sharing_links_title">Paylaşım keçidlərin təmizlə</string>
-  <string name="morphe_sanitize_sharing_links_summary">Paylaşılan keçidlərdən izlənmə sorğusu faktorların silir</string>
-  <string name="morphe_replace_music_with_youtube_title">Paylaşma keçidlərini youtube.com-a dəyişdir</string>
-  <string name="morphe_replace_music_with_youtube_summary">Paylaşılan linklərdə music.youtube.com- u youtube.com- a dəyişir</string>
-  <string name="morphe_replace_links_with_shortener_title">Paylaşma keçidlərini youtu.be-yə dəyişdir</string>
-  <string name="morphe_replace_links_with_shortener_summary">Videoları qısaldılan youtu.be URL formatın istifadə etməyə zorlayır</string>
+  <string name="argusos_sanitize_sharing_links_title">Paylaşım keçidlərin təmizlə</string>
+  <string name="argusos_sanitize_sharing_links_summary">Paylaşılan keçidlərdən izlənmə sorğusu faktorların silir</string>
+  <string name="argusos_replace_music_with_youtube_title">Paylaşma keçidlərini youtube.com-a dəyişdir</string>
+  <string name="argusos_replace_music_with_youtube_summary">Paylaşılan linklərdə music.youtube.com- u youtube.com- a dəyişir</string>
+  <string name="argusos_replace_links_with_shortener_title">Paylaşma keçidlərini youtu.be-yə dəyişdir</string>
+  <string name="argusos_replace_links_with_shortener_summary">Videoları qısaldılan youtu.be URL formatın istifadə etməyə zorlayır</string>
   <!-- misc.debugging.enableDebuggingPatch -->
-  <string name="morphe_debug_protobuffer_title">Bufer protokol sazlanma jurnalı</string>
-  <string name="morphe_debug_protobuffer_summary">Tətbiq elementlərin təyin etmək məqsədilə tərtibatçılar üçün əlavə giriş məlumatları əlavə edir</string>
-  <string name="morphe_debug_protobuffer_user_dialog_message">"Bu seçimi aktivləşdirmə bəzi UI quruluşları üçün ekran mətni də olmaqla əlavə tərtibat bazasını daxil edəcək.
+  <string name="argusos_debug_protobuffer_title">Bufer protokol sazlanma jurnalı</string>
+  <string name="argusos_debug_protobuffer_summary">Tətbiq elementlərin təyin etmək məqsədilə tərtibatçılar üçün əlavə giriş məlumatları əlavə edir</string>
+  <string name="argusos_debug_protobuffer_user_dialog_message">"Bu seçimi aktivləşdirmə bəzi UI quruluşları üçün ekran mətni də olmaqla əlavə tərtibat bazasını daxil edəcək.
 
 Bu, xüsusi filtrlər yaradarkən quruluşları müəyyən etməyə kömək edə bilər.
 
 Hər halda, bunu aktivləşdirmə IP ünvanınız kimi bəzi istifadəçi məlumatın da daxil edəcək."</string>
   <!-- Custom filter -->
-  <string name="morphe_custom_filter_screen_title">Fərdi filtr</string>
-  <string name="morphe_custom_filter_screen_summary">Hər hansı elementi gizlətmək üçün fərdi filtrləri tənzimlə</string>
-  <string name="morphe_custom_filter_title">Fərdi filtri aktivləşdir</string>
-  <string name="morphe_custom_filter_strings_title">Fərdi filtr</string>
+  <string name="argusos_custom_filter_screen_title">Fərdi filtr</string>
+  <string name="argusos_custom_filter_screen_summary">Hər hansı elementi gizlətmək üçün fərdi filtrləri tənzimlə</string>
+  <string name="argusos_custom_filter_title">Fərdi filtri aktivləşdir</string>
+  <string name="argusos_custom_filter_strings_title">Fərdi filtr</string>
   <!-- 'Component path builder strings' is the technical name for identifying the Litho UI layout items to hide. This is an advanced feature and most users will never use this. -->
-  <string name="morphe_custom_filter_strings_summary">Yeni cərgələrlə ayrılan, filtr üçün element yol qurucusu sətirlərinin siyahısı</string>
-  <string name="morphe_custom_filter_toast_invalid_syntax">Etibarsız fərdi filtr: %s</string>
+  <string name="argusos_custom_filter_strings_summary">Yeni cərgələrlə ayrılan, filtr üçün element yol qurucusu sətirlərinin siyahısı</string>
+  <string name="argusos_custom_filter_toast_invalid_syntax">Etibarsız fərdi filtr: %s</string>
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
-  <string name="morphe_spoof_app_version_title">Tətbiq versiyasını saxtalaşdır</string>
-  <string name="morphe_spoof_app_version_summary">Köhnə UI xüsusiyyətlərini qaytarmaq üçün serveri daha köhnə tətbiq versiyasını istifadə etdiyinizi düşünməyə inandırır</string>
-  <string name="morphe_spoof_app_version_user_dialog_message">"Tətbiq versiyası köhnə versiyaya saxtalaşdırılacaq.
+  <string name="argusos_spoof_app_version_title">Tətbiq versiyasını saxtalaşdır</string>
+  <string name="argusos_spoof_app_version_summary">Köhnə UI xüsusiyyətlərini qaytarmaq üçün serveri daha köhnə tətbiq versiyasını istifadə etdiyinizi düşünməyə inandırır</string>
+  <string name="argusos_spoof_app_version_user_dialog_message">"Tətbiq versiyası köhnə versiyaya saxtalaşdırılacaq.
 
 Bu tətbiqin görünüşün və xüsusiyyətlərin dəyişdirəcək, lakin bilinməyən yan təsirlər ola bilər.
 
 Sonradan qapadılarsa, UI səhvlərin önləmək üçün tətbiq məlumatların silmək tövsiyə olunur."</string>
-  <string name="morphe_spoof_app_version_target_title">Saxta tətbiq versiyası hədəfi</string>
+  <string name="argusos_spoof_app_version_target_title">Saxta tətbiq versiyası hədəfi</string>
 </resources>

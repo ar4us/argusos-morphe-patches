@@ -5,7 +5,7 @@ plugins {
 }
 
 configure<LibraryExtension> {
-    namespace = "app.morphe.extension.shared"
+    namespace = "app.argusos.extension.shared"
     compileSdk = 36
 
     defaultConfig {

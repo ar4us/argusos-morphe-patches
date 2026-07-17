@@ -1,0 +1,28 @@
+package app.argusos.extension.music.settings.search;
+
+import android.content.Context;
+import android.preference.PreferenceScreen;
+
+import java.util.List;
+
+import app.argusos.extension.shared.settings.search.BaseSearchResultItem;
+import app.argusos.extension.shared.settings.search.BaseSearchResultsAdapter;
+import app.argusos.extension.shared.settings.search.BaseSearchViewController;
+
+/**
+ * Music-specific search results adapter.
+ */
+public class MusicSearchResultsAdapter extends BaseSearchResultsAdapter {
+
+    public MusicSearchResultsAdapter(Context context, List<BaseSearchResultItem> items,
+                                     BaseSearchViewController.BasePreferenceFragment fragment,
+                                     BaseSearchViewController searchViewController) {
+        super(context, items, fragment, searchViewController);
+    }
+
+    @SuppressWarnings({"deprecation", "RedundantSuppression"})
+    @Override
+    protected PreferenceScreen getMainPreferenceScreen() {
+        return fragment.getPreferenceScreenForSearch();
+    }
+}

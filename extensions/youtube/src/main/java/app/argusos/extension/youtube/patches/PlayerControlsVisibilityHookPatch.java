@@ -1,0 +1,18 @@
+package app.argusos.extension.youtube.patches;
+
+import androidx.annotation.Nullable;
+
+import app.argusos.extension.youtube.shared.PlayerControlsVisibility;
+
+@SuppressWarnings("unused")
+public class PlayerControlsVisibilityHookPatch {
+
+    /**
+     * Injection point.
+     */
+    public static void setPlayerControlsVisibility(@Nullable Enum<?> youTubePlayerControlsVisibility) {
+        if (youTubePlayerControlsVisibility == null) return;
+
+        PlayerControlsVisibility.setFromString(youTubePlayerControlsVisibility.name());
+    }
+}

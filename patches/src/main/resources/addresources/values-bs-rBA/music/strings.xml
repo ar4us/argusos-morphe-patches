@@ -18,8 +18,8 @@ Second \"item\" text"</string>
 <resources>
   <!-- layout.branding.customBrandingPatch -->
   <!-- layout.branding.header.changeHeaderPatch -->
-  <string name="morphe_header_logo_title">The </string>
-  <string name="morphe_header_logo_entry_1">The </string>
+  <string name="argusos_header_logo_title">The </string>
+  <string name="argusos_header_logo_entry_1">The </string>
   <!-- interaction.downloads.downloadsPatch -->
   <!-- 'Download' should be translated using the same localized wording YouTube displays for the button. -->
   <!-- misc.settings.settingsPatch -->
@@ -27,7 +27,7 @@ Second \"item\" text"</string>
   <!-- ad.hideAdsPatch -->
   <!-- interaction.crossfade.crossfadePatch -->
   <!-- Empty string because custom preference handles the title itself -->
-  <string name="morphe_music_crossfade_about_title">O Morphe</string>
+  <string name="argusos_music_crossfade_about_title">O Morphe</string>
   <!-- Banner row has no text; it shows a full-width graphic via a custom layout. -->
   <!-- interaction.remember.repeatstate.rememberRepeatStatePatch-->
   <!-- interaction.remember.shufflestate.rememberShuffleStatePatch -->
@@ -42,7 +42,7 @@ Second \"item\" text"</string>
   <!-- 'Start radio' should be translated using the same localized wording YouTube Music displays for the button. -->
   <!-- flyoutmenu.components.hideFlyoutMenuComponentsPatch -->
   <!-- layout.startpage.changeStartPagePatch -->
-  <string name="morphe_change_start_page_entry_default">The </string>
+  <string name="argusos_change_start_page_entry_default">The </string>
   <!-- layout.compactheader.hideFilterBarPatch -->
   <!-- layout.miniplayer.changeMiniplayerColorPatch -->
   <!-- layout.miniplayer.miniplayerNextPreviousButtonsPatch -->

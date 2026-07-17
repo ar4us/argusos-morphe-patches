@@ -1,0 +1,50 @@
+package app.argusos.patches.youtube.layout.player.overlay
+
+import app.morphe.patcher.extensions.InstructionExtensions.addInstruction
+import app.morphe.patcher.extensions.InstructionExtensions.getInstruction
+import app.morphe.patcher.patch.bytecodePatch
+import app.morphe.patches.all.misc.resources.resourceMappingPatch
+import app.argusos.patches.shared.misc.settings.preference.NonInteractivePreference
+import app.argusos.patches.youtube.layout.buttons.overlay.addPlayerOverlayPreferences
+import app.argusos.patches.youtube.layout.buttons.overlay.playerOverlayButtonsSettingsPatch
+import app.argusos.patches.youtube.misc.settings.settingsPatch
+import app.argusos.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
+import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
+
+private const val EXTENSION_CLASS =
+    "Lapp/argusos/extension/youtube/patches/CustomPlayerOverlayOpacityPatch;"
+
+@Suppress("unused")
+val customPlayerOverlayOpacityPatch = bytecodePatch(
+    name = "Custom player overlay opacity",
+    description = "Adds an option to change the opacity of the video player background when player controls are visible.",
+) {
+    dependsOn(settingsPatch,
+        resourceMappingPatch,
+        playerOverlayButtonsSettingsPatch
+    )
+
+    compatibleWith(COMPATIBILITY_YOUTUBE)
+
+    execute {
+        addPlayerOverlayPreferences(
+            NonInteractivePreference(
+                key = "argusos_player_overlay_opacity",
+                tag = "app.argusos.extension.shared.settings.preference.SeekBarPreference",
+            )
+        )
+
+        CreatePlayerOverviewFingerprint.let {
+            it.method.apply {
+                val viewRegisterIndex = it.instructionMatches.last().index
+                val viewRegister = getInstruction<OneRegisterInstruction>(viewRegisterIndex).registerA
+
+                addInstruction(
+                    viewRegisterIndex + 1,
+                    "invoke-static { v$viewRegister }, " +
+                            "$EXTENSION_CLASS->changeOpacity(Landroid/widget/ImageView;)V",
+                )
+            }
+        }
+    }
+}

@@ -1,11 +1,11 @@
-group = "app.morphe"
+group = "app.argusos"
 
 patches {
     about {
-        name = "Morphe Patches"
+        name = "ArgusOS Morphe Patches"
         description = "Patches for Morphe"
-        source = "git@github.com:MorpheApp/morphe-patches.git"
-        author = "MorpheApp"
+        source = "git@github.com:ar4us/argusos-morphe-patches.git"
+        author = "ArgusOS"
         contact = "na"
         website = "https://morphe.software"
         license = "GNU General Public License v3.0, with additional GPL section 7 requirements"
@@ -35,7 +35,7 @@ tasks {
         dependsOn(build)
 
         classpath = sourceSets["main"].runtimeClasspath
-        mainClass.set("app.morphe.patches.util.resource.CheckStringResourcesKt")
+        mainClass.set("app.argusos.patches.util.resource.CheckStringResourcesKt")
     }
 
     register<JavaExec>("generatePatchesList") {
