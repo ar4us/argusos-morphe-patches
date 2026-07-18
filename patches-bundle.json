@@ -2,6 +2,6 @@
     "created_at":  "2026-07-17T16:00:00",
     "description":  "ArgusOS Morphe Patches Release v1.35.0",
     "signature_download_url":  "",
-    "download_url":  "https://github.com/ar4us/argusos-morphe-patches/releases/download/v1.35.0/patches-1.35.0.mpp",
+    "download_url":  "https://raw.githubusercontent.com/ar4us/argusos-morphe-patches/main/patches-1.35.0.mpp",
     "version":  "1.35.0"
 }
