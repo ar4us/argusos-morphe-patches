@@ -129,7 +129,7 @@ private fun applyGetPackageName(oldPackageName: String, vararg classesToChange: 
 @Suppress("unused")
 val changePackageNamePatch = resourcePatch(
     name = "Change package name",
-    description = "Appends \".morphe\" to the package name by default. " +
+    description = "Appends \".argusos\" to the package name by default. " +
             "Changing the package name of the app can lead to unexpected issues.",
     default = false
 ) {
@@ -165,7 +165,7 @@ val changePackageNamePatch = resourcePatch(
         return if (replacementPackageName != packageNameOption.default) {
             replacementPackageName!!
         } else {
-            "$originalPackageName.morphe"
+            "$originalPackageName.argusos"
         }
     }
 

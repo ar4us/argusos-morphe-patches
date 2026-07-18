@@ -31,7 +31,7 @@ internal fun enableDebuggingPatch(
     additionalDebugPreferences: List<BasePreference> = emptyList()
 ) = bytecodePatch(
     name = "Enable debugging",
-    description = "Adds options for debugging and exporting Morphe logs to the clipboard.",
+    description = "Adds options for debugging and exporting ArgusOS logs to the clipboard.",
 ) {
 
     dependsOn(

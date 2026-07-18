@@ -27,7 +27,7 @@ class MorpheCreditsDialog extends Dialog {
 
     private static final List<WebLink> WORKS_LINKS_CURRENT = List.of(
             new WebLink("Morphe",
-                    str("morphe_settings_about_links_morphe"),
+                    str("argusos_settings_about_links_morphe"),
                     "https://github.com/morpheapp/morphe-patches/graphs/contributors"
             )
     );
@@ -211,7 +211,7 @@ class MorpheCreditsDialog extends Dialog {
                             <div class="credits-title">%s</div>
                         </div>
                         """,
-                StringRef.str("morphe_settings_about_links_credits")
+                StringRef.str("argusos_settings_about_links_credits")
         ));
 
         // Current contributors section.

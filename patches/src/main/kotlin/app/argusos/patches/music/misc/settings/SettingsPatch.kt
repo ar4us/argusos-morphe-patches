@@ -112,7 +112,7 @@ private val settingsResourcePatch = resourcePatch {
 }
 
 val settingsPatch = bytecodePatch(
-    description = "Adds settings for Morphe to YouTube Music."
+    description = "Adds settings for ArgusOS to YouTube Music."
 ) {
     dependsOn(
         checkPatcherUpToDatePatch,

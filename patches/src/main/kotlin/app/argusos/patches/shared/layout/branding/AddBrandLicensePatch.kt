@@ -29,7 +29,7 @@ internal val addLicensePatch = rawResourcePatch {
                     "\n\n\n" +
                             "!!!\n" +
                             "!!!\n" +
-                            "!!! Provided APK is already modified with Morphe patches\n" +
+                            "!!! Provided APK is already modified with ArgusOS patches\n" +
                             "!!! (File already exists in target app: $sourceFileName)\n" +
                             "!!!\n" +
                             "!!!\n\n"

@@ -16,8 +16,8 @@ internal val checkPatcherUpToDatePatch = bytecodePatch {
         } catch (ex: NoSuchMethodException) {
             throw RuntimeException(
                 "\n\n#####################################\n\n" +
-                        "Your Morphe app is outdated." +
-                        "\n\nPlease update Morphe by downloading from https://morphe.software\n\n" +
+                        "Your ArgusOS app is outdated." +
+                        "\n\nPlease update ArgusOS by downloading from your manager\n\n" +
                         "#####################################\n\n"
                         + ex
             )

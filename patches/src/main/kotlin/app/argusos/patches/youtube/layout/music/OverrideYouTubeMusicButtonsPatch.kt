@@ -46,7 +46,7 @@ private fun overrideYouTubeMusicManifestPatch() = resourcePatch{
 @Suppress("unused")
 val overrideYouTubeMusicButtonsPatch = bytecodePatch(
     name = "Override YouTube Music buttons",
-    description = "Overrides YouTube Music buttons to open Morphe Music or any compatible third-party client.",
+    description = "Overrides YouTube Music buttons to open ArgusOS Music or any compatible third-party client.",
 ) {
     dependsOn(settingsPatch)
     dependsOn(overrideYouTubeMusicManifestPatch())

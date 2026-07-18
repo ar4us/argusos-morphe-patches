@@ -202,7 +202,7 @@ private val settingsResourcePatch = resourcePatch {
 }
 
 val settingsPatch = bytecodePatch(
-    description = "Adds settings for Morphe to YouTube."
+    description = "Adds settings for ArgusOS to YouTube."
 ) {
     dependsOn(
         checkPatcherUpToDatePatch,

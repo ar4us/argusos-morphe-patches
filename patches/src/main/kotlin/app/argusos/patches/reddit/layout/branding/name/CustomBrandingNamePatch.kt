@@ -14,7 +14,7 @@ import app.argusos.patches.reddit.shared.Constants.COMPATIBILITY_REDDIT
 import java.io.FileWriter
 import java.nio.file.Files
 
-private const val APP_NAME = "Reddit Morphe"
+private const val APP_NAME = "Reddit ArgusOS"
 
 @Suppress("unused")
 val customBrandingNamePatch = resourcePatch(

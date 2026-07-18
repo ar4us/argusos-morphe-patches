@@ -36,7 +36,7 @@ private const val EXTENSION_CLASS =
     "Lapp/argusos/extension/reddit/settings/RedditActivityHook;"
 
 val settingsPatch = bytecodePatch(
-    description = "Applies mandatory patches to implement Morphe settings into the application."
+    description = "Applies mandatory patches to implement ArgusOS settings into the application."
 ) {
     compatibleWith(COMPATIBILITY_REDDIT)
 

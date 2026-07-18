@@ -4,7 +4,7 @@
   "patches": [
     {
       "name": "Add to queue",
-      "description": "Overrides the feed flyout 'Play next in queue' with the Morphe video queue.",
+      "description": "Overrides the feed flyout 'Play next in queue' with the ArgusOS video queue.",
       "default": true,
       "dependencies": [
         "BytecodePatch",
@@ -884,7 +884,7 @@
     },
     {
       "name": "Change package name",
-      "description": "Appends \".morphe\" to the package name by default. Changing the package name of the app can lead to unexpected issues.",
+      "description": "Appends \".argusos\" to the package name by default. Changing the package name of the app can lead to unexpected issues.",
       "default": false,
       "dependencies": [
         "BytecodePatch"
@@ -1556,9 +1556,9 @@
           "description": "The name of the app.",
           "required": true,
           "type": "kotlin.String",
-          "default": "Reddit Morphe",
+          "default": "Reddit ArgusOS",
           "values": {
-            "Default": "Reddit Morphe"
+            "Default": "Reddit ArgusOS"
           }
         }
       ]
@@ -3100,7 +3100,7 @@
     },
     {
       "name": "Enable debugging",
-      "description": "Adds options for debugging and exporting Morphe logs to the clipboard.",
+      "description": "Adds options for debugging and exporting ArgusOS logs to the clipboard.",
       "default": true,
       "dependencies": [
         "ResourcePatch",
@@ -3168,7 +3168,7 @@
     },
     {
       "name": "Enable debugging",
-      "description": "Adds options for debugging and exporting Morphe logs to the clipboard.",
+      "description": "Adds options for debugging and exporting ArgusOS logs to the clipboard.",
       "default": true,
       "dependencies": [
         "ResourcePatch",
@@ -6920,7 +6920,7 @@
     },
     {
       "name": "Override YouTube Music buttons",
-      "description": "Overrides YouTube Music buttons to open Morphe Music or any compatible third-party client.",
+      "description": "Overrides YouTube Music buttons to open ArgusOS Music or any compatible third-party client.",
       "default": true,
       "dependencies": [
         "BytecodePatch",

@@ -49,12 +49,12 @@ public class MorpheAboutPreference extends Preference {
         private static final Map<String, String> webLinkNameReplacements = new HashMap<>() {
             {
                 // Handle no string resources available, and use the original untranslated tet.
-                var websiteStringKey = "morphe_settings_about_links_website";
+                var websiteStringKey = "argusos_settings_about_links_website";
                 if (ResourceUtils.getIdentifier(ResourceType.STRING, websiteStringKey) != 0) {
                     put("website", websiteStringKey);
-                    put("donate", "morphe_settings_about_links_donate");
-                    put("translations", "morphe_settings_about_links_translations");
-                    put("credits", "morphe_settings_about_links_credits");
+                    put("donate", "argusos_settings_about_links_donate");
+                    put("translations", "argusos_settings_about_links_translations");
+                    put("credits", "argusos_settings_about_links_credits");
                 }
             }
         };
@@ -153,7 +153,7 @@ public class MorpheAboutPreference extends Preference {
     }
 
     // Dummy url
-    static final String CREDITS_LINK_PLACEHOLDER_URL = "https://morphe.software/credits/";
+    static final String CREDITS_LINK_PLACEHOLDER_URL = "https://argusos.software/credits/";
 
     static final WebLink CREDITS_LINK = new WebLink("credits", null, CREDITS_LINK_PLACEHOLDER_URL);
 
@@ -352,15 +352,15 @@ public class MorpheAboutPreference extends Preference {
         }
 
         // App name.
-        html.append("<div class=\"app-name\">Morphe</div>");
+        html.append("<div class=\"app-name\">ArgusOS</div>");
 
         String appPatchesVersion = Utils.getPatchesReleaseVersion();
 
         // Version info card.
         boolean isUpToDate = currentVersion == null || appPatchesVersion.equalsIgnoreCase(currentVersion);
         String versionTitle = isUpToDate
-                ? getString("morphe_settings_about_links_dev_header_up_to_date")
-                : getString("morphe_settings_about_links_dev_header_update_available");
+                ? getString("argusos_settings_about_links_dev_header_up_to_date")
+                : getString("argusos_settings_about_links_dev_header_update_available");
         html.append(String.format("""
                 <div class="info-card">
                     <h3>%s</h3>
@@ -369,8 +369,8 @@ public class MorpheAboutPreference extends Preference {
                 """,
                 useNonBreakingHyphens(versionTitle),
                 useNonBreakingHyphens(isUpToDate
-                        ? getString("morphe_settings_about_links_body_version_current", appPatchesVersion)
-                        : getString("morphe_settings_about_links_body_version_outdated", appPatchesVersion, currentVersion)
+                        ? getString("argusos_settings_about_links_body_version_current", appPatchesVersion)
+                        : getString("argusos_settings_about_links_body_version_outdated", appPatchesVersion, currentVersion)
                 )
         ));
 
@@ -381,8 +381,8 @@ public class MorpheAboutPreference extends Preference {
                                 <h3>%s</h3>
                                 <p>%s</p>
                             </div>
-                            """, useNonBreakingHyphens(getString("morphe_settings_about_links_dev_header")),
-                    getString("morphe_settings_about_links_dev_body")
+                            """, useNonBreakingHyphens(getString("argusos_settings_about_links_dev_header")),
+                    getString("argusos_settings_about_links_dev_body")
             ));
         }
 
@@ -392,7 +392,7 @@ public class MorpheAboutPreference extends Preference {
         html.append(String.format("""
                 <div class="links-section">
                     <div class="section-label">%s</div>
-                """, getString("morphe_settings_about_links_header")));
+                """, getString("argusos_settings_about_links_header")));
 
         // Link buttons with per-URL SVG icons.
         for (WebLink link : aboutLinks) {
