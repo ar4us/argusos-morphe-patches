@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">导入</string>
   <string name="argusos_settings_import_copy">复制</string>
-  <string name="argusos_settings_import_reset">Morphe 设置重置为默认</string>
+  <string name="argusos_settings_import_reset">ArgusOS 设置重置为默认</string>
   <string name="argusos_settings_import_success">导入 %d 个设置</string>
   <string name="argusos_settings_import_failure_parse">导入失败：%s</string>
   <string name="argusos_settings_search_hint">搜索设置</string>
@@ -49,13 +49,13 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_summary">要保存搜索历史，请键入搜索查询并按回车键</string>
   <string name="argusos_settings_search_history_title">显示设置搜索历史记录</string>
   <string name="argusos_show_menu_icons_title">显示Morphe设置图标</string>
-  <string name="argusos_language_title">Morphe 语言</string>
+  <string name="argusos_language_title">ArgusOS 语言</string>
   <string name="argusos_language_user_dialog_message">"某些语言的翻译可能缺失或不完整。
 
-要翻译新语言或改进现有翻译，请访问 morphe.software/translate"</string>
+要翻译新语言或改进现有翻译，请访问 argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">应用语言</string>
   <string name="argusos_pref_import_export_title">导入/导出</string>
-  <string name="argusos_pref_import_export_summary">导入/导出 Morphe 设置</string>
+  <string name="argusos_pref_import_export_summary">导入/导出 ArgusOS 设置</string>
   <string name="argusos_settings_import_file">从文件导入</string>
   <string name="argusos_settings_import_file_success">设置导入成功，点击保存以应用</string>
   <string name="argusos_settings_import_file_failed">设置导入失败</string>
@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">启用调试日志</string>
   <string name="argusos_debug_stacktrace_title">调试日志堆栈跟踪标题</string>
   <string name="argusos_debug_stacktrace_summary">调试日志包含堆栈跟踪，有助于识别错误</string>
-  <string name="argusos_debug_toast_on_error_title">在发生 Morphe 错误时显示 Toast</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"关闭错误 Toast 会隐藏所有 Morphe 错误通知。
+  <string name="argusos_debug_toast_on_error_title">在发生 ArgusOS 错误时显示 Toast</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"关闭错误 Toast 会隐藏所有 ArgusOS 错误通知。
 
 您不会收到任何意外事件的通知。"</string>
   <string name="argusos_debug_export_logs_title">导出调试日志</string>

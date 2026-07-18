@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Om</string>
   <string name="argusos_settings_screen_01_ads_title">Annonser</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternative miniatyrbilder</string>
@@ -418,7 +418,7 @@ Info: Fungerer kanskje ikke på direktesendinger"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Bytt om «Lagre» og «Kø»-handlinger</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Trykk for køalternativer, trykk og hold for å lagre til «Se senere»</string>
   <string name="argusos_queue_override_flyout_menu_title">Overskriv kø-flyout-knappen for avspillingsliste</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Åpner Morphe-køen i stedet for YouTube-køen</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Åpner ArgusOS-køen i stedet for YouTube-køen</string>
   <string name="argusos_queue_manager_check_failed_auth">Ikke logget inn</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Ingen spillelist-ID</string>
   <string name="argusos_queue_manager_check_failed_queue">Køen er tom</string>
@@ -432,7 +432,7 @@ Info: Fungerer kanskje ikke på direktesendinger"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Køen er opprettet</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Fjernet fra køen</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Køen er lagret til %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe-k%C3%B8</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS-k%C3%B8</string>
   <string name="argusos_queue_manager_add_to_queue">Legg til i køen</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Legg til i køen og åpne</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Legg til i køen og spill</string>
@@ -622,7 +622,7 @@ Merk: Hvis «Spoof videostrømmer» ikke er aktivert, kan aktivering av dette f�
   <string name="argusos_show_settings_button_title">Vis Innstillinger-knapp</string>
   <string name="argusos_show_settings_button_index_title">Innstillinger-knappposisjon</string>
   <string name="argusos_show_settings_button_type_title">Innstillingsknapp handling</string>
-  <string name="argusos_show_settings_button_type_summary">Åpner Morphe-innstillinger når den er aktivert, eller YouTube-innstillinger når den er deaktivert</string>
+  <string name="argusos_show_settings_button_type_summary">Åpner ArgusOS-innstillinger når den er aktivert, eller YouTube-innstillinger når den er deaktivert</string>
   <string name="argusos_swap_create_with_notifications_button_title">Bytt Create-knappen med Notifications-knappen</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Hvis endring av denne innstillingen ikke trer i kraft, kan du prøve å bytte til inkognitomodus</string>
   <string name="argusos_hide_navigation_button_labels_title">Skjul navigasjonsknappetiketter</string>
@@ -656,7 +656,7 @@ For å få tilgang til Innstillinger, aktiver Innstillingsknappen via General �
   <string name="argusos_show_toolbar_settings_button_title">Vis Innstillinger-knapp</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Innstillinger-knappposisjon</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Innstillingsknapp handling</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Når den er aktivert, åpner et trykk Morphe-innstillinger og et langt trykk YouTube-innstillinger, deaktiver for å bytte</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Når den er aktivert, åpner et trykk ArgusOS-innstillinger og et langt trykk YouTube-innstillinger, deaktiver for å bytte</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Flytende meny</string>
   <string name="argusos_hide_player_flyout_summary">Skjul \'Lydspor\'-meny</string>
@@ -840,7 +840,7 @@ Innstillinger → Avspilling (eller Autoplay) → Spill av neste video automatis
   <string name="argusos_ryd_attribution_summary">"Data leveres av Return YouTube Dislike API
 
 Trykk her for å åpne ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike API-statistikk for denne enheten</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API-responstid, gjennomsnitt</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API-responstid, minimum</string>

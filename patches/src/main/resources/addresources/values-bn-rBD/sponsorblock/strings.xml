@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL পরিবর্তন হয়েছে</string>
   <string name="argusos_sb_settings_ie_title">সেটিং আমদানি/রপ্তানি</string>
   <string name="argusos_sb_settings_copy">অনুলিপি করুন</string>
-  <string name="argusos_sb_settings_ie_summary">আপনার SponsorBlock JSON কনফিগারেশন যা Morphe বা অন্য কোন SponsorBlock প্ল্যাটফর্মে আমদানি/রপ্তানি করা যাবে</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"আপনার SponsorBlock JSON কনফিগারেশন যা Morphe এবং অন্যান্য SponsorBlock প্ল্যাটফর্মে ইমপোর্ট / এক্সপোর্ট করা যেতে পারে। এইটিতে আপনার ব্যক্তিগত ব্যবহারকারী আইডি অন্তর্ভুক্ত রয়েছে। এটি শেয়ার করার সময় সতর্ক থাকুন।"</string>
+  <string name="argusos_sb_settings_ie_summary">আপনার SponsorBlock JSON কনফিগারেশন যা ArgusOS বা অন্য কোন SponsorBlock প্ল্যাটফর্মে আমদানি/রপ্তানি করা যাবে</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"আপনার SponsorBlock JSON কনফিগারেশন যা ArgusOS এবং অন্যান্য SponsorBlock প্ল্যাটফর্মে ইমপোর্ট / এক্সপোর্ট করা যেতে পারে। এইটিতে আপনার ব্যক্তিগত ব্যবহারকারী আইডি অন্তর্ভুক্ত রয়েছে। এটি শেয়ার করার সময় সতর্ক থাকুন।"</string>
   <string name="argusos_sb_settings_import_successful">সেটিং সফলভাবে আমদানি করা হয়েছে</string>
   <string name="argusos_sb_settings_import_failed">%s আমদানি করতে ব্যর্থ হয়েছে</string>
   <string name="argusos_sb_settings_export_failed">%s রপ্তানি করতে ব্যর্থ হয়েছে</string>

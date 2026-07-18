@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">インポート</string>
   <string name="argusos_settings_import_copy">コピー</string>
-  <string name="argusos_settings_import_reset">Morphe の設定をデフォルトにリセットしました</string>
+  <string name="argusos_settings_import_reset">ArgusOS の設定をデフォルトにリセットしました</string>
   <string name="argusos_settings_import_success">%d 個の設定をインポートしました</string>
   <string name="argusos_settings_import_failure_parse">インポートに失敗しました: %s</string>
   <string name="argusos_settings_search_hint">設定を検索</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">検索履歴はありません</string>
   <string name="argusos_settings_search_empty_history_summary">検索履歴を保存するには、検索クエリを入力して Enter キーを押してください</string>
   <string name="argusos_settings_search_history_title">設定の検索履歴を表示</string>
-  <string name="argusos_show_menu_icons_title">Morphe の設定にアイコンを表示</string>
-  <string name="argusos_language_title">Morphe の言語</string>
+  <string name="argusos_show_menu_icons_title">ArgusOS の設定にアイコンを表示</string>
+  <string name="argusos_language_title">ArgusOS の言語</string>
   <string name="argusos_language_user_dialog_message">"一部の言語では、翻訳が存在しない、または不完全である可能性があります。
 
-新しい言語を翻訳する、または既存の翻訳を改善するには、morphe.software/translate にアクセスしてください。"</string>
+新しい言語を翻訳する、または既存の翻訳を改善するには、argusos.software/translate にアクセスしてください。"</string>
   <string name="argusos_language_DEFAULT">アプリの言語</string>
   <string name="argusos_pref_import_export_title">インポート / エクスポート</string>
-  <string name="argusos_pref_import_export_summary">Morphe の設定をインポート / エクスポートします</string>
+  <string name="argusos_pref_import_export_summary">ArgusOS の設定をインポート / エクスポートします</string>
   <string name="argusos_settings_import_file">ファイル入力</string>
   <string name="argusos_settings_import_file_success">ファイル入力: [適用] を押して設定に反映</string>
   <string name="argusos_settings_import_file_failed">設定のファイル入力に失敗しました</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">設定のファイル出力に成功しました</string>
   <string name="argusos_settings_export_file_failed">設定のファイル出力に失敗しました</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Morphe Patches の最新バージョン &lt;i&gt;%s&lt;/i&gt; を使用しています</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Morphe Patches のバージョン &lt;i&gt;%1$s&lt;/i&gt; を使用しています&lt;br&gt;&lt;br&gt;&lt;b&gt;更新が利用可能です: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;パッチを更新するには、Morphe を使ってアプリを再パッチしてください</string>
+  <string name="argusos_settings_about_links_body_version_current">ArgusOS Patches の最新バージョン &lt;i&gt;%s&lt;/i&gt; を使用しています</string>
+  <string name="argusos_settings_about_links_body_version_outdated">ArgusOS Patches のバージョン &lt;i&gt;%1$s&lt;/i&gt; を使用しています&lt;br&gt;&lt;br&gt;&lt;b&gt;更新が利用可能です: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;パッチを更新するには、ArgusOS を使ってアプリを再パッチしてください</string>
   <string name="argusos_settings_about_links_dev_header">注意</string>
   <string name="argusos_settings_about_links_dev_body">このバージョンはプレリリース版であり、予期しない問題が発生する可能性があります</string>
   <string name="argusos_settings_about_links_header">公式リンク</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">デバッグログを有効化</string>
   <string name="argusos_debug_stacktrace_title">スタック トレースをデバッグログに追加</string>
   <string name="argusos_debug_stacktrace_summary">エラーの特定に役立つスタック トレースをデバッグログに追加します</string>
-  <string name="argusos_debug_toast_on_error_title">Morphe のエラー時にトーストを表示</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"エラーのトースト通知をオフにすると、Morphe のすべてのエラー通知が表示されなくなります。
+  <string name="argusos_debug_toast_on_error_title">ArgusOS のエラー時にトーストを表示</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"エラーのトースト通知をオフにすると、ArgusOS のすべてのエラー通知が表示されなくなります。
 
 予期しないイベントが発生した場合でも通知されません。"</string>
   <string name="argusos_debug_export_logs_title">デバッグログのエクスポート</string>
-  <string name="argusos_debug_export_logs_summary">Morphe のデバッグログをエクスポートします</string>
+  <string name="argusos_debug_export_logs_summary">ArgusOS のデバッグログをエクスポートします</string>
   <string name="argusos_debug_export_logs_file">ファイル出力</string>
   <string name="argusos_debug_export_logs_success">デバッグログのエクスポートに成功しました</string>
   <string name="argusos_debug_export_logs_failed">デバッグログのエクスポートに失敗しました</string>

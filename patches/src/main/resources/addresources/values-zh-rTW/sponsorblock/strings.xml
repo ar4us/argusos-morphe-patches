@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">已變更 API URL</string>
   <string name="argusos_sb_settings_ie_title">匯入/匯出設定</string>
   <string name="argusos_sb_settings_copy">複製</string>
-  <string name="argusos_sb_settings_ie_summary">這是你的 SponsorBlock JSON 設定檔，可以匯入/匯出到 Morphe 和其他 SponsorBlock 平台</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"這是你的 SponsorBlock JSON 設定檔，可以匯入/匯出到 Morphe 和其他 SponsorBlock 平台。這包含你的私人使用者 ID。請務必謹慎分享。"</string>
+  <string name="argusos_sb_settings_ie_summary">這是你的 SponsorBlock JSON 設定檔，可以匯入/匯出到 ArgusOS 和其他 SponsorBlock 平台</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"這是你的 SponsorBlock JSON 設定檔，可以匯入/匯出到 ArgusOS 和其他 SponsorBlock 平台。這包含你的私人使用者 ID。請務必謹慎分享。"</string>
   <string name="argusos_sb_settings_import_successful">設定匯入成功</string>
   <string name="argusos_sb_settings_import_failed">無法匯入：%s</string>
   <string name="argusos_sb_settings_export_failed">無法匯出：%s</string>

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">關於</string>
   <string name="argusos_settings_screen_01_ads_title">廣告</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">替代縮圖</string>
@@ -418,7 +418,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">交換「儲存」和「加入佇列」動作</string>
   <string name="argusos_swap_save_and_queue_actions_summary">點一下即可查看佇列選項，輕按並長按可儲存以便稍後觀看</string>
   <string name="argusos_queue_override_flyout_menu_title">覆蓋播放列表彈出視窗按鈕</string>
-  <string name="argusos_queue_override_flyout_menu_summary">開啟 Morphe 佇列，而非 YouTube 佇列</string>
+  <string name="argusos_queue_override_flyout_menu_summary">開啟 ArgusOS 佇列，而非 YouTube 佇列</string>
   <string name="argusos_queue_manager_check_failed_auth">未登入</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">沒有播放列表 ID</string>
   <string name="argusos_queue_manager_check_failed_queue">佇列是空的</string>
@@ -432,7 +432,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">已建立佇列</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">已從佇列移除</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">佇列已儲存至 %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe 佇列</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS 佇列</string>
   <string name="argusos_queue_manager_add_to_queue">加入佇列</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">加入佇列並開啟</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">加入佇列並播放</string>
@@ -622,7 +622,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_settings_button_title">顯示設定按鈕</string>
   <string name="argusos_show_settings_button_index_title">設定按鈕位置</string>
   <string name="argusos_show_settings_button_type_title">設定按鈕動作</string>
-  <string name="argusos_show_settings_button_type_summary">開啟啟用時的 Morphe 設定，或停用時的 YouTube 設定</string>
+  <string name="argusos_show_settings_button_type_summary">開啟啟用時的 ArgusOS 設定，或停用時的 YouTube 設定</string>
   <string name="argusos_swap_create_with_notifications_button_title">將「建立」按鈕與「通知」按鈕對調</string>
   <string name="argusos_swap_create_with_notifications_button_summary">如果變更這項設定沒有生效，請嘗試切換到無痕模式。</string>
   <string name="argusos_hide_navigation_button_labels_title">隱藏導覽列按鈕標籤</string>
@@ -656,7 +656,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">顯示設定按鈕</string>
   <string name="argusos_show_toolbar_settings_button_index_title">設定按鈕位置</string>
   <string name="argusos_show_toolbar_settings_button_type_title">設定按鈕動作</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">啟用時，點擊會開啟 Morphe 設定，長按會開啟 YouTube 設定。停用則會交換功能。</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">啟用時，點擊會開啟 ArgusOS 設定，長按會開啟 YouTube 設定。停用則會交換功能。</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">介面選單</string>
   <string name="argusos_hide_player_flyout_summary">選擇哪些元件出現在彈出式選單中</string>
@@ -840,7 +840,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"資料由 Return YouTube Dislike API 提供
 
 點擊這裡開啟 ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">回傳這部裝置的 ReturnYouTubeDislike API 統計資料</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">平均 API 回應時間</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">最短 API 回應時間</string>

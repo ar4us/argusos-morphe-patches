@@ -36,20 +36,20 @@ Verifica que el nombre del paquete sea correcto y que la aplicación esté insta
   <string name="argusos_custom_branding_name_entry_5">Personalizado</string>
   <string name="argusos_custom_branding_icon_title">Icono de la aplicación</string>
   <string name="argusos_custom_branding_icon_entry_1">Original</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe negro</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe oscuro</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe claro</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS negro</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS oscuro</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS claro</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play claro</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play claro</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play negro</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play negro</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Personalizado</string>
   <string name="argusos_custom_branding_notification_icon_title">Icono de notificación</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Coincidir con el icono de la aplicación</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Aviso de Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Aviso de ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Tu historial de reproduccion no se está guardando.&lt;br&gt;&lt;br&gt;Probablemente sea por un bloqueador de anuncios DNS o proxy.&lt;br&gt;&lt;br&gt;Para solucionarlo, permite el dominio &lt;b&gt;s.youtube.com&lt;/b&gt; o desactiva los bloqueadores DNS y proxies.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">No mostrar de nuevo</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Para iniciar sesión, pulsa en \"Continuar\" a continuación"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Sesión iniciada correctamente</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Autenticación guardada
 
-• Tus ajustes de Morphe no importarán/exportarán la autenticación de Android VR
+• Tus ajustes de ArgusOS no importarán/exportarán la autenticación de Android VR
 • Si esta aplicación no se utiliza durante 6 meses, Google eliminará esta autenticación
 • Tendrás que iniciar sesión de nuevo si cambias tu contraseña de Google o cancelas el registro de este dispositivo en tus ajustes de Google"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 no está disponible temporalmente (la API no responde)</string>

@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL dəyişdirildi</string>
   <string name="argusos_sb_settings_ie_title">İdxal/İxrac etmə tənzimləmələri</string>
   <string name="argusos_sb_settings_copy">Köçür</string>
-  <string name="argusos_sb_settings_ie_summary">Morphe və digər SponsorBlock platformalarına idxal/ixrac edilə bilən SponsorBlock JSON qurmanız</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Morphe və digər SponsorBlock platformalarına idxal/ixrac edilə bilən SponsorBlock JSON qurmanız
+  <string name="argusos_sb_settings_ie_summary">ArgusOS və digər SponsorBlock platformalarına idxal/ixrac edilə bilən SponsorBlock JSON qurmanız</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"ArgusOS və digər SponsorBlock platformalarına idxal/ixrac edilə bilən SponsorBlock JSON qurmanız
 
 Bu şəxsi istifadəçi kimliyinizi saxlayır. Bunu düşünülmüş şəkildə paylaşdığınıza əmin olun"</string>
   <string name="argusos_sb_settings_import_successful">Tənzimləmələr uğurla idxal edildi</string>

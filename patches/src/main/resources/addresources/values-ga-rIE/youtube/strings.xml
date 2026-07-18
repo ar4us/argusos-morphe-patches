@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Maidir</string>
   <string name="argusos_settings_screen_01_ads_title">Fógraí</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Mionsamhlacha malartacha</string>
@@ -418,7 +418,7 @@ Eolas: Seans nach n-oibreoidh sé ar shruthanna beo"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Malartaigh gníomhartha Sábháil agus Ciú</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Tapáil le haghaidh roghanna scuaine, tapáil agus coinnigh síos chun sábháil le féachaint air níos déanaí</string>
   <string name="argusos_queue_override_flyout_menu_title">Sáraigh an cnaipe scuaine fothaithe</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Osclaíonn sé an scuaine Morphe in ionad scuaine YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Osclaíonn sé an scuaine ArgusOS in ionad scuaine YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Gan logáil isteach</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Gan aon ID seinmliosta</string>
   <string name="argusos_queue_manager_check_failed_queue">Tá an scuaine folamh</string>
@@ -432,7 +432,7 @@ Eolas: Seans nach n-oibreoidh sé ar shruthanna beo"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Cruthaíodh an scuaine</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Bainte den scuaine</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Sábháilte an scuaine chuig %s</string>
-  <string name="argusos_queue_manager_playlist_title">Ciú Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Ciú ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Cuir leis an scuaine</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Cuir leis an scuaine agus oscail</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Cuir leis an scuaine agus seinn</string>
@@ -622,7 +622,7 @@ Ní mór 'fianáin fotheidil' a sholáthar."</string>
   <string name="argusos_show_settings_button_title">Taispeáin an cnaipe Socruithe</string>
   <string name="argusos_show_settings_button_index_title">Suíomh an chnaipe socruithe</string>
   <string name="argusos_show_settings_button_type_title">Gníomh cnaipe socruithe</string>
-  <string name="argusos_show_settings_button_type_summary">Osclaíonn socruithe Morphe nuair a bhíonn siad cumasaithe, nó socruithe YouTube nuair a bhíonn siad díchumasaithe</string>
+  <string name="argusos_show_settings_button_type_summary">Osclaíonn socruithe ArgusOS nuair a bhíonn siad cumasaithe, nó socruithe YouTube nuair a bhíonn siad díchumasaithe</string>
   <string name="argusos_swap_create_with_notifications_button_title">Malartaigh an cnaipe Cruthaigh leis an gcnaipe Fógraí</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Mura dtiocfaidh athrú ar an socrú seo i bhfeidhm, déan iarracht aistriú go mód Incognito</string>
   <string name="argusos_hide_navigation_button_labels_title">Folaigh lipéid na gcnaipí nascleanúna</string>
@@ -656,7 +656,7 @@ Chun rochtain a fháil ar Socruithe, cumasaigh an cnaipe Socruithe trí Ghinear�
   <string name="argusos_show_toolbar_settings_button_title">Taispeáin an cnaipe Socruithe</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Suíomh an chnaipe socruithe</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Gníomh cnaipe socruithe</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Nuair a bhíonn sé cumasaithe, osclaíonn tapáil socruithe Morphe agus brúigh fada osclaíonn socruithe YouTube, díchumasaigh chun malartú</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Nuair a bhíonn sé cumasaithe, osclaíonn tapáil socruithe ArgusOS agus brúigh fada osclaíonn socruithe YouTube, díchumasaigh chun malartú</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Roghchlár Flyout</string>
   <string name="argusos_hide_player_flyout_summary">Roghnaigh cé na comhpháirteanna a thaispeántar sa roghchlár sleamhnáin</string>
@@ -840,7 +840,7 @@ Socruithe → Athsheinm (nó Uathsheinm) → Uathsheinm an chéad fhíseán eile
   <string name="argusos_ryd_attribution_summary">"Cuirtear sonraí ar fáil ag API Return YouTube Dislike
 
 Tapáil anseo chun ReturnYouTubeDislike.com a oscailt"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Staitisticí API ReturnYouTubeDislike an ghléis seo</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Am freagartha API, meán</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Am freagartha API, íosmhéid</string>

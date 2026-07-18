@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importar</string>
   <string name="argusos_settings_import_copy">Copiar</string>
-  <string name="argusos_settings_import_reset">As configuracións de Morphe se restablecerán os valores predeterminados</string>
+  <string name="argusos_settings_import_reset">As configuracións de ArgusOS se restablecerán os valores predeterminados</string>
   <string name="argusos_settings_import_success">Configuracións %d importadas</string>
   <string name="argusos_settings_import_failure_parse">Importación falida: %s</string>
   <string name="argusos_settings_search_hint">Buscar axustes</string>
@@ -64,8 +64,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_about_links_vanced">2019 &#8209; 2022</string>
   <!-- misc.debugging.enableDebuggingPatch -->
   <string name="argusos_debug_screen_title">Depuración</string>
-  <string name="argusos_debug_toast_on_error_title">Mostrar mensaxe toast en caso de erro de Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Desactivar as mensaxes toast en caso de erro ocultará tódalas notificacións de erros de Morphe.
+  <string name="argusos_debug_toast_on_error_title">Mostrar mensaxe toast en caso de erro de ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Desactivar as mensaxes toast en caso de erro ocultará tódalas notificacións de erros de ArgusOS.
 
 Non se lle notificará de ningún evento inesperado."</string>
   <string name="argusos_debug_export_logs_title">Exportar rexistros de depuración</string>

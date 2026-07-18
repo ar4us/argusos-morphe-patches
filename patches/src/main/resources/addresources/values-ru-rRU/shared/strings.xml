@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Импортировать</string>
   <string name="argusos_settings_import_copy">Копировать</string>
-  <string name="argusos_settings_import_reset">Настройки Morphe восстановлены до значений по умолчанию</string>
+  <string name="argusos_settings_import_reset">Настройки ArgusOS восстановлены до значений по умолчанию</string>
   <string name="argusos_settings_import_success">Импортировано %d настроек</string>
   <string name="argusos_settings_import_failure_parse">Ошибка импорта: %s</string>
   <string name="argusos_settings_search_hint">Поиск настроек</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">История поиска пуста</string>
   <string name="argusos_settings_search_empty_history_summary">Для сохранения истории поиска введите поисковый запрос и нажмите Enter</string>
   <string name="argusos_settings_search_history_title">Показать историю поиска настроек</string>
-  <string name="argusos_show_menu_icons_title">Показать иконки в настройках Morphe</string>
-  <string name="argusos_language_title">Язык настроек Morphe</string>
+  <string name="argusos_show_menu_icons_title">Показать иконки в настройках ArgusOS</string>
+  <string name="argusos_language_title">Язык настроек ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Переводы для некоторых языков могут быть неполными или отсутствовать.
 
-Чтобы перевести новые языки или улучшить существующие переводы, посетите morphe.software/translate"</string>
+Чтобы перевести новые языки или улучшить существующие переводы, посетите argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Язык приложения YouTube</string>
   <string name="argusos_pref_import_export_title">Резервное копирование настроек</string>
-  <string name="argusos_pref_import_export_summary">Создание и восстановление резервной копии настроек Morphe</string>
+  <string name="argusos_pref_import_export_summary">Создание и восстановление резервной копии настроек ArgusOS</string>
   <string name="argusos_settings_import_file">Импорт из файла</string>
   <string name="argusos_settings_import_file_success">Настройки успешно импортированы, нажмите \"Сохранить\", чтобы применить</string>
   <string name="argusos_settings_import_file_failed">Не удалось импортировать настройки</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">Настройки успешно экспортированы</string>
   <string name="argusos_settings_export_file_failed">Не удалось экспортировать настройки</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Вы используете последнюю версию Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Вы используете Morphe Patches версии &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно обновление: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Чтобы обновить ваши патчи, используйте Morphe для повторной установки этого приложения</string>
+  <string name="argusos_settings_about_links_body_version_current">Вы используете последнюю версию ArgusOS Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Вы используете ArgusOS Patches версии &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно обновление: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Чтобы обновить ваши патчи, используйте ArgusOS для повторной установки этого приложения</string>
   <string name="argusos_settings_about_links_dev_header">Примечание</string>
   <string name="argusos_settings_about_links_dev_body">Эта версия является пред релиз, и вы можете столкнуться с непредвиденными проблемами</string>
   <string name="argusos_settings_about_links_header">Официальные ссылки</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">Включить журналы отладки</string>
   <string name="argusos_debug_stacktrace_title">Трассировка стека журнала отладки</string>
   <string name="argusos_debug_stacktrace_summary">Включает трассировки стека в журналы отладки, чтобы помочь выявить ошибки</string>
-  <string name="argusos_debug_toast_on_error_title">Показать всплывающее уведомление при ошибке Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Отключение всплывающих уведомлений об ошибках скроет все сообщения об ошибках Morphe.
+  <string name="argusos_debug_toast_on_error_title">Показать всплывающее уведомление при ошибке ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Отключение всплывающих уведомлений об ошибках скроет все сообщения об ошибках ArgusOS.
 
 Вы не будете уведомлены о каких-либо непредвиденных событиях."</string>
   <string name="argusos_debug_export_logs_title">Экспорт журналов отладки</string>
-  <string name="argusos_debug_export_logs_summary">Экспорт журналов отладки Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Экспорт журналов отладки ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Экспорт в файл</string>
   <string name="argusos_debug_export_logs_success">Журналы отладки успешно экспортированы</string>
   <string name="argusos_debug_export_logs_failed">Не удалось экспортировать журналы отладки</string>

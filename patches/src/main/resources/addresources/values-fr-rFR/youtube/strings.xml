@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">À propos</string>
   <string name="argusos_settings_screen_01_ads_title">Publicités</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Miniatures alternatives</string>
@@ -418,7 +418,7 @@ Info : Peut ne pas fonctionner sur les diffusions en direct"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Inverser les actions \'Enregistrer\' et \'File d\'attente\'</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Appuyez pour afficher les options de la file d\'attente, appuyez longuement pour enregistrer dans \'À regarder plus tard\'</string>
   <string name="argusos_queue_override_flyout_menu_title">Remplacer le bouton de file d\'attente du menu déroulant</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Ouvre la file d\'attente Morphe au lieu de la file d\'attente YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Ouvre la file d\'attente ArgusOS au lieu de la file d\'attente YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Non connecté</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Aucun ID de playlist</string>
   <string name="argusos_queue_manager_check_failed_queue">La file d\'attente est vide</string>
@@ -432,7 +432,7 @@ Info : Peut ne pas fonctionner sur les diffusions en direct"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">File d\'attente créée</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Supprimé de la file d\'attente</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">File d\'attente enregistrée dans %s</string>
-  <string name="argusos_queue_manager_playlist_title">File d\'attente Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">File d\'attente ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Ajouter à la file d\'attente</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Ajouter à la file d\'attente et ouvrir</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Ajouter à la file d\'attente et lire</string>
@@ -622,7 +622,7 @@ Les 'Cookies des sous-titres' doivent être fournis"</string>
   <string name="argusos_show_settings_button_title">Afficher un bouton \'Paramètres\'</string>
   <string name="argusos_show_settings_button_index_title">Position du bouton \'Paramètres\'</string>
   <string name="argusos_show_settings_button_type_title">Action du bouton \'Paramètres\'</string>
-  <string name="argusos_show_settings_button_type_summary">Ouvre les paramètres Morphe lorsqu\'elle est activée, ou les paramètres YouTube lorsqu\'elle est désactivée</string>
+  <string name="argusos_show_settings_button_type_summary">Ouvre les paramètres ArgusOS lorsqu\'elle est activée, ou les paramètres YouTube lorsqu\'elle est désactivée</string>
   <string name="argusos_swap_create_with_notifications_button_title">Inverser le bouton \'Créer\' avec le bouton \'Notifications\'</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Si la modification de ce paramètre ne prend pas effet, essayez de passer en mode navigation privée</string>
   <string name="argusos_hide_navigation_button_labels_title">Masquer les libellés des boutons de navigation</string>
@@ -656,7 +656,7 @@ Pour accéder aux paramètres, activez le bouton 'Paramètres' via Général →
   <string name="argusos_show_toolbar_settings_button_title">Afficher un bouton \'Paramètres\'</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Position du bouton \'Paramètres\'</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Action du bouton \'Paramètres\'</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Lorsqu\'elle est activée, un appui ouvre les paramètres Morphe et un appui long ouvre les paramètres YouTube, désactivez-la pour inverser le comportement</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Lorsqu\'elle est activée, un appui ouvre les paramètres ArgusOS et un appui long ouvre les paramètres YouTube, désactivez-la pour inverser le comportement</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menu déroulant</string>
   <string name="argusos_hide_player_flyout_summary">Choisissez les composants qui apparaissent dans le menu déroulant</string>
@@ -841,7 +841,7 @@ Paramètres → Lecture (ou Lecture automatique) → Lecture automatique de la v
   <string name="argusos_ryd_attribution_summary">"Les données sont fournies par l'API Return YouTube Dislike.
 
 Appuyez ici pour ouvrir ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistiques de l\'API Return Youtube Dislike pour cet appareil</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Temps de réponse de l\'API, moyenne</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Temps de réponse de l\'API, minimum</string>

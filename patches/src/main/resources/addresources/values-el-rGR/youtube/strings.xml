@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Σχετικά με</string>
   <string name="argusos_settings_screen_01_ads_title">Διαφημίσεις</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Εναλλακτικές μικρογραφίες</string>
@@ -418,7 +418,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Αντιμετάθεση των ενεργειών Αποθήκευσης και Προσθήκης στην ουρά</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Πατήστε για επιλογές ουράς, πατήστε και κρατήστε για αποθήκευση για να παρακολουθήσετε αργότερα</string>
   <string name="argusos_queue_override_flyout_menu_title">Κουμπί αντικατάστασης σειράς αναδυόμενου μενού ροής</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Ανοίγει την ουρά Morphe αντί για την ουρά YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Ανοίγει την ουρά ArgusOS αντί για την ουρά YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Δεν έχετε συνδεθεί</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Δεν υπάρχει ID λίστας αναπαραγωγής</string>
   <string name="argusos_queue_manager_check_failed_queue">Η ουρά είναι άδεια</string>
@@ -432,7 +432,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Δημιουργήθηκε η ουρά</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Αφαιρέθηκε από την ουρά</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Η ουρά αποθηκεύτηκε στο %s</string>
-  <string name="argusos_queue_manager_playlist_title">Ουρά Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Ουρά ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Προσθήκη στην ουρά</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Προσθήκη στην ουρά και άνοιγμα</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Προσθήκη στην ουρά και αναπαραγωγή</string>
@@ -656,7 +656,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">Εμφάνιση κουμπιού \'Ρυθμίσεις\'</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Θέση κουμπιού \'Ρυθμίσεις\'</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Δείκτης κουμπιού Ρυθμίσεων</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Όταν είναι ενεργοποιημένο, η παρατήρηση ανοίγει τις ρυθμίσεις Morphe και η μεγάλη παρατήρηση ανοίγει τις ρυθμίσεις YouTube, απενεργοποιήστε για να αντιστρέψετε</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Όταν είναι ενεργοποιημένο, η παρατήρηση ανοίγει τις ρυθμίσεις ArgusOS και η μεγάλη παρατήρηση ανοίγει τις ρυθμίσεις YouTube, απενεργοποιήστε για να αντιστρέψετε</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Αναδυόμενο μενού ρυθμίσεων</string>
   <string name="argusos_hide_player_flyout_summary">Επιλέξτε ποια στοιχεία θα εμφανίζονται στο αναδυόμενο μενού</string>
@@ -840,7 +840,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"Τα δεδομένα παρέχονται από το Return YouTube Dislike API
 
 Πατήστε εδώ για να ανοίξετε το ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Στατιστικά ReturnYouTubeDislike API αυτής της συσκευής</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Χρόνος απόκρισης API, μέσος όρος</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Χρόνος απόκρισης API, ελάχιστος</string>

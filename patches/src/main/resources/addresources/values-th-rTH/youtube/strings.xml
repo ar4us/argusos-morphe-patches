@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">เกี่ยวกับ</string>
   <string name="argusos_settings_screen_01_ads_title">โฆษณา</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">รูปขนาดย่อทางเลือก</string>
@@ -418,7 +418,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">สลับการดำเนินการบันทึกและคิว</string>
   <string name="argusos_swap_save_and_queue_actions_summary">แตะเพื่อดูตัวเลือกคิว แตะค้างเพื่อบันทึกเพื่อดูในภายหลัง</string>
   <string name="argusos_queue_override_flyout_menu_title">ปุ่มยกเลิกคิวการเล่นแบบผุดขึ้น</string>
-  <string name="argusos_queue_override_flyout_menu_summary">เปิดคิว Morphe แทนคิว YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">เปิดคิว ArgusOS แทนคิว YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">ยังไม่ได้เข้าสู่ระบบ</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">ไม่มี ID เพลย์ลิสต์</string>
   <string name="argusos_queue_manager_check_failed_queue">คิวว่างเปล่า</string>
@@ -432,7 +432,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">สร้างคิวแล้ว</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">ลบออกจากคิวแล้ว</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">บันทึกคิวไปยัง %s</string>
-  <string name="argusos_queue_manager_playlist_title">คิว Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">คิว ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">เพิ่มไปยังคิว</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">เพิ่มไปยังคิวและเปิด</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">เพิ่มไปยังคิวและเล่น</string>
@@ -616,7 +616,7 @@ Second \"item\" text"</string>
   <string name="argusos_hide_subscriptions_button_title">แสดงปุ่มการตั้งค่า</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="argusos_hide_notifications_button_title">ตำแหน่งปุ่มการตั้งค่า</string>
-  <string name="argusos_show_search_button_title">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า Morphe และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
+  <string name="argusos_show_search_button_title">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า ArgusOS และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
   <string name="argusos_show_search_button_index_title">ลดช่องว่างแนวนอนระหว่างปุ่ม</string>
   <string name="argusos_show_settings_button_title">ภาพเคลื่อนไหวการเปลี่ยนระหว่างแท็บ</string>
   <string name="argusos_show_settings_button_index_title">ทำให้แถบนำทางมองเห็นได้เสมอขณะเลื่อน</string>
@@ -655,7 +655,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">แสดงปุ่มการตั้งค่า</string>
   <string name="argusos_show_toolbar_settings_button_index_title">ตำแหน่งปุ่มการตั้งค่า</string>
   <string name="argusos_show_toolbar_settings_button_type_title">การดำเนินการปุ่มการตั้งค่า</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า Morphe และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า ArgusOS และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">เมนูแบบเลื่อนลง</string>
   <string name="argusos_hide_player_flyout_summary">เลือกส่วนประกอบที่จะปรากฏในเมนู flyout ของเครื่องเล่น</string>
@@ -838,7 +838,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"ข้อมูลนี้มาจาก Return YouTube Dislike API
 
 แตะที่นี่เพื่อเปิด ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">อุปกรณ์นี้</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">เฉลี่ย</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">น้อยสุด</string>

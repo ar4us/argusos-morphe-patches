@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">Η διεύθυνση URL του API άλλαξε</string>
   <string name="argusos_sb_settings_ie_title">Εισαγωγή/Εξαγωγή ρυθμίσεων</string>
   <string name="argusos_sb_settings_copy">Αντιγραφή</string>
-  <string name="argusos_sb_settings_ie_summary">Οι ρυθμίσεις SponsorBlock σας σε μορφή JSON που μπορούν να εισαχθούν/εξαχθούν στο Morphe και σε άλλες πλατφόρμες SponsorBlock</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Η διαμόρφωση JSON του SponsorBlock σας που μπορεί να εισαχθεί / εξαχθεί στο Morphe και σε άλλες πλατφόρμες SponsorBlock
+  <string name="argusos_sb_settings_ie_summary">Οι ρυθμίσεις SponsorBlock σας σε μορφή JSON που μπορούν να εισαχθούν/εξαχθούν στο ArgusOS και σε άλλες πλατφόρμες SponsorBlock</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Η διαμόρφωση JSON του SponsorBlock σας που μπορεί να εισαχθεί / εξαχθεί στο ArgusOS και σε άλλες πλατφόρμες SponsorBlock
 
 Αυτό περιλαμβάνει το ιδιωτικό σας αναγνωριστικό χρήστη. Βεβαιωθείτε ότι το μοιράζεστε με σύνεση"</string>
   <string name="argusos_sb_settings_import_successful">Οι ρυθμίσεις εισήχθησαν επιτυχώς</string>

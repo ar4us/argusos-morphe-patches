@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">আমদানি করুন</string>
   <string name="argusos_settings_import_copy">অনুলিপি করুন</string>
-  <string name="argusos_settings_import_reset">Morphe সেটিং ডিফল্ট সেট করা হয়েছে</string>
+  <string name="argusos_settings_import_reset">ArgusOS সেটিং ডিফল্ট সেট করা হয়েছে</string>
   <string name="argusos_settings_import_success">%d সেটিং আমদানি হয়েছে</string>
   <string name="argusos_settings_import_failure_parse">আমদানি করা যায়নি: %s</string>
   <string name="argusos_settings_search_hint">অনুসন্ধান সেটিংস</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">অনুসন্ধান ইতিহাস খালি</string>
   <string name="argusos_settings_search_empty_history_summary">অনুসন্ধান ইতিহাস সংরক্ষণ করতে, একটি অনুসন্ধানের প্রশ্ন টাইপ করুন এবং এন্টার চাপুন</string>
   <string name="argusos_settings_search_history_title">অনুসন্ধান সেটিংসের ইতিহাস দেখান</string>
-  <string name="argusos_show_menu_icons_title">Morphe সেটিং আইকন দেখান</string>
-  <string name="argusos_language_title">Morphe ভাষা</string>
+  <string name="argusos_show_menu_icons_title">ArgusOS সেটিং আইকন দেখান</string>
+  <string name="argusos_language_title">ArgusOS ভাষা</string>
   <string name="argusos_language_user_dialog_message">"কিছু ভাষার অনুবাদ অনুপস্থিত বা অসম্পূর্ণ হতে পারে।
 
-নতুন ভাষা অনুবাদ করতে বা বিদ্যমান অনুবাদ উন্নত করতে, morphe.software/translate এ ভিজিট করুন"</string>
+নতুন ভাষা অনুবাদ করতে বা বিদ্যমান অনুবাদ উন্নত করতে, argusos.software/translate এ ভিজিট করুন"</string>
   <string name="argusos_language_DEFAULT">অ্যাপ্লিকেশনের ভাষা</string>
   <string name="argusos_pref_import_export_title">আমদানি এবং রপ্তানি</string>
-  <string name="argusos_pref_import_export_summary">Morphe সেটিং আমদানি বা রপ্তানি করুন</string>
+  <string name="argusos_pref_import_export_summary">ArgusOS সেটিং আমদানি বা রপ্তানি করুন</string>
   <string name="argusos_settings_import_file">ফাইল থেকে আমদানি করুন</string>
   <string name="argusos_settings_import_file_success">সেটিং সফলভাবে আমদানি করা হয়েছে, প্রয়োগ করতে সংরক্ষণ করুনতে ক্লিক করুন</string>
   <string name="argusos_settings_import_file_failed">সেটিং আমদানি করতে ব্যর্থ হয়েছে</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">সেটিং সফলভাবে এক্সপোর্ট করা হয়েছে</string>
   <string name="argusos_settings_export_file_failed">সেটিং এক্সপোর্ট করা যায়নি</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">আপনি Morphe প্যাচ সংস্করণ &lt;i&gt;%s&lt;/i&gt; ব্যবহার করছেন</string>
-  <string name="argusos_settings_about_links_body_version_outdated">আপনি Morphe প্যাচ সংস্করণ &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;আপডেট উপলব্ধ: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;আপনার প্যাচগুলি আপডেট করতে, Morphe ব্যবহার করে এই অ্যাপ্লিকেশনটিকে পুনরায় প্যাচ করুন</string>
+  <string name="argusos_settings_about_links_body_version_current">আপনি ArgusOS প্যাচ সংস্করণ &lt;i&gt;%s&lt;/i&gt; ব্যবহার করছেন</string>
+  <string name="argusos_settings_about_links_body_version_outdated">আপনি ArgusOS প্যাচ সংস্করণ &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;আপডেট উপলব্ধ: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;আপনার প্যাচগুলি আপডেট করতে, ArgusOS ব্যবহার করে এই অ্যাপ্লিকেশনটিকে পুনরায় প্যাচ করুন</string>
   <string name="argusos_settings_about_links_dev_header">দ্রষ্টব্য</string>
   <string name="argusos_settings_about_links_dev_body">এই সংস্করণ একটি প্রাক-প্রকাশনা এবং এতে আপনি অনাকাঙ্খিত সমস্যার সম্মুখিন হতে পারেন</string>
   <string name="argusos_settings_about_links_header">অফিশ্যাল লিংকসমূহ</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">ডিবাগ লগিং সক্ষম করুন</string>
   <string name="argusos_debug_stacktrace_title">ডিবাগ লগ স্ট্যাক ট্রেস</string>
   <string name="argusos_debug_stacktrace_summary">ত্রুটি সনাক্ত করতে ডিবাগ লগে স্ট্যাক ট্রেস অন্তর্ভুক্ত করে</string>
-  <string name="argusos_debug_toast_on_error_title">Morphe এর ত্রুটির ক্ষেত্রে টোস্ট দেখান</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"ত্রুটি \"toast\" বন্ধ করে Morphe ত্রুটি বিজ্ঞপ্তিগুলি লুকানো হয়।
+  <string name="argusos_debug_toast_on_error_title">ArgusOS এর ত্রুটির ক্ষেত্রে টোস্ট দেখান</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"ত্রুটি \"toast\" বন্ধ করে ArgusOS ত্রুটি বিজ্ঞপ্তিগুলি লুকানো হয়।
 
 আপনি কোনও অপ্রত্যাশিত ঘটনার বিষয়ে অবহিত হবেন না।"</string>
   <string name="argusos_debug_export_logs_title">ডিবাগ লগগুলি রফতানি করুন</string>
-  <string name="argusos_debug_export_logs_summary">Morphe ডিবাগ লগগুলি রফতানি করুন</string>
+  <string name="argusos_debug_export_logs_summary">ArgusOS ডিবাগ লগগুলি রফতানি করুন</string>
   <string name="argusos_debug_export_logs_file">ফাইলে রফতানি করুন</string>
   <string name="argusos_debug_export_logs_success">সেটিং সফলভাবে আমদানি করা হয়েছে</string>
   <string name="argusos_debug_export_logs_failed">লগ এক্সপোর্ট করা যায়নি: %s</string>

@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">واردکه‌</string>
   <string name="argusos_settings_import_copy">نوسه‌</string>
-  <string name="argusos_settings_import_reset">سازکه‌يه‌كانی Morphe گه‌رى سه‌ره‌وه ببه‌سته</string>
+  <string name="argusos_settings_import_reset">سازکه‌يه‌كانی ArgusOS گه‌رى سه‌ره‌وه ببه‌سته</string>
   <string name="argusos_settings_import_success">%d سازکه‌يه‌ک وارد کرا</string>
   <string name="argusos_settings_import_failure_parse">به‌خۆشه‌وه‌ `)` نه‌که‌ویته‌وه: %s</string>
   <string name="argusos_settings_search_hint">ئه‌لیکه‌ره‌خانه‌يه‌کى ڕاگرتنه‌کان</string>
@@ -49,10 +49,10 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_history_title">دۆزینەوەی مێشۆکەکان، تێکستی ڕاگەڕەیی دەربارەی مێشۆکانی دەستکارییەک.</string>
   <string name="argusos_show_menu_icons_title">نیشانەکانی ڕێکدالەکانی مورفە بنێرن</string>
   <string name="argusos_language_title">زمانی مورفە</string>
-  <string name="argusos_language_user_dialog_message">"فريتة‌ي بة‌شي‌كه‌ي زوانه‌كانيش نه‌بوون، يان بة‌تەواوه‌ نه‌كه‌ون.\n\nبۆ وه‌رگێڕانێكی زوانه‌ تازه‌كان ياخود باشكردنێكی وه‌رگێڕانه‌كانی ئێستا، سه‌رداني morphe.software/translate بكه‌"</string>
+  <string name="argusos_language_user_dialog_message">"فريتة‌ي بة‌شي‌كه‌ي زوانه‌كانيش نه‌بوون، يان بة‌تەواوه‌ نه‌كه‌ون.\n\nبۆ وه‌رگێڕانێكی زوانه‌ تازه‌كان ياخود باشكردنێكی وه‌رگێڕانه‌كانی ئێستا، سه‌رداني argusos.software/translate بكه‌"</string>
   <string name="argusos_language_DEFAULT">زمانی ئەپ</string>
   <string name="argusos_pref_import_export_title">هێنانی / ئەگەڕانەوە</string>
-  <string name="argusos_pref_import_export_summary">هێنانی / دەربڕینی ڕێکخستنەکانی Morphe</string>
+  <string name="argusos_pref_import_export_summary">هێنانی / دەربڕینی ڕێکخستنەکانی ArgusOS</string>
   <string name="argusos_settings_import_file_failed">نەگەشت بە هاتنەوەی ڕێکخستنەکان</string>
   <string name="argusos_settings_export_file_success">ئەم فێڵانەی دەستخاتن سەرکەوتێت</string>
   <string name="argusos_settings_export_file_failed">\"نەگەشت بە دەربازبوونی ڕێکخستنەکان\"</string>
@@ -67,8 +67,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_about_licenses_loading">بارگە دەست</string>
   <!-- misc.debugging.enableDebuggingPatch -->
   <string name="argusos_debug_screen_title">سەرپێچوان</string>
-  <string name="argusos_debug_toast_on_error_title">نیشاندانی ڕێوشوێنی Morphe-ی نیشاده</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"کوژاندنەوەی toastsـی هەڵە هەموو ئاگادارکردنەوەکانی هەڵەی Morphe دەشارێتەوە.
+  <string name="argusos_debug_toast_on_error_title">نیشاندانی ڕێوشوێنی ArgusOS-ی نیشاده</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"کوژاندنەوەی toastsـی هەڵە هەموو ئاگادارکردنەوەکانی هەڵەی ArgusOS دەشارێتەوە.
 
  لە هیچ ڕووداوێکی چاوەڕواننەکراو ئاگادار ناکرێیتەوە."</string>
   <string name="argusos_debug_logs_disabled">تۆمارکردنی چاککردنەوە لەکارخراوە</string>

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">O aplikácii</string>
   <string name="argusos_settings_screen_01_ads_title">Reklamy</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternatívne miniatúry</string>
@@ -418,7 +418,7 @@ Poznámka: Možno nebude fungovať na živých prenosoch"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Zameniť akcie Uložiť a Zaradiť do fronty</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Ťuknite pre možnosti fronty, ťuknite a podržte pre uloženie na neskôr</string>
   <string name="argusos_queue_override_flyout_menu_title">Nahradiť tlačidlo frontu rozbaľovacieho okna</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Otvára rad Morphe namiesto radu YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Otvára rad ArgusOS namiesto radu YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Neprihlásený</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Chýbajúce ID zoznamu skladieb</string>
   <string name="argusos_queue_manager_check_failed_queue">Fronta je prázdna</string>
@@ -432,7 +432,7 @@ Poznámka: Možno nebude fungovať na živých prenosoch"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Fronta vytvorená</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Odstránené z fronty</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Fronta uložená do %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe fronta</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS fronta</string>
   <string name="argusos_queue_manager_add_to_queue">Pridať do fronty</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Pridať do fronty a otvoriť</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Pridať do fronty a prehrať</string>
@@ -618,7 +618,7 @@ Je potrebné poskytnúť „Súbory cookie s titulkami“"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="argusos_hide_notifications_button_title">Zobraziť tlačidlo Nastavenia</string>
   <string name="argusos_show_search_button_title">Pozícia tlačidla Nastavenia</string>
-  <string name="argusos_show_search_button_index_title">Keď je zapnuté, klepnutím otvoríte nastavenia Morphe a podržaním nastavenia YouTube, vypnite, aby ste ich vymenili</string>
+  <string name="argusos_show_search_button_index_title">Keď je zapnuté, klepnutím otvoríte nastavenia ArgusOS a podržaním nastavenia YouTube, vypnite, aby ste ich vymenili</string>
   <string name="argusos_show_settings_button_title">Zmenšuje horizontálne rozostupy medzi tlačidlami</string>
   <string name="argusos_show_settings_button_index_title">Animuje prechody pri prepínaní medzi kartami</string>
   <string name="argusos_show_settings_button_type_title">Akcia tlačidla Nastavenia</string>
@@ -656,7 +656,7 @@ Na prístup k nastaveniam povoľte tlačidlo Nastavenia v časti Všeobecné →
   <string name="argusos_show_toolbar_settings_button_title">Zobraziť tlačidlo Nastavenia</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Pozícia tlačidla Nastavenia</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Akcia tlačidla Nastavenia</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Keď je povolené, klepnutím sa otvoria nastavenia Morphe a dlhým stlačením nastavenia YouTube, vypnutím sa funkcie vymenia</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Keď je povolené, klepnutím sa otvoria nastavenia ArgusOS a dlhým stlačením nastavenia YouTube, vypnutím sa funkcie vymenia</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Rozbaľovacie menu</string>
   <string name="argusos_hide_player_flyout_summary">Vyberte, ktoré komponenty sa zobrazia v rozbaľovacej ponuke</string>
@@ -840,7 +840,7 @@ Nastavenia → Prehrávanie (alebo Automatické prehrávanie) → Automaticky pr
   <string name="argusos_ryd_attribution_summary">"Údaje poskytuje rozhranie API Return YouTube Dislike
 
 Ťuknite sem a otvorte ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Vrátiť štatistiky API dislajkov tohto zariadenia</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Čas odozvy API, priemer</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Čas odozvy API, minimum</string>

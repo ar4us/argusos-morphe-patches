@@ -28,8 +28,8 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">Utiliza tu descargador externo elegido en lugar de la función de descarga integrada de YouTube Music</string>
   <string name="argusos_external_downloader_flyout_menu_title">Reemplazar menú Descargar</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="argusos_settings_music_screen_0_about_title">Acerca de Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
+  <string name="argusos_settings_music_screen_0_about_title">Acerca de ArgusOS</string>
   <string name="argusos_settings_music_screen_1_ads_title">Anuncios</string>
   <string name="argusos_settings_music_screen_2_general_title">General</string>
   <string name="argusos_settings_music_screen_3_player_title">Reproductor</string>

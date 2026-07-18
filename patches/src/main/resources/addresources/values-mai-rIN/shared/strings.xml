@@ -52,7 +52,7 @@ Second \"item\" text"</string>
   <string name="argusos_language_title">मर्फ भाषा</string>
   <string name="argusos_language_user_dialog_message">"केही भाषाका लागि अनुवादहरू हराइरहेको वा अधूरै हुन सक्छन्।
 
-नयाँ भाषाहरू अनुवाद गर्न वा अवस्थित अनुवादहरू सुधार गर्न, morphe.software/translate मा जानुहोस्"</string>
+नयाँ भाषाहरू अनुवाद गर्न वा अवस्थित अनुवादहरू सुधार गर्न, argusos.software/translate मा जानुहोस्"</string>
   <string name="argusos_language_DEFAULT">एप भाषा</string>
   <string name="argusos_pref_import_export_title">आयात / निर्यात</string>
   <string name="argusos_pref_import_export_summary">मर्फ सेटिङहरू आयात / निर्यात गर्नुहोस्</string>
@@ -63,7 +63,7 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">सेटिङहरू सफलतापूर्वक निर्यात गरियो</string>
   <string name="argusos_settings_export_file_failed">सेटिङहरू निर्यात गर्न असफल भयो</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">तपाईं नवीनतम Morphe प्याचहरू संस्करण &lt;i&gt;%s&lt;/i&gt; प्रयोग गर्दै हुनुहुन्छ।</string>
+  <string name="argusos_settings_about_links_body_version_current">तपाईं नवीनतम ArgusOS प्याचहरू संस्करण &lt;i&gt;%s&lt;/i&gt; प्रयोग गर्दै हुनुहुन्छ।</string>
   <string name="argusos_settings_about_links_body_version_outdated">तपाईं मर्फ प्याचहरू संस्करण &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;अपडेट उपलब्ध: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt; आफ्नो प्याचहरू अपडेट गर्न, यो एप प्याच गर्न मर्फ प्रयोग गर्नुहोस्</string>
   <string name="argusos_settings_about_links_dev_header">नोट</string>
   <string name="argusos_settings_about_links_dev_body">यो संस्करण एक पूर्व-रिलीज हो र तपाईं अप्रत्याशित समस्याहरूको अनुभव गर्न सक्नुहुन्छ</string>

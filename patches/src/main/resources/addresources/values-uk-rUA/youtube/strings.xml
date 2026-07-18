@@ -17,8 +17,8 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="argusos_settings_screen_00_about_title">Про Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
+  <string name="argusos_settings_screen_00_about_title">Про ArgusOS</string>
   <string name="argusos_settings_screen_01_ads_title">Реклама</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Альтернативні прев\'ю</string>
   <string name="argusos_settings_screen_03_feed_title">Стрічка</string>
@@ -418,7 +418,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Поміняти місцями кнопки \"Зберегти\" та \"Додати в чергу\"</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Натисніть для опцій черги, натисніть і утримуйте, щоб зберегти для перегляду пізніше</string>
   <string name="argusos_queue_override_flyout_menu_title">Замінити кнопку черги у висувному меню стрічки</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Відкриває чергу Morphe замість черги YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Відкриває чергу ArgusOS замість черги YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Не увійшли в систему</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Немає ID списку відтворення</string>
   <string name="argusos_queue_manager_check_failed_queue">Черга порожня</string>
@@ -432,7 +432,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Чергу створено</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Видалено з черги</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Чергу збережено до %s</string>
-  <string name="argusos_queue_manager_playlist_title">Черга Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Черга ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Додати до черги</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Додати до черги та відкрити</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Додати до черги та відтворити</string>
@@ -622,7 +622,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_settings_button_title">Показати кнопку \"Налаштування\"</string>
   <string name="argusos_show_settings_button_index_title">Позиція кнопки налаштувань</string>
   <string name="argusos_show_settings_button_type_title">Дія кнопки \"Налаштування\"</string>
-  <string name="argusos_show_settings_button_type_summary">Відкриває налаштування Morphe, якщо ввімкнено, або налаштування YouTube, якщо вимкнено</string>
+  <string name="argusos_show_settings_button_type_summary">Відкриває налаштування ArgusOS, якщо ввімкнено, або налаштування YouTube, якщо вимкнено</string>
   <string name="argusos_swap_create_with_notifications_button_title">Поміняти місцями кнопку \"Створити\" та кнопку \"Сповіщення\"</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Якщо зміна цього налаштування не набирає чинності, спробуйте перейти в анонімний режим</string>
   <string name="argusos_hide_navigation_button_labels_title">Приховати підписи кнопок навігації</string>
@@ -656,7 +656,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">Показати кнопку \"Налаштування\"</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Позиція кнопки налаштувань</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Дія кнопки \"Налаштування\"</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Якщо ввімкнено, то натискання відкриває налаштування Morphe, а утримання відкриває YouTube, якщо вимкнено, то навпаки</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Якщо ввімкнено, то натискання відкриває налаштування ArgusOS, а утримання відкриває YouTube, якщо вимкнено, то навпаки</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Висувне меню</string>
   <string name="argusos_hide_player_flyout_summary">Виберіть, які компоненти будуть показуватися у висувному меню</string>
@@ -839,7 +839,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"Дані надаються API Return YouTube Dislike
 
 Торкніться тут, щоб відкрити ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Статистика API ReturnYouTubeDislike цього пристрою</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Час відповіді API, середній</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Час відповіді API, мінімальний</string>

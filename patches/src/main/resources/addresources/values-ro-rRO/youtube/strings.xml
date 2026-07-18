@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Despre</string>
   <string name="argusos_settings_screen_01_ads_title">Reclame</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Miniaturi alternative</string>
@@ -418,7 +418,7 @@ Info: S-ar putea să nu funcționeze pe transmisiuni live"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Schimbă acțiunile Salvare și Coadă</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Atingeți pentru opțiunile cozii, atingeți și mențineți apăsat pentru a salva pentru a urmări mai târziu</string>
   <string name="argusos_queue_override_flyout_menu_title">Înlocuire coadă flyout feed buton</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Deschide coada Morphe în loc de coada YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Deschide coada ArgusOS în loc de coada YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Nu ești autentificat</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">ID playlistă inexistent</string>
   <string name="argusos_queue_manager_check_failed_queue">Coada este goală</string>
@@ -432,7 +432,7 @@ Info: S-ar putea să nu funcționeze pe transmisiuni live"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Coada a fost creată</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Înlăturat din coadă</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Coada a fost salvată în %s</string>
-  <string name="argusos_queue_manager_playlist_title">Coada Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Coada ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Adaugă în coadă</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Adaugă în coadă și deschide</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Adaugă în coadă și redă</string>
@@ -574,7 +574,7 @@ Notă: Dacă „Spoof video streams” nu este activat, activarea acesteia poate
   <string name="argusos_hide_quick_actions_more_button_title">Ascunde butonul Căutare</string>
   <string name="argusos_hide_quick_actions_more_videos_button_title">Afișează butonul Setări</string>
   <string name="argusos_hide_quick_actions_playlist_button_title">Poziția butonului Setări</string>
-  <string name="argusos_hide_quick_actions_save_button_title">Când este activat, atingerea deschide setările Morphe și menținerea apăsată deschide setările YouTube, dezactivează pentru a schimba</string>
+  <string name="argusos_hide_quick_actions_save_button_title">Când este activat, atingerea deschide setările ArgusOS și menținerea apăsată deschide setările YouTube, dezactivează pentru a schimba</string>
   <string name="argusos_hide_quick_actions_share_button_title">Ascunde butonul Distribuie</string>
   <string name="argusos_quick_actions_top_margin_title">Marginea superioară a acțiunilor rapide</string>
   <string name="argusos_quick_actions_top_margin_summary">Stabiliți marginea superioară a barei de acțiuni rapide (0-32 dp)</string>
@@ -656,7 +656,7 @@ Pentru a accesa Setări, activați butonul Setări prin General → Bara de inst
   <string name="argusos_show_toolbar_settings_button_title">Afișează butonul Setări</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Poziția butonului Setări</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Acțiunea butonului Setări</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Când este activat, atingerea deschide setările Morphe, iar apăsarea lungă deschide setările YouTube, dezactivează pentru a inversa</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Când este activat, atingerea deschide setările ArgusOS, iar apăsarea lungă deschide setările YouTube, dezactivează pentru a inversa</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Meniu flyout</string>
   <string name="argusos_hide_player_flyout_summary">Alege ce componente apar în meniul flyout</string>
@@ -840,7 +840,7 @@ Setări → Redare (sau Redare automată) → Redare automată următorul videoc
   <string name="argusos_ryd_attribution_summary">"Datele sunt furnizate de API-ul Return YouTube Dislike
 
 Apasa aici pentru a deschide ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">ReturnYouTubeDislike statistici API ale acestui dispozitiv</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Timp de răspuns API, medie</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Timp de răspuns API, minim</string>

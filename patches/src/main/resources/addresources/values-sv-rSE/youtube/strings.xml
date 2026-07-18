@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Om</string>
   <string name="argusos_settings_screen_01_ads_title">Annonser</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternativa miniatyrbilder</string>
@@ -401,7 +401,7 @@ Vissa layouter på serversidan kanske inte återställs.
   <string name="argusos_show_settings_button_title">Visa knappen Inställningar</string>
   <string name="argusos_show_settings_button_index_title">Position för knappen Inställningar</string>
   <string name="argusos_show_settings_button_type_title">Åtgärd för knappen Inställningar</string>
-  <string name="argusos_show_settings_button_type_summary">Öppnar Morphe-inställningarna när det här alternativet är aktiverat, eller YouTube-inställningarna när det är inaktiverat</string>
+  <string name="argusos_show_settings_button_type_summary">Öppnar ArgusOS-inställningarna när det här alternativet är aktiverat, eller YouTube-inställningarna när det är inaktiverat</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Om den här inställningen inte träder i kraft kan du testa att byta till inkognitoläget</string>
   <string name="argusos_hide_navigation_button_labels_title">Dölj etiketter för navigeringsknappar</string>
   <string name="argusos_hide_navigation_bar_title">Dölj navigeringsfältet</string>
@@ -434,7 +434,7 @@ Om du vill komma åt inställningarna aktiverar du knappen Inställningar via Al
   <string name="argusos_show_toolbar_settings_button_title">Visa knappen Inställningar</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Position för knappen Inställningar</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Åtgärd för knappen Inställningar</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">När det här alternativet är aktiverat öppnar ett tryck Morphe-inställningarna och ett långt tryck YouTube-inställningarna. Inaktivera för att byta</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">När det här alternativet är aktiverat öppnar ett tryck ArgusOS-inställningarna och ett långt tryck YouTube-inställningarna. Inaktivera för att byta</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Flyout-meny</string>
   <string name="argusos_hide_player_flyout_summary">Välj vilka komponenter som visas i flyout-menyn</string>
@@ -602,7 +602,7 @@ Om du vill att menyn Ljudspår ska visas ändrar du Förfalska videostreamar til
   <string name="argusos_ryd_estimated_like_summary">Visar ett uppskattat antal gilla-markeringar för videor där kreatören har inaktiverat gilla-markeringar</string>
   <string name="argusos_ryd_toast_on_connection_error_title">Visa meddelanden om anslutningsfel</string>
   <string name="argusos_ryd_toast_on_connection_error_summary">Visar ett meddelande när Return YouTube Dislike-servern inte är tillgänglig</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike-API-statistik för denna enhet</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API-svarstid, genomsnittlig</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API-svarstid, minsta</string>

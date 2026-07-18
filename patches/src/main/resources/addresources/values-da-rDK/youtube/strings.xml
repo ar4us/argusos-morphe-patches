@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Om</string>
   <string name="argusos_settings_screen_01_ads_title">Annoncer</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternative miniaturebilleder</string>
@@ -418,7 +418,7 @@ Info: Virker muligvis ikke på live streams"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Byt rundt på Gem og Kø-handlinger</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Tryk for køindstillinger, tryk og hold for at gemme til senere</string>
   <string name="argusos_queue_override_flyout_menu_title">Erstat feed flyout kø-knap</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Åbner Morphe-køen i stedet for YouTube-køen</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Åbner ArgusOS-køen i stedet for YouTube-køen</string>
   <string name="argusos_queue_manager_check_failed_auth">Ikke logget ind</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Intet afspilningslist-id</string>
   <string name="argusos_queue_manager_check_failed_queue">Køen er tom</string>
@@ -432,7 +432,7 @@ Info: Virker muligvis ikke på live streams"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Kø oprettet</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Fjernet fra køen</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Kø gemt til %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe-kø</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS-kø</string>
   <string name="argusos_queue_manager_add_to_queue">Tilføj til køen</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Tilføj til køen og åbn</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Tilføj til køen og afspil</string>
@@ -574,7 +574,7 @@ Bemærk: Hvis 'Spoof video streams' ikke er aktiveret, kan aktivering af denne f
   <string name="argusos_hide_quick_actions_more_button_title">Skjul Søge knap</string>
   <string name="argusos_hide_quick_actions_more_videos_button_title">Vis Indstillinger knap</string>
   <string name="argusos_hide_quick_actions_playlist_button_title">Indstillinger knap position</string>
-  <string name="argusos_hide_quick_actions_save_button_title">Når den er aktiveret, åbner tryk Morphe-indstillinger og langt tryk åbner YouTube-indstillinger, deaktiver for at bytte</string>
+  <string name="argusos_hide_quick_actions_save_button_title">Når den er aktiveret, åbner tryk ArgusOS-indstillinger og langt tryk åbner YouTube-indstillinger, deaktiver for at bytte</string>
   <string name="argusos_hide_quick_actions_share_button_title">Skjul knappen Del</string>
   <string name="argusos_quick_actions_top_margin_title">Hurtig handlingers øverste margen</string>
   <string name="argusos_quick_actions_top_margin_summary">Indstil den øverste margen for værktøjslinjen med hurtige handlinger (0-32 dp)</string>
@@ -622,7 +622,7 @@ Bemærk: Hvis 'Spoof video streams' ikke er aktiveret, kan aktivering af denne f
   <string name="argusos_show_settings_button_title">Vis Indstillinger-knappen</string>
   <string name="argusos_show_settings_button_index_title">Indstillinger-knappens position</string>
   <string name="argusos_show_settings_button_type_title">Indstillinger-knappen vises</string>
-  <string name="argusos_show_settings_button_type_summary">Åbner Morphe-indstillinger, når den er aktiveret, eller YouTube-indstillinger, når den er deaktiveret</string>
+  <string name="argusos_show_settings_button_type_summary">Åbner ArgusOS-indstillinger, når den er aktiveret, eller YouTube-indstillinger, når den er deaktiveret</string>
   <string name="argusos_swap_create_with_notifications_button_title">Byt Opret-knap med Notifikationsknap</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Hvis ændringen af denne indstilling ikke virker, prøv at skifte til Incognito-tilstand</string>
   <string name="argusos_hide_navigation_button_labels_title">Skjul navigationsknappers tekst</string>
@@ -656,7 +656,7 @@ For at få adgang til Indstillinger skal du aktivere knappen Indstillinger via G
   <string name="argusos_show_toolbar_settings_button_title">Vis Indstillinger-knappen</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Indstillinger-knappens position</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Indstillingsknappen vises</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Når den er aktiveret, åbner et tryk Morphe-indstillinger og et langt tryk åbner YouTube-indstillinger, deaktiver for at ombytte</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Når den er aktiveret, åbner et tryk ArgusOS-indstillinger og et langt tryk åbner YouTube-indstillinger, deaktiver for at ombytte</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Udfyldningsmenu</string>
   <string name="argusos_hide_player_flyout_summary">Vælg, hvilke komponenter der vises i flyout-menuen</string>
@@ -840,7 +840,7 @@ Indstillinger → Afspilning (eller Automatisk afspilning) → Afspil næste vid
   <string name="argusos_ryd_attribution_summary">"Data er leveret af Return YouTube Dislike API
 
 Tryk her for at åbne ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike API statistikker for denne enhed</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API svartid, gennemsnit</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API svartid, minimum</string>

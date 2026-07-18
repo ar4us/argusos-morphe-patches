@@ -28,7 +28,7 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">YouTube Music-এর অন্তর্নির্মিত ডাউনলোড বৈশিষ্ট্যের পরিবর্তে আপনার নির্বাচিত বাহ্যিক ডাউনলোডার ব্যবহার করে</string>
   <string name="argusos_external_downloader_flyout_menu_title">ডাউনলোড মেনু প্রতিস্থাপন করুন</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_music_screen_0_about_title">মর্ফ সম্পর্কে</string>
   <string name="argusos_settings_music_screen_1_ads_title">বিজ্ঞাপন</string>
   <string name="argusos_settings_music_screen_2_general_title">সাধারণ</string>

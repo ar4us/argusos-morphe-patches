@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL を変更しました</string>
   <string name="argusos_sb_settings_ie_title">設定のインポート / エクスポート</string>
   <string name="argusos_sb_settings_copy">コピー</string>
-  <string name="argusos_sb_settings_ie_summary">SponsorBlock の設定を JSON 形式のテキストでインポート / エクスポートします。この JSON テキストは Morphe およびその他の SponsorBlock 対応アプリ、拡張機能で利用可能です</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"SponsorBlock の設定を Morphe およびその他の SponsorBlock 対応アプリ、拡張機能でインポート / エクスポート可能な JSON 形式のテキストで出力します
+  <string name="argusos_sb_settings_ie_summary">SponsorBlock の設定を JSON 形式のテキストでインポート / エクスポートします。この JSON テキストは ArgusOS およびその他の SponsorBlock 対応アプリ、拡張機能で利用可能です</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"SponsorBlock の設定を ArgusOS およびその他の SponsorBlock 対応アプリ、拡張機能でインポート / エクスポート可能な JSON 形式のテキストで出力します
 
 この JSON テキストには非公開ユーザー ID が含まれています。このテキストを共有する際は十分注意してください"</string>
   <string name="argusos_sb_settings_import_successful">設定のインポートに成功しました</string>

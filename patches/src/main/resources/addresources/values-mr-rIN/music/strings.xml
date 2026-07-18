@@ -28,7 +28,7 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">युट्यूब म्युझिकच्या अंगभूत डाउनलोड वैशिष्ट्यऐवजी तुमचा निवडलेला बाह्य डाउनलोडर वापरतो</string>
   <string name="argusos_external_downloader_flyout_menu_title">डाउनलोड मेनू ओव्हरराइड करा</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_music_screen_0_about_title">अबाऊट</string>
   <string name="argusos_settings_music_screen_1_ads_title">जाहिराती</string>
   <string name="argusos_settings_music_screen_2_general_title">सामान्य</string>

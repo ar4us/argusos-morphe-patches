@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Informacje</string>
   <string name="argusos_settings_screen_01_ads_title">Reklamy</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternatywne miniaturki</string>
@@ -418,7 +418,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Zamień akcje Zapisz i Kolejka</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Dotknij, aby wyświetlić opcje kolejki. Przytrzymaj, aby zapisać do obejrzenia później</string>
   <string name="argusos_queue_override_flyout_menu_title">Zastąp przycisk kolejki w menu strony głównej</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Otwiera kolejkę Morphe zamiast kolejki YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Otwiera kolejkę ArgusOS zamiast kolejki YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Nie zalogowano</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Brak identyfikatora playlisty</string>
   <string name="argusos_queue_manager_check_failed_queue">Kolejka jest pusta</string>
@@ -432,7 +432,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Utworzono kolejkę</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Usunięto z kolejki</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Zapisano kolejkę na playliście %s</string>
-  <string name="argusos_queue_manager_playlist_title">Kolejka Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Kolejka ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Dodaj do kolejki</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Dodaj do kolejki i otwórz</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Dodaj do kolejki i odtwórz</string>
@@ -622,7 +622,7 @@ Uwaga: Jeśli opcja \"Fałszowanie strumieni filmów\" nie jest włączona, wł�
   <string name="argusos_show_settings_button_title">Pokaż przycisk Ustawienia</string>
   <string name="argusos_show_settings_button_index_title">Pozycja przycisku Ustawienia</string>
   <string name="argusos_show_settings_button_type_title">Działanie przycisku Ustawienia</string>
-  <string name="argusos_show_settings_button_type_summary">Otwiera ustawienia Morphe, gdy funkcja jest włączona, lub ustawienia YouTube, gdy jest wyłączona</string>
+  <string name="argusos_show_settings_button_type_summary">Otwiera ustawienia ArgusOS, gdy funkcja jest włączona, lub ustawienia YouTube, gdy jest wyłączona</string>
   <string name="argusos_swap_create_with_notifications_button_title">Zamień przycisk Utwórz z przyciskiem Powiadomienia</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Jeśli zmiana tego ustawienia nie przyniesie efektu, spróbuj przełączyć się w tryb incognito</string>
   <string name="argusos_hide_navigation_button_labels_title">Ukryj etykiety przycisków nawigacji</string>
@@ -656,7 +656,7 @@ Aby przejść do ustawień, włącz przycisk w menu: Ogólne → Pasek narzędzi
   <string name="argusos_show_toolbar_settings_button_title">Pokaż przycisk Ustawienia</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Pozycja przycisku Ustawienia</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Działanie przycisku Ustawienia</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Gdy włączone, dotknięcie otwiera ustawienia Morphe, a przytrzymanie ustawienia YouTube. Wyłącz, aby odwrócić te akcje</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Gdy włączone, dotknięcie otwiera ustawienia ArgusOS, a przytrzymanie ustawienia YouTube. Wyłącz, aby odwrócić te akcje</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menu wysuwane</string>
   <string name="argusos_hide_player_flyout_summary">Zdecyduj, które elementy będą wyświetlane w menu wysuwanym filmu</string>
@@ -839,7 +839,7 @@ To ustawienie działa tylko wtedy, gdy autoodtwarzanie jest wyłączone. Możesz
   <string name="argusos_ryd_attribution_summary">"Dane są dostarczane przez API Return YouTube Dislike
 
 Dotknij tutaj, aby otworzyć ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statystyki API Return YouTube Dislike tego urządzenia</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Średni czas odpowiedzi API</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Minimalny czas odpowiedzi API</string>

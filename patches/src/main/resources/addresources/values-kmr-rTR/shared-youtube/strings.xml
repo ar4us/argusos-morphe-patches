@@ -36,20 +36,20 @@ Verast bike navê pakêtê rast e û sepan sazkirî ye"</string>
   <string name="argusos_custom_branding_name_entry_5">Xwerî</string>
   <string name="argusos_custom_branding_icon_title">Îkonê</string>
   <string name="argusos_custom_branding_icon_entry_1">Yekta</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe reş</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe tarî</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe rovê</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS reş</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS tarî</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS rovê</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Ronahîya kêrê ya Morphe</string>
+  <string name="argusos_custom_branding_icon_entry_5">Ronahîya kêrê ya ArgusOS</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Reşê yê Morphe</string>
+  <string name="argusos_custom_branding_icon_entry_6">Reşê yê ArgusOS</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Xwerî</string>
   <string name="argusos_custom_branding_notification_icon_title">Aîkona notifikasyonê</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Îkona serîlêdana guhêrîn</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe lîstikê</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS lîstikê</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Îlanê Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Îlanê ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Sergûzastên we têne parvekirin.&lt;br&gt;&lt;br&gt;Ev bi girîngî ji hêla pêşgirê DNS an proxy-ya danînê ve tê bandor kirin.&lt;br&gt;&lt;br&gt;Ji bo çareserî, s.youtube.com veşêre an hemû pêşgirên DNS û proxy-yên vegirtêrê vanqandin.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Ji nûve ne nîşan bide</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -90,7 +90,7 @@ Da ku teqezîya nêzîkê bikin, li jêr bidixin 'bidin pêşbaz'."</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_toast_get_activation_code_failed">Ne başa kodu aktivasyonê dabî.</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_toast_get_authorization_code_failed">Ne başa nîşana otantîkasyonê dabî.</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Bi ser ket teqezîya nêzîkê.</string>
-  <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Saziyên we ji Morphe nebazin/neçênin Android VR teqezîya otantîkasyonê.
+  <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Saziyên we ji ArgusOS nebazin/neçênin Android VR teqezîya otantîkasyonê.
 • Ger ev sepan ji 6 mehyan kêmtir neyê bikarîn, Google ev teqezîya ji holê radike.
 • Ger hûn peyva Google-a xwe biguhênin an ev alav ji avakerên Google-a we ji holê rabikin, wê demê divê we îze ba nêzîkê bikin."</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 niha rê ne. (API derket).</string>

@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL API đã thay đổi</string>
   <string name="argusos_sb_settings_ie_title">Nhập hoặc Xuất cài đặt</string>
   <string name="argusos_sb_settings_copy">Sao chép</string>
-  <string name="argusos_sb_settings_ie_summary">Cấu hình JSON SponsorBlock của bạn có thể dùng để nhập/xuất vào Morphe và các nền tảng SponsorBlock khác</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Tệp cấu hình JSON của SponsorBlock của bạn có thể được nhập / xuất vào Morphe và các nền tảng SponsorBlock khác
+  <string name="argusos_sb_settings_ie_summary">Cấu hình JSON SponsorBlock của bạn có thể dùng để nhập/xuất vào ArgusOS và các nền tảng SponsorBlock khác</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Tệp cấu hình JSON của SponsorBlock của bạn có thể được nhập / xuất vào ArgusOS và các nền tảng SponsorBlock khác
 
 Điều này bao gồm ID người dùng riêng tư của bạn. Hãy đảm bảo chia sẻ điều này một cách khôn ngoan"</string>
   <string name="argusos_sb_settings_import_successful">Cài đặt đã được nhập thành công</string>

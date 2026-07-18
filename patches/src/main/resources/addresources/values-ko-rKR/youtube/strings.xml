@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">정보</string>
   <string name="argusos_settings_screen_01_ads_title">광고</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">대체 썸네일</string>
@@ -420,7 +420,7 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="argusos_swap_save_and_queue_actions_title">저장과 현재 재생목록 작업 교환하기</string>
   <string name="argusos_swap_save_and_queue_actions_summary">버튼을 탭하여 현재 재생목록 옵션을 실행할 수 있고, 길게 탭하면 나중에 볼 동영상에 저장됩니다</string>
   <string name="argusos_queue_override_flyout_menu_title">피드 메뉴 현재 재생목록 버튼 재정의하기</string>
-  <string name="argusos_queue_override_flyout_menu_summary">\'현재 재생목록에서 다음 순서로 재생\' 메뉴를 탭하면 YouTube 현재 재생목록 대신 Morphe 현재 재생목록을 실행됩니다</string>
+  <string name="argusos_queue_override_flyout_menu_summary">\'현재 재생목록에서 다음 순서로 재생\' 메뉴를 탭하면 YouTube 현재 재생목록 대신 ArgusOS 현재 재생목록을 실행됩니다</string>
   <string name="argusos_queue_manager_check_failed_auth">로그인하지 않았습니다</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">재생목록 ID가 없습니다</string>
   <string name="argusos_queue_manager_check_failed_queue">현재 재생목록이 비어 있습니다</string>
@@ -434,7 +434,7 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="argusos_queue_manager_fetch_succeeded_create">현재 재생목록을 만들었습니다</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">현재 재생목록에서 제거하였습니다</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">현재 재생목록을 \'%s\'에 저장하였습니다</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe 현재 재생목록</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS 현재 재생목록</string>
   <string name="argusos_queue_manager_add_to_queue">현재 재생목록에 추가</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">현재 재생목록에 추가하고 현재 재생목록 열기</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">현재 재생목록에 추가하고 동영상 재생</string>
@@ -624,7 +624,7 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="argusos_show_settings_button_title">설정 버튼 표시하기</string>
   <string name="argusos_show_settings_button_index_title">설정 버튼 위치</string>
   <string name="argusos_show_settings_button_type_title">설정 버튼 작업</string>
-  <string name="argusos_show_settings_button_type_summary">활성화하면 Morphe 설정이 열리고, 비활성화하면 YouTube 설정을 열립니다</string>
+  <string name="argusos_show_settings_button_type_summary">활성화하면 ArgusOS 설정이 열리고, 비활성화하면 YouTube 설정을 열립니다</string>
   <string name="argusos_swap_create_with_notifications_button_title">만들기 버튼과 알림 버튼의 위치 교환하기</string>
   <string name="argusos_swap_create_with_notifications_button_summary">이 설정을 변경해도 적용되지 않는 경우에는 시크릿 모드로 전환해 보세요</string>
   <string name="argusos_hide_navigation_button_labels_title">하단바 버튼 라벨 숨기기</string>
@@ -658,7 +658,7 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="argusos_show_toolbar_settings_button_title">설정 버튼 표시하기</string>
   <string name="argusos_show_toolbar_settings_button_index_title">설정 버튼 위치</string>
   <string name="argusos_show_toolbar_settings_button_type_title">설정 버튼 작업</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">활성화하면 버튼을 탭했을 경우에 Morphe 설정이 열리고, 길게 탭했을 경우에 YouTube 설정이 열립니다. 비활성화하면 작업이 반대로 바뀝니다</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">활성화하면 버튼을 탭했을 경우에 ArgusOS 설정이 열리고, 길게 탭했을 경우에 YouTube 설정이 열립니다. 비활성화하면 작업이 반대로 바뀝니다</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">메뉴 구성요소</string>
   <string name="argusos_hide_player_flyout_summary">메뉴 구성요소에 표시할 구성 요소를 설정할 수 있습니다</string>
@@ -842,7 +842,7 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="argusos_ryd_attribution_summary">"데이터는 Return YouTube Dislike API에 의해 제공됩니다
 
 자세한 정보를 보려면 여기를 탭하여 'ReturnYouTubeDislike.com'으로 이동하세요"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">이 기기의 Return YouTube Dislike API 사용 통계</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">평균 API 응답 시간</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">최소 API 응답 시간</string>

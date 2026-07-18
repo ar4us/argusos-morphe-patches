@@ -36,20 +36,20 @@ Pastikan nama paket benar dan aplikasi sudah terpasang"</string>
   <string name="argusos_custom_branding_name_entry_5">Khusus</string>
   <string name="argusos_custom_branding_icon_title">Ikon aplikasi</string>
   <string name="argusos_custom_branding_icon_entry_1">Asli</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe hitam</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe gelap</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe terang</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS hitam</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS gelap</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS terang</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play terang</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play terang</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play hitam</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play hitam</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Kustom</string>
   <string name="argusos_custom_branding_notification_icon_title">Ikon pemberitahuan</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Cocokkan ikon aplikasi</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Pemberitahuan Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Pemberitahuan ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Riwayat tontonan Anda tidak sedang disimpan.&lt;br&gt;&lt;br&gt;Hal ini kemungkinan besar disebabkan oleh pemblokir iklan DNS atau proksi jaringan.&lt;br&gt;&lt;br&gt;Untuk memperbaikinya, masukkan daftar putih &lt;b&gt;s.youtube.com&lt;/b&gt; atau matikan semua pemblokir DNS dan proksi.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Jangan tampilkan lagi</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Untuk masuk, tekan lanjutkan di bawah ini"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Berhasil masuk</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Autentikasi disimpan
 
-• Pengaturan Morphe Anda tidak akan mengimpor/mengekspor autentikasi Android VR
+• Pengaturan ArgusOS Anda tidak akan mengimpor/mengekspor autentikasi Android VR
 • Jika aplikasi ini tidak digunakan selama 6 bulan, Google akan menghapus autentikasi ini
 • Anda perlu masuk kembali jika Anda mengubah kata sandi Google Anda atau menghapus pendaftaran perangkat ini dari pengaturan Google Anda"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 sementara tidak tersedia (API kehabisan waktu)</string>

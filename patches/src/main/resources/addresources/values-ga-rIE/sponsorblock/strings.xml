@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL API athraithe</string>
   <string name="argusos_sb_settings_ie_title">Socruithe Iompórtála/Easpórtála</string>
   <string name="argusos_sb_settings_copy">Cóipeáil</string>
-  <string name="argusos_sb_settings_ie_summary">Do chumraíocht SponsorBlock JSON is féidir a allmhairiú/a onnmhairiú chuig Morphe agus ardáin SponsorBlock eile</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Do chumraíocht SponsorBlock JSON is féidir a allmhairiú/a onnmhairiú chuig Morphe agus ardáin SponsorBlock eile
+  <string name="argusos_sb_settings_ie_summary">Do chumraíocht SponsorBlock JSON is féidir a allmhairiú/a onnmhairiú chuig ArgusOS agus ardáin SponsorBlock eile</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Do chumraíocht SponsorBlock JSON is féidir a allmhairiú/a onnmhairiú chuig ArgusOS agus ardáin SponsorBlock eile
 
 Áirítear leis seo d’aitheantas úsáideora príobháideach. Bí cinnte é seo a roinnt go ciallmhar"</string>
   <string name="argusos_sb_settings_import_successful">D\'éirigh leis na socruithe a iompórtáil</string>

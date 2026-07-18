@@ -52,7 +52,7 @@ Second \"item\" text"</string>
   <string name="argusos_language_title">Jezik Morphea</string>
   <string name="argusos_language_user_dialog_message">"Prevodi za neke jezike mogu nedostajati ili biti nepotpuni.
 
-Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite morphe.software/translate"</string>
+Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Jezik aplikacije</string>
   <string name="argusos_pref_import_export_title">Uvoz / Izvoz</string>
   <string name="argusos_pref_import_export_summary">Uvoz / Izvoz podešavanja Morphea</string>
@@ -63,8 +63,8 @@ Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite morphe
   <string name="argusos_settings_export_file_success">Uspešno izvezeni podešavanja</string>
   <string name="argusos_settings_export_file_failed">Nije uspelo izvođenje podešavanja</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Koristite najnoviju verziju &lt;i&gt;%s&lt;/i&gt; Morphe pečeva</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Koristite verziju &lt;i&gt;%1$s&lt;/i&gt; Morphe pečeva&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupna je ažurirana verzija: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Da biste ažurirali svoje pečeve, upotrebite Morphe da biste ponovo zakrpali ovu aplikaciju</string>
+  <string name="argusos_settings_about_links_body_version_current">Koristite najnoviju verziju &lt;i&gt;%s&lt;/i&gt; ArgusOS pečeva</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Koristite verziju &lt;i&gt;%1$s&lt;/i&gt; ArgusOS pečeva&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupna je ažurirana verzija: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Da biste ažurirali svoje pečeve, upotrebite ArgusOS da biste ponovo zakrpali ovu aplikaciju</string>
   <string name="argusos_settings_about_links_dev_header">Napomena</string>
   <string name="argusos_settings_about_links_dev_body">Ova verzija je predizdanje i možda ćete imati neočekivane probleme</string>
   <string name="argusos_settings_about_links_header">Zvanični linkovi</string>
@@ -93,7 +93,7 @@ Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite morphe
 
 Nećete biti obavešteni ni o kakvim neočekivanim događajima."</string>
   <string name="argusos_debug_export_logs_title">Izvezi evidencije otklanjanja grešaka</string>
-  <string name="argusos_debug_export_logs_summary">Izvezi beleške o ispravljanju grešaka Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Izvezi beleške o ispravljanju grešaka ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Izvezi u datoteku</string>
   <string name="argusos_debug_export_logs_success">Beleške o ispravljanju grešaka uspešno izvežene</string>
   <string name="argusos_debug_export_logs_failed">Nije uspelo izvođenje beležaka o ispravljanju grešaka</string>

@@ -76,7 +76,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">सफलतापूर्वक साइन इन कएल गेल</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"प्रमाणीकरण बचायल गेल अछि
 
-• Morphe सेटिंग Android VR प्रमाणीकरण आयात/निर्यात नहि करी पाबी।
+• ArgusOS सेटिंग Android VR प्रमाणीकरण आयात/निर्यात नहि करी पाबी।
 • यदि एह एप्प 6 मसीह धरि अप्रयुक्त रहत अछि त Google एह प्रमाणीकरणक हटा देबी।
 • यदि ताहि Google पासवर्ड बदलाब या Google सेटिंग सँ एह डिवाइसके डि-रजिस्टर करेस, ताहि ताहि साइन इन करबाक आवश्यकता होई।"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 अस्थायी रूप सँ अनुपलब्ध अछि (API समय सीमा समाप्त)।</string>

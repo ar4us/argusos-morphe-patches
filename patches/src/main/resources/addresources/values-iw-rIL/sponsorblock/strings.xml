@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">כתובת API שונתה</string>
   <string name="argusos_sb_settings_ie_title">ייבוא/ייצוא הגדרות</string>
   <string name="argusos_sb_settings_copy">העתק</string>
-  <string name="argusos_sb_settings_ie_summary">תצורת JSON של ה-SponsorBlock שלך שניתן לייבא/לייצא אל Morphe ופלטפורמות SponsorBlock אחרות</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"תצורת JSON של ה-SponsorBlock שלך שניתן לייבא/לייצא ל-Morphe ופלטפורמות SponsorBlock אחרות. זה כולל את מזהה המשתמש הפרטי שלך. הקפד לשתף את זה בתבונה"</string>
+  <string name="argusos_sb_settings_ie_summary">תצורת JSON של ה-SponsorBlock שלך שניתן לייבא/לייצא אל ArgusOS ופלטפורמות SponsorBlock אחרות</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"תצורת JSON של ה-SponsorBlock שלך שניתן לייבא/לייצא ל-ArgusOS ופלטפורמות SponsorBlock אחרות. זה כולל את מזהה המשתמש הפרטי שלך. הקפד לשתף את זה בתבונה"</string>
   <string name="argusos_sb_settings_import_successful">ההגדרות יובאו בהצלחה</string>
   <string name="argusos_sb_settings_import_failed">נכשל לייבא את: %s</string>
   <string name="argusos_sb_settings_export_failed">נכשל לייצא את: %s</string>

@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">Власна</string>
   <string name="argusos_custom_branding_icon_title">Іконка застосунку</string>
   <string name="argusos_custom_branding_icon_entry_1">Оригінальна</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe чорна</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe темна</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe світла</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS чорна</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS темна</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS світла</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play світла</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play світла</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play чорна</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play чорна</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Власна</string>
   <string name="argusos_custom_branding_notification_icon_title">Іконка сповіщення</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Відповідати іконці застосунку</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Повідомлення Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Повідомлення ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Ваша історія переглядів не зберігається.&lt;br&gt;&lt;br&gt;Швидше за все, це спричинено блокувальником реклами DNS або мережевим проксі.&lt;br&gt;&lt;br&gt;Щоб це виправити, додайте &lt;b&gt;s.youtube.com&lt;/b&gt; у білий список блокувальника або вимкніть усі DNS блокувальники та проксі.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Більше не показувати</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Вхід виконано успішно</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Автентифікацію збережено
 
-• Налаштування Morphe не імпортують/експортують автентифікацію Android VR
+• Налаштування ArgusOS не імпортують/експортують автентифікацію Android VR
 • Якщо застосунок не використовується 6 місяців, Google видалить цю автентифікацію
 • Вам потрібно буде увійти знову, якщо ви зміните пароль Google або скасуєте реєстрацію цього пристрою в налаштуваннях Google"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 тимчасово недоступний (тайм-аут API)</string>

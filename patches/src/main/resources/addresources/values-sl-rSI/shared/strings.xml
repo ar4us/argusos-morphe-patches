@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Uvozi</string>
   <string name="argusos_settings_import_copy">Kopiraj</string>
-  <string name="argusos_settings_import_reset">Nastavitve Morphe</string>
+  <string name="argusos_settings_import_reset">Nastavitve ArgusOS</string>
   <string name="argusos_settings_import_success">Uvožene %d nastavitve</string>
   <string name="argusos_settings_import_failure_parse">Uvoz je spodletel: %s</string>
   <string name="argusos_settings_search_hint">Iskanje nastavitev</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Zgodovina iskanj je prazna</string>
   <string name="argusos_settings_search_empty_history_summary">Če želite shraniti zgodovino iskanj, vnesite iskalno poizvedbo in pritisnite Enter</string>
   <string name="argusos_settings_search_history_title">Prikaži zgodovino iskanj nastavitev</string>
-  <string name="argusos_show_menu_icons_title">Prikaži ikone nastavitev Morphe</string>
-  <string name="argusos_language_title">Jezik Morphe</string>
+  <string name="argusos_show_menu_icons_title">Prikaži ikone nastavitev ArgusOS</string>
+  <string name="argusos_language_title">Jezik ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Prevodi za nekatere jezike morda manjkajo ali so nepopolni.
 
-Za prevajanje novih jezikov ali izboljšanje že obstoječih prevodov obiščite morphe.software/translate"</string>
+Za prevajanje novih jezikov ali izboljšanje že obstoječih prevodov obiščite argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Jezik aplikacije</string>
   <string name="argusos_pref_import_export_title">Uvozi/Izvozi</string>
-  <string name="argusos_pref_import_export_summary">Uvozi/Izvozi nastavitve Morphe</string>
+  <string name="argusos_pref_import_export_summary">Uvozi/Izvozi nastavitve ArgusOS</string>
   <string name="argusos_settings_import_file">Uvozi iz datoteke</string>
   <string name="argusos_settings_import_file_success">Nastavitve so bile uspešno uvožene, za uporabo kliknite Shrani</string>
   <string name="argusos_settings_import_file_failed">Uvoz nastavitev je spodletel</string>
@@ -63,8 +63,8 @@ Za prevajanje novih jezikov ali izboljšanje že obstoječih prevodov obiščite
   <string name="argusos_settings_export_file_success">Nastavitve so bile uspešno izvožene</string>
   <string name="argusos_settings_export_file_failed">Izvoz nastavitev je spodletel</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Uporabljate najnovejšo različico Morphe popravkov &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Uporabljate različico Morphe popravkov &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Na voljo je posodobitev: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za posodobitev popravkov uporabite Morphe za ponovno popravljanje te aplikacije</string>
+  <string name="argusos_settings_about_links_body_version_current">Uporabljate najnovejšo različico ArgusOS popravkov &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Uporabljate različico ArgusOS popravkov &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Na voljo je posodobitev: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za posodobitev popravkov uporabite ArgusOS za ponovno popravljanje te aplikacije</string>
   <string name="argusos_settings_about_links_dev_header">Opomba</string>
   <string name="argusos_settings_about_links_dev_body">Ta različica je pred-različica in vam lahko povzroči nepričakovane težave</string>
   <string name="argusos_settings_about_links_header">Uradne povezave</string>
@@ -88,12 +88,12 @@ Za prevajanje novih jezikov ali izboljšanje že obstoječih prevodov obiščite
   <string name="argusos_debug_title">Omogoči beleženje napak</string>
   <string name="argusos_debug_stacktrace_title">Sledi / sporočila o napakah</string>
   <string name="argusos_debug_stacktrace_summary">Vključuje sledove zlaganja v dnevnike zapisov napak za lažjo ugotovitev napak</string>
-  <string name="argusos_debug_toast_on_error_title">Prikaži pojavno okno z napako Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Onemogočanje pojavnih oken z napakami skrije vsa obvestila o napakah Morphe.
+  <string name="argusos_debug_toast_on_error_title">Prikaži pojavno okno z napako ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Onemogočanje pojavnih oken z napakami skrije vsa obvestila o napakah ArgusOS.
 
 Pričakujete dogodke."</string>
   <string name="argusos_debug_export_logs_title">Izvozi strežilnik za hrošče</string>
-  <string name="argusos_debug_export_logs_summary">Izvozi strežilnik za hrošče Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Izvozi strežilnik za hrošče ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Izvozi v datoteko</string>
   <string name="argusos_debug_export_logs_success">Strežilnik za hrošče je bil uspešno izvožen</string>
   <string name="argusos_debug_export_logs_failed">Izvoz strežilnika za hrošče je spodletel</string>

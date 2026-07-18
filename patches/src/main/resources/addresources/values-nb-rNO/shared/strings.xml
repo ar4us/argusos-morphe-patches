@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importer</string>
   <string name="argusos_settings_import_copy">Kopier</string>
-  <string name="argusos_settings_import_reset">Morphe-innstillinger tilbakestilt til standard</string>
+  <string name="argusos_settings_import_reset">ArgusOS-innstillinger tilbakestilt til standard</string>
   <string name="argusos_settings_import_success">Importerte %d innstillinger</string>
   <string name="argusos_settings_import_failure_parse">Import mislyktes: %s</string>
   <string name="argusos_settings_search_hint">Søk i innstillinger</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Søkehistorikken er tom</string>
   <string name="argusos_settings_search_empty_history_summary">For å lagre søkehistorikk, skriv inn et søkekriterium og trykk Enter</string>
   <string name="argusos_settings_search_history_title">Vis innstillingssøkehistorikk</string>
-  <string name="argusos_show_menu_icons_title">Vis Morphe-innstillingsikoner</string>
-  <string name="argusos_language_title">Morphe språk</string>
+  <string name="argusos_show_menu_icons_title">Vis ArgusOS-innstillingsikoner</string>
+  <string name="argusos_language_title">ArgusOS språk</string>
   <string name="argusos_language_user_dialog_message">"Oversettelser for noen språk kan mangle eller være ufullstendige.
 
-For å oversette nye språk eller forbedre de eksisterende oversettelsene, besøk morphe.software/translate"</string>
+For å oversette nye språk eller forbedre de eksisterende oversettelsene, besøk argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Appspråk</string>
   <string name="argusos_pref_import_export_title">Importer / Eksporter</string>
-  <string name="argusos_pref_import_export_summary">Importer / Eksporter Morphe-innstillinger</string>
+  <string name="argusos_pref_import_export_summary">Importer / Eksporter ArgusOS-innstillinger</string>
   <string name="argusos_settings_import_file">Importer fra fil</string>
   <string name="argusos_settings_import_file_success">Innstillinger importert, trykk Lagre for å bruke</string>
   <string name="argusos_settings_import_file_failed">Importering av innstillinger mislyktes</string>
@@ -63,8 +63,8 @@ For å oversette nye språk eller forbedre de eksisterende oversettelsene, besø
   <string name="argusos_settings_export_file_success">Innstillinger eksportert vellykket</string>
   <string name="argusos_settings_export_file_failed">Eksportering av innstillinger mislyktes</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Du bruker den nyeste Morphe Patches-versjonen &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Du bruker Morphe Patches-versjon &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Oppdatering tilgjengelig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;For å oppdatere patchene, bruk Morphe til å patche denne appen på nytt</string>
+  <string name="argusos_settings_about_links_body_version_current">Du bruker den nyeste ArgusOS Patches-versjonen &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Du bruker ArgusOS Patches-versjon &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Oppdatering tilgjengelig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;For å oppdatere patchene, bruk ArgusOS til å patche denne appen på nytt</string>
   <string name="argusos_settings_about_links_dev_header">Merk</string>
   <string name="argusos_settings_about_links_dev_body">Denne versjonen er en forhåndsutgivelse, og du kan oppleve uventede problemer</string>
   <string name="argusos_settings_about_links_header">Offisielle lenker</string>
@@ -88,12 +88,12 @@ For å oversette nye språk eller forbedre de eksisterende oversettelsene, besø
   <string name="argusos_debug_title">Aktiver feilsøkingslogging</string>
   <string name="argusos_debug_stacktrace_title">Feilsøkingslogg stakkspor</string>
   <string name="argusos_debug_stacktrace_summary">Inkluderer stakksporing i feilsøkingslogger for å hjelpe med å identifisere feil</string>
-  <string name="argusos_debug_toast_on_error_title">Vis toast ved Morphe-feil</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Å slå av feilmeldinger skjuler alle Morphe-feilmeldinger.
+  <string name="argusos_debug_toast_on_error_title">Vis toast ved ArgusOS-feil</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Å slå av feilmeldinger skjuler alle ArgusOS-feilmeldinger.
 
 Du vil ikke bli varslet om uventede hendelser."</string>
   <string name="argusos_debug_export_logs_title">Eksporter feilsøkingslogger</string>
-  <string name="argusos_debug_export_logs_summary">Eksporter Morphe-feilsøkingslogger</string>
+  <string name="argusos_debug_export_logs_summary">Eksporter ArgusOS-feilsøkingslogger</string>
   <string name="argusos_debug_export_logs_file">Eksporter til fil</string>
   <string name="argusos_debug_export_logs_success">Feilsøkingslogger eksportert vellykket</string>
   <string name="argusos_debug_export_logs_failed">Eksportering av feilsøkingslogger mislyktes</string>

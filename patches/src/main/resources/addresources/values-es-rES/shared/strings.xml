@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importar</string>
   <string name="argusos_settings_import_copy">Copiar</string>
-  <string name="argusos_settings_import_reset">Ajustes de Morphe restablecidos a los valores predeterminados</string>
+  <string name="argusos_settings_import_reset">Ajustes de ArgusOS restablecidos a los valores predeterminados</string>
   <string name="argusos_settings_import_success">Configuración importada de %d</string>
   <string name="argusos_settings_import_failure_parse">Importación fallida: %s</string>
   <string name="argusos_settings_search_hint">Buscar ajustes</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">El historial de búsqueda está vacío</string>
   <string name="argusos_settings_search_empty_history_summary">Para guardar el historial de búsqueda, escribe una consulta de búsqueda y pulsa Enter</string>
   <string name="argusos_settings_search_history_title">Mostrar el historial de búsqueda de ajustes</string>
-  <string name="argusos_show_menu_icons_title">Mostrar iconos de configuración de Morphe</string>
-  <string name="argusos_language_title">Idioma de Morphe</string>
+  <string name="argusos_show_menu_icons_title">Mostrar iconos de configuración de ArgusOS</string>
+  <string name="argusos_language_title">Idioma de ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Las traducciones para algunos idiomas pueden faltar o estar incompletas.
 
-Para traducir nuevos idiomas o mejorar las traducciones existentes, visita morphe.software/translate"</string>
+Para traducir nuevos idiomas o mejorar las traducciones existentes, visita argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Idioma de la aplicación</string>
   <string name="argusos_pref_import_export_title">Importar / Exportar</string>
-  <string name="argusos_pref_import_export_summary">Importar / Exportar ajustes de Morphe</string>
+  <string name="argusos_pref_import_export_summary">Importar / Exportar ajustes de ArgusOS</string>
   <string name="argusos_settings_import_file">Importar desde archivo</string>
   <string name="argusos_settings_import_file_success">Ajustes importados correctamente, pulse \"Guardar\" para aplicar</string>
   <string name="argusos_settings_import_file_failed">Error al importar los ajustes</string>
@@ -63,8 +63,8 @@ Para traducir nuevos idiomas o mejorar las traducciones existentes, visita morph
   <string name="argusos_settings_export_file_success">Ajustes exportados correctamente</string>
   <string name="argusos_settings_export_file_failed">Error al exportar los ajustes</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Estás usando la última versión de Morphe Patches: &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Estás usando la versión de Morphe Patches: &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Actualización disponible: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Para actualizar tus parches, usa Morphe para volver a aplicar esta aplicación</string>
+  <string name="argusos_settings_about_links_body_version_current">Estás usando la última versión de ArgusOS Patches: &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Estás usando la versión de ArgusOS Patches: &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Actualización disponible: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Para actualizar tus parches, usa ArgusOS para volver a aplicar esta aplicación</string>
   <string name="argusos_settings_about_links_dev_header">Nota</string>
   <string name="argusos_settings_about_links_dev_body">Esta versión es preliminar y podrías experimentar problemas inesperados</string>
   <string name="argusos_settings_about_links_header">Enlaces oficiales</string>
@@ -88,12 +88,12 @@ Para traducir nuevos idiomas o mejorar las traducciones existentes, visita morph
   <string name="argusos_debug_title">Registro de depuración</string>
   <string name="argusos_debug_stacktrace_title">Registro de depuración de la traza de pila</string>
   <string name="argusos_debug_stacktrace_summary">Incluye rastreos de pila en los registros de depuración para ayudar a identificar errores</string>
-  <string name="argusos_debug_toast_on_error_title">Mostrar aviso de error en Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Desactivar los avisos de error oculta todas las notificaciones de error de Morphe.
+  <string name="argusos_debug_toast_on_error_title">Mostrar aviso de error en ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Desactivar los avisos de error oculta todas las notificaciones de error de ArgusOS.
 
 No se le notificará de ningún evento inesperado."</string>
   <string name="argusos_debug_export_logs_title">Exportar registros de depuración</string>
-  <string name="argusos_debug_export_logs_summary">Exportar registros de depuración de Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Exportar registros de depuración de ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Exportar a archivo</string>
   <string name="argusos_debug_export_logs_success">Registros de depuración exportados correctamente</string>
   <string name="argusos_debug_export_logs_failed">Error al exportar los registros de depuración</string>

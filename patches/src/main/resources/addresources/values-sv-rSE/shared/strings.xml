@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importera</string>
   <string name="argusos_settings_import_copy">Kopiera</string>
-  <string name="argusos_settings_import_reset">Morphe-inställningarna återställdes till standard</string>
+  <string name="argusos_settings_import_reset">ArgusOS-inställningarna återställdes till standard</string>
   <string name="argusos_settings_import_success">Importerade %d inställningar</string>
   <string name="argusos_settings_import_failure_parse">Importen misslyckades: %s</string>
   <string name="argusos_settings_search_hint">Sök i inställningar</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Sökhistoriken är tom</string>
   <string name="argusos_settings_search_empty_history_summary">Om du vill spara sökhistorik, skriv en sökfråga och tryck på Retur</string>
   <string name="argusos_settings_search_history_title">Visa sökhistorik för inställningar</string>
-  <string name="argusos_show_menu_icons_title">Visa ikoner för Morphe-inställningar</string>
-  <string name="argusos_language_title">Språk för Morphe</string>
+  <string name="argusos_show_menu_icons_title">Visa ikoner för ArgusOS-inställningar</string>
+  <string name="argusos_language_title">Språk för ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Översättningar till vissa språk kan vara ofullständiga eller saknas.
 
-Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök morphe.software/translate"</string>
+Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Appspråk</string>
   <string name="argusos_pref_import_export_title">Importera/exportera</string>
-  <string name="argusos_pref_import_export_summary">Importera/exportera Morphe-inställningar</string>
+  <string name="argusos_pref_import_export_summary">Importera/exportera ArgusOS-inställningar</string>
   <string name="argusos_settings_import_file">Importera från fil</string>
   <string name="argusos_settings_import_file_success">Inställningarna har importerats. Tryck på Spara för att verkställa</string>
   <string name="argusos_settings_import_file_failed">Det gick inte att importera inställningarna</string>
@@ -63,8 +63,8 @@ Om du vill översätta till nya språk eller förbättra befintliga översättni
   <string name="argusos_settings_export_file_success">Inställningarna har exporterats</string>
   <string name="argusos_settings_export_file_failed">Det gick inte att exportera inställningarna</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Du använder den senaste Morphe Patches-versionen &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Du använder Morphe Patches-versionen &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Uppdatering är tillgänglig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om du vill uppdatera dina tillägg använder du Morphe för att modifiera den här appen igen</string>
+  <string name="argusos_settings_about_links_body_version_current">Du använder den senaste ArgusOS Patches-versionen &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Du använder ArgusOS Patches-versionen &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Uppdatering är tillgänglig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om du vill uppdatera dina tillägg använder du ArgusOS för att modifiera den här appen igen</string>
   <string name="argusos_settings_about_links_dev_header">Obs!</string>
   <string name="argusos_settings_about_links_dev_body">Den här versionen är en förhandsversion och du kan uppleva oväntade problem</string>
   <string name="argusos_settings_about_links_header">Officiella länkar</string>
@@ -88,12 +88,12 @@ Om du vill översätta till nya språk eller förbättra befintliga översättni
   <string name="argusos_debug_title">Aktivera felsökningsloggning</string>
   <string name="argusos_debug_stacktrace_title">Stackspårning i felsökningsloggar</string>
   <string name="argusos_debug_stacktrace_summary">Inkluderar stackspårning i felsökningsloggarna för att underlätta identifieringen av fel</string>
-  <string name="argusos_debug_toast_on_error_title">Visa ett popup-meddelande om det uppstår fel med Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Om du stänger av popup-felmeddelanden döljs alla Morphe-felmeddelanden.
+  <string name="argusos_debug_toast_on_error_title">Visa ett popup-meddelande om det uppstår fel med ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Om du stänger av popup-felmeddelanden döljs alla ArgusOS-felmeddelanden.
 
 Du kommer inte att bli meddelad om oväntade händelser."</string>
   <string name="argusos_debug_export_logs_title">Exportera felsökningsloggar</string>
-  <string name="argusos_debug_export_logs_summary">Exportera Morphe-felsökningsloggar</string>
+  <string name="argusos_debug_export_logs_summary">Exportera ArgusOS-felsökningsloggar</string>
   <string name="argusos_debug_export_logs_file">Exportera till fil</string>
   <string name="argusos_debug_export_logs_success">Felsökningsloggar har exporterats</string>
   <string name="argusos_debug_export_logs_failed">Det gick inte att exportera felsökningsloggar</string>

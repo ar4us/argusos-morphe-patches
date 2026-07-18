@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">A proposito di</string>
   <string name="argusos_settings_screen_01_ads_title">Annunci</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Miniature alternative</string>
@@ -418,7 +418,7 @@ Avviso: Potrebbe non funzionare sui video in diretta"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Scambia le azioni Salva e Metti in coda</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Tocca per le opzioni di accodamento, tieni premuto per salvare per guardare più tardi</string>
   <string name="argusos_queue_override_flyout_menu_title">Sostituisci pulsante coda riepilogo feed</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Apre la coda di Morphe invece della coda di YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Apre la coda di ArgusOS invece della coda di YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Non connesso</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">ID playlist non trovato</string>
   <string name="argusos_queue_manager_check_failed_queue">Coda vuota</string>
@@ -432,7 +432,7 @@ Avviso: Potrebbe non funzionare sui video in diretta"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Coda creata</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Rimosso dalla coda</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Coda salvata in %s</string>
-  <string name="argusos_queue_manager_playlist_title">Coda di Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Coda di ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Aggiungi alla coda</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Aggiungi alla coda e apri</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Aggiungi alla coda e riproduci</string>
@@ -622,7 +622,7 @@ Nota: se 'Spoof video streams' non è abilitato, l'abilitazione di questa funzio
   <string name="argusos_show_settings_button_title">Mostra il pulsante Impostazioni</string>
   <string name="argusos_show_settings_button_index_title">Posizione del pulsante Impostazioni</string>
   <string name="argusos_show_settings_button_type_title">Azione pulsante Impostazioni</string>
-  <string name="argusos_show_settings_button_type_summary">Apre le impostazioni di Morphe quando abilitato, o le impostazioni di YouTube quando disabilitato</string>
+  <string name="argusos_show_settings_button_type_summary">Apre le impostazioni di ArgusOS quando abilitato, o le impostazioni di YouTube quando disabilitato</string>
   <string name="argusos_swap_create_with_notifications_button_title">Scambia il pulsante Crea con il pulsante Notifiche</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Se il cambiamento di questa impostazione non ha effetto, prova a passare alla modalità Incognito</string>
   <string name="argusos_hide_navigation_button_labels_title">Nascondi etichette dei pulsanti di navigazione</string>
@@ -656,7 +656,7 @@ Per accedere alle Impostazioni, attiva il pulsante Impostazioni tramite Generale
   <string name="argusos_show_toolbar_settings_button_title">Mostra il pulsante Impostazioni</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Posizione del pulsante Impostazioni</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Azione del pulsante Impostazioni</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Quando abilitato, un tocco apre le impostazioni di Morphe e una pressione prolungata apre le impostazioni di YouTube. Disattiva per scambiare</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Quando abilitato, un tocco apre le impostazioni di ArgusOS e una pressione prolungata apre le impostazioni di YouTube. Disattiva per scambiare</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menù a comparsa</string>
   <string name="argusos_hide_player_flyout_summary">Scegli quali componenti mostrare nel menù a comparsa</string>
@@ -840,7 +840,7 @@ Impostazioni → Riproduzione (o Autoplay) → Riproduci il video successivo aut
   <string name="argusos_ryd_attribution_summary">"I dati sono forniti dall'API Return YouTube Dislike
 
 Tocca qui per aprire ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistiche dell\'API di ReturnYouTubeDislike per questo dispositivo</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Tempo di risposta dell\'API, media</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Tempo di risposta dell\'API, minimo</string>

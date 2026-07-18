@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Tungkol</string>
   <string name="argusos_settings_screen_01_ads_title">Patalastas</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Mga alternatibong thumbnail</string>
@@ -418,7 +418,7 @@ Impormasyon: Maaaring hindi gumana sa mga live stream"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Palitan ang Save at Queue na aksyon</string>
   <string name="argusos_swap_save_and_queue_actions_summary">I-tap para sa mga opsyon sa queue, i-tap at pindutin nang matagal para i-save para mapanood mamaya</string>
   <string name="argusos_queue_override_flyout_menu_title">Palitan ang pila ng feed flyout na buton</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Binubuksan ang pila ng Morphe sa halip na ang pila ng YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Binubuksan ang pila ng ArgusOS sa halip na ang pila ng YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Hindi naka-log in</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Walang ID ng playlist</string>
   <string name="argusos_queue_manager_check_failed_queue">Walang laman ang queue</string>
@@ -432,7 +432,7 @@ Impormasyon: Maaaring hindi gumana sa mga live stream"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Nagawa ang queue</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Inalis sa queue</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Na-save ang queue sa %s</string>
-  <string name="argusos_queue_manager_playlist_title">Pilang Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Pilang ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Idagdag sa queue</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Idagdag sa queue at buksan</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Idagdag sa queue at i-play</string>
@@ -622,7 +622,7 @@ Kinakailangan na ibigay ang 'Caption cookies'"</string>
   <string name="argusos_show_settings_button_title">Ipakita ang Settings button</string>
   <string name="argusos_show_settings_button_index_title">Posisyon ng Settings button</string>
   <string name="argusos_show_settings_button_type_title">Aksyon ng buton ng Mga Setting</string>
-  <string name="argusos_show_settings_button_type_summary">Binubuksan ang Morphe settings kapag naka-enable, o YouTube settings kapag naka-disable</string>
+  <string name="argusos_show_settings_button_type_summary">Binubuksan ang ArgusOS settings kapag naka-enable, o YouTube settings kapag naka-disable</string>
   <string name="argusos_swap_create_with_notifications_button_title">Pagpalitin ang button na Create sa button na Notifications</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Kung ang pagbabago sa setting na ito ay hindi magkaroon ng epekto, subukang lumipat sa Incognito mode.</string>
   <string name="argusos_hide_navigation_button_labels_title">Itago ang mga tatak ng navigation button</string>
@@ -656,7 +656,7 @@ Upang ma-access ang Settings, i-enable ang Settings button sa pamamagitan ng Gen
   <string name="argusos_show_toolbar_settings_button_title">Ipakita ang Settings button</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Posisyon ng Settings button</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Aksyon ng buton ng Mga Setting</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Kapag naka-enable, ang pag-tap ay bubukas sa Morphe settings at ang mahabang pagpindot ay bubukas sa YouTube settings, i-disable para pagbaliktarin</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Kapag naka-enable, ang pag-tap ay bubukas sa ArgusOS settings at ang mahabang pagpindot ay bubukas sa YouTube settings, i-disable para pagbaliktarin</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Flyout menu</string>
   <string name="argusos_hide_player_flyout_summary">Itago ang \'Audio Track\' menu</string>
@@ -669,7 +669,7 @@ Upang ma-access ang Settings, i-enable ang Settings button sa pamamagitan ng Gen
 Upang ipakita ang menu ng 'Audio Track', palitan ang 'Spoof video streams' sa 'Android Reel' o 'TV'"</string>
   <string name="argusos_hide_player_flyout_audio_track_footer_title">Ang address na ginagamit ng SponsorBlock para gumawa ng mga tawag sa server</string>
   <!-- 'Captions' should be translated using the same localized wording YouTube displays for the menu item. -->
-  <string name="argusos_hide_player_flyout_captions_title">Ang iyong configuration ng SponsorBlock JSON na maaaring i-import / i-export sa Morphe at iba pang mga platform ng SponsorBlock</string>
+  <string name="argusos_hide_player_flyout_captions_title">Ang iyong configuration ng SponsorBlock JSON na maaaring i-import / i-export sa ArgusOS at iba pang mga platform ng SponsorBlock</string>
   <string name="argusos_hide_player_flyout_captions_footer_title">Itago ang footer ng menu ng Captions</string>
   <string name="argusos_hide_player_flyout_captions_header_title">Itago ang Captions menu header</string>
   <!-- 'Additional settings / More' should be translated using the same localized wording YouTube displays for the menu item. -->
@@ -840,7 +840,7 @@ Mga Setting → Playback (o Autoplay) → Autoplay ng susunod na video."</string
   <string name="argusos_ryd_attribution_summary">"Ang datos ay ibinibigay ng Return YouTube Dislike API
 
 I-tap dito upang buksan ang ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike API statistics ng device na ito</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Oras ng tugon ng API, average</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Oras ng tugon ng API, minimum</string>

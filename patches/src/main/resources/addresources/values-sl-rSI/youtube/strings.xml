@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">O nas</string>
   <string name="argusos_settings_screen_01_ads_title">Oglasi</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternativni predogledi</string>
@@ -416,7 +416,7 @@ Opozorilo: morda ne deluje na prenosih v živo"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Zamenjaj shranjevanje in možnosti vrste v čakalnico</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Dotaknite se za možnosti vrste v čakalnico, dotaknite se in pridržite za shranjevanje za ogled pozneje</string>
   <string name="argusos_queue_override_flyout_menu_title">Gumb za nadomestitev vrste vrstičnega menija</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Odpre vrsto Morphe namesto vrste YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Odpre vrsto ArgusOS namesto vrste YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Ni prijavljen</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Manjkajoč ID predvajalnega seznama</string>
   <string name="argusos_queue_manager_check_failed_queue">Vrsta je prazna</string>
@@ -430,7 +430,7 @@ Opozorilo: morda ne deluje na prenosih v živo"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Vrsta je ustvarjena</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Odstranjeno iz vrste</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Vrsta je shranjena v %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe vrstica</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS vrstica</string>
   <string name="argusos_queue_manager_add_to_queue">Dodaj v vrsto</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Dodaj v vrsto in odpri</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Dodaj v vrsto in predvajaj</string>
@@ -616,7 +616,7 @@ Potrebno je vnesti 'piškotke za podnapise'"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="argusos_hide_notifications_button_title">Prikaži gumb za nastavitve</string>
   <string name="argusos_show_search_button_title">Položaj gumba za nastavitve</string>
-  <string name="argusos_show_search_button_index_title">Ko je omogočeno, se ob tapkanju odprejo nastavitve Morphe, ko pa je onemogočeno, se odprejo nastavitve YouTube</string>
+  <string name="argusos_show_search_button_index_title">Ko je omogočeno, se ob tapkanju odprejo nastavitve ArgusOS, ko pa je onemogočeno, se odprejo nastavitve YouTube</string>
   <string name="argusos_show_settings_button_title">Zmanjša horizontalni razmak med gumbi</string>
   <string name="argusos_show_settings_button_index_title">Animira prehode pri preklapljanju med zavihki</string>
   <string name="argusos_show_settings_button_type_title">Akcija gumba Nastavitve</string>
@@ -654,7 +654,7 @@ Za dostop do Nastavitev omogočite gumb Nastavitve prek Splošno → Vrstica →
   <string name="argusos_show_toolbar_settings_button_title">Pokaži gumb za nastavitve</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Položaj gumba za nastavitve</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Akcija gumba Nastavitve</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Ko je omogočeno, tapnite za odprtje nastavitev Morphe in dolg pritisk za odprtje nastavitve YouTube. Izklopite za zamenjavo</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Ko je omogočeno, tapnite za odprtje nastavitev ArgusOS in dolg pritisk za odprtje nastavitve YouTube. Izklopite za zamenjavo</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menijski izmen</string>
   <string name="argusos_hide_player_flyout_summary">Izberite, katere komponente se bodo pojavile v pojavnem meniju</string>
@@ -838,7 +838,7 @@ Nastavitve → Predvajanje (ali Samodejno predvajanje) → Samodejno predvajanje
   <string name="argusos_ryd_attribution_summary">"Podatke zagotavlja API za vrnitev všečkov YouTube
 
 Tapnite tukaj, da odprete ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistika naprave za Return YouTube Dislike</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Čas odziva API, povprečen</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Čas odziva API, minimum</string>

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 <resources>
     <!-- misc.settings.settingsPatch -->
 
-    <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+    <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
     <string name="argusos_settings_screen_00_about_title">About</string>
     <string name="argusos_settings_screen_01_ads_title">Ads</string>
     <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternative thumbnails</string>
@@ -461,7 +461,7 @@ Info: May not work on live streams"</string>
     <string name="argusos_swap_save_and_queue_actions_title">Swap Save and Queue actions</string>
     <string name="argusos_swap_save_and_queue_actions_summary">Tap for queue options, tap and hold to save to watch later</string>
     <string name="argusos_queue_override_flyout_menu_title">Override feed flyout queue button</string>
-    <string name="argusos_queue_override_flyout_menu_summary">Opens the Morphe queue instead of the YouTube queue</string>
+    <string name="argusos_queue_override_flyout_menu_summary">Opens the ArgusOS queue instead of the YouTube queue</string>
     <string name="argusos_queue_manager_check_failed_auth">Not logged in</string>
     <string name="argusos_queue_manager_check_failed_playlist_id">No playlist ID</string>
     <string name="argusos_queue_manager_check_failed_queue">Queue is empty</string>
@@ -475,7 +475,7 @@ Info: May not work on live streams"</string>
     <string name="argusos_queue_manager_fetch_succeeded_create">Queue created</string>
     <string name="argusos_queue_manager_fetch_succeeded_remove">Removed from queue</string>
     <string name="argusos_queue_manager_fetch_succeeded_save">Queue saved to %s</string>
-    <string name="argusos_queue_manager_playlist_title">Morphe Queue</string>
+    <string name="argusos_queue_manager_playlist_title">ArgusOS Queue</string>
     <string name="argusos_queue_manager_add_to_queue">Add to queue</string>
     <string name="argusos_queue_manager_add_to_queue_and_open_queue">Add to queue and open</string>
     <string name="argusos_queue_manager_add_to_queue_and_play_video">Add to queue and play</string>
@@ -679,7 +679,7 @@ Note: If \'Spoof video streams\' is not enabled, enabling this may cause unexpec
     <string name="argusos_show_settings_button_title">Show Settings button</string>
     <string name="argusos_show_settings_button_index_title">Settings button position</string>
     <string name="argusos_show_settings_button_type_title">Settings button action</string>
-    <string name="argusos_show_settings_button_type_summary">Opens Morphe settings when enabled, or YouTube settings when disabled</string>
+    <string name="argusos_show_settings_button_type_summary">Opens ArgusOS settings when enabled, or YouTube settings when disabled</string>
     <string name="argusos_swap_create_with_notifications_button_title">Swap Create button with Notifications button</string>
     <string name="argusos_swap_create_with_notifications_button_summary">If changing this setting does not take effect, try switching to Incognito mode</string>
     <string name="argusos_hide_navigation_button_labels_title">Hide navigation button labels</string>
@@ -714,7 +714,7 @@ To access Settings, enable the Settings button via General → Toolbar → Show 
     <string name="argusos_show_toolbar_settings_button_title">Show Settings button</string>
     <string name="argusos_show_toolbar_settings_button_index_title">Settings button position</string>
     <string name="argusos_show_toolbar_settings_button_type_title">Settings button action</string>
-    <string name="argusos_show_toolbar_settings_button_type_summary">When enabled, tap opens Morphe settings and long press opens YouTube settings, disable to swap</string>
+    <string name="argusos_show_toolbar_settings_button_type_summary">When enabled, tap opens ArgusOS settings and long press opens YouTube settings, disable to swap</string>
 
     <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
     <string name="argusos_hide_player_flyout_title">Flyout menu</string>
@@ -918,7 +918,7 @@ Settings → Playback (or Autoplay) → Autoplay next video"</string>
     <string name="argusos_ryd_attribution_summary">"Data is provided by the Return YouTube Dislike API
 
 Tap here to open ReturnYouTubeDislike.com"</string>
-    <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+    <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
     <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike API statistics of this device</string>
     <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API response time, average</string>
     <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API response time, minimum</string>
@@ -1071,8 +1071,8 @@ Limitation: If 'Restore old video action bar' is turned off, 'More videos' overl
     <string name="argusos_seekbar_custom_color_invalid">Invalid seekbar color value</string>
 
     <!-- layout.branding.customBrandingPatch -->
-    <string name="argusos_custom_branding_name_entry_2" translatable="false">YouTube Morphe</string>
-    <string name="argusos_custom_branding_name_entry_3" translatable="false">YT Morphe</string>
+    <string name="argusos_custom_branding_name_entry_2" translatable="false">YouTube ArgusOS</string>
+    <string name="argusos_custom_branding_name_entry_3" translatable="false">YT ArgusOS</string>
     <string name="argusos_custom_branding_name_entry_4" translatable="false">YT</string>
 
     <!-- layout.branding.header.changeHeaderPatch -->
@@ -1080,7 +1080,7 @@ Limitation: If 'Restore old video action bar' is turned off, 'More videos' overl
     <string name="argusos_header_logo_entry_1">Default</string>
     <string name="argusos_header_logo_entry_2">Regular</string>
     <string name="argusos_header_logo_entry_3" translatable="false">Premium</string>
-    <string name="argusos_header_logo_entry_4" translatable="false">Morphe</string>
+    <string name="argusos_header_logo_entry_4" translatable="false">ArgusOS</string>
     <!-- Translations should match the language used in 'argusos_custom_branding_icon_entry_3'. -->
     <string name="argusos_header_logo_entry_5">Custom</string>
 
@@ -1124,7 +1124,7 @@ Tap here to open DeArrow.ajay.app"</string>
     <string name="argusos_alt_thumbnail_dearrow_error_generic">DeArrow is temporarily not available</string>
 
     <!-- misc.announcements.announcementsPatch -->
-    <string name="argusos_announcements_title" translatable="false">Show Morphe announcements</string>
+    <string name="argusos_announcements_title" translatable="false">Show ArgusOS announcements</string>
     <string name="argusos_announcements_enabled_summary" translatable="false">Show announcements on startup</string>
     <string name="argusos_announcements_connection_failed" translatable="false">Failed connecting to announcements provider</string>
     <string name="argusos_announcements_dialog_dismiss" translatable="false">Dismiss</string>

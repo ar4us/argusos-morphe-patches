@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">O aplikaci</string>
   <string name="argusos_settings_screen_01_ads_title">Reklamy</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternativní náhledy</string>
@@ -418,7 +418,7 @@ Upozornění: Možná nebude fungovat u živých přenosů"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Prohoďte akce Uložit a Zařadit do fronty</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Klepnutím zobrazíte možnosti fronty, podržením uložíte pro pozdější zhlédnutí</string>
   <string name="argusos_queue_override_flyout_menu_title">Přepsat frontu flyout nabídky</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Otevře frontu Morphe místo fronty YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Otevře frontu ArgusOS místo fronty YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Není přihlášen</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Není ID seznamu přehrávání</string>
   <string name="argusos_queue_manager_check_failed_queue">Fronta je prázdná</string>
@@ -432,7 +432,7 @@ Upozornění: Možná nebude fungovat u živých přenosů"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Fronta vytvořena</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Odebráno z fronty</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Fronta uložena do %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe fronta</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS fronta</string>
   <string name="argusos_queue_manager_add_to_queue">Přidat do fronty</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Přidat do fronty a otevřít</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Přidat do fronty a přehrát</string>
@@ -618,7 +618,7 @@ Je třeba zadat ‚Soubory cookie s titulky‘"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="argusos_hide_notifications_button_title">Zobrazit tlačítko Nastavení</string>
   <string name="argusos_show_search_button_title">Pozice tlačítka Nastavení</string>
-  <string name="argusos_show_search_button_index_title">Při povolení klepnutím otevřete nastavení Morphe a podržením nastavení YouTube, zakažte pro zaměnění</string>
+  <string name="argusos_show_search_button_index_title">Při povolení klepnutím otevřete nastavení ArgusOS a podržením nastavení YouTube, zakažte pro zaměnění</string>
   <string name="argusos_show_settings_button_title">Zmenšuje horizontální mezeru mezi tlačítky</string>
   <string name="argusos_show_settings_button_index_title">Animuje přechody při přepínání mezi kartami</string>
   <string name="argusos_show_settings_button_type_title">Akce tlačítka nastavení</string>
@@ -840,7 +840,7 @@ Nastavení → Přehrávání (nebo Automatické přehrávání) → Automaticky
   <string name="argusos_ryd_attribution_summary">"Data jsou poskytována rozhraním Return YouTube Dislike API
 
 Klepněte sem pro otevření ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistiky API Return YouTube Dislike tohoto zařízení</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Doba odezvy API, průměr</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Doba odezvy API, minimum</string>

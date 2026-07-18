@@ -87,7 +87,7 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">एपीआई यूआरएल बदला गया</string>
   <string name="argusos_sb_settings_ie_title">सेटिंग आयात / निर्यात करें</string>
   <string name="argusos_sb_settings_copy">कॉपी</string>
-  <string name="argusos_sb_settings_ie_summary">आपका SponsorBlock JSON कॉन्फ़िगरेशन जिसे Morphe और अन्य SponsorBlock प्लेटफ़ॉर्म पर आयात / निर्यात किया जा सकता है</string>
+  <string name="argusos_sb_settings_ie_summary">आपका SponsorBlock JSON कॉन्फ़िगरेशन जिसे ArgusOS और अन्य SponsorBlock प्लेटफ़ॉर्म पर आयात / निर्यात किया जा सकता है</string>
   <string name="argusos_sb_settings_ie_summary_warning">"आपका स्पोंसरब्लॉक JSON कॉन्फ़िगरेशन जिसे मोर्फे और अन्य स्पोंसरब्लॉक प्लेटफॉर्म पर आयात / निर्यात किया जा सकता है
 
 इसमें आपकी निजी उपयोगकर्ता आईडी शामिल है। सुनिश्चित करें कि आप इसे बुद्धिमानी से साझा करें"</string>

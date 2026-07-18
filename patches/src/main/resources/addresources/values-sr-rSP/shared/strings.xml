@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Увоз</string>
   <string name="argusos_settings_import_copy">Копирај</string>
-  <string name="argusos_settings_import_reset">Подешавања Morphe-а су враћена на подразумеване вредности</string>
+  <string name="argusos_settings_import_reset">Подешавања ArgusOS-а су враћена на подразумеване вредности</string>
   <string name="argusos_settings_import_success">Увезено %d подешавања</string>
   <string name="argusos_settings_import_failure_parse">Неуспешан увоз: %s</string>
   <string name="argusos_settings_search_hint">Претражите подешавања</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Историја претраге је празна</string>
   <string name="argusos_settings_search_empty_history_summary">Да бисте сачували историју претраге, унесите упит за претрагу и притисните Enter</string>
   <string name="argusos_settings_search_history_title">Прикажи историју претраге подешавања</string>
-  <string name="argusos_show_menu_icons_title">Прикажи иконице подешавања Morphe-а</string>
-  <string name="argusos_language_title">Језик Morphe-a</string>
+  <string name="argusos_show_menu_icons_title">Прикажи иконице подешавања ArgusOS-а</string>
+  <string name="argusos_language_title">Језик ArgusOS-a</string>
   <string name="argusos_language_user_dialog_message">"Преводи за неке језике могу недостајати или бити непотпуни.
 
-Да бисте превели нове језике или побољшали постојеће преводе, посетите morphe.software/translate"</string>
+Да бисте превели нове језике или побољшали постојеће преводе, посетите argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Језик апликације</string>
   <string name="argusos_pref_import_export_title">Увоз / Извоз</string>
-  <string name="argusos_pref_import_export_summary">Увоз / Извоз подешавања Morphe-а</string>
+  <string name="argusos_pref_import_export_summary">Увоз / Извоз подешавања ArgusOS-а</string>
   <string name="argusos_settings_import_file">Увоз из фајла</string>
   <string name="argusos_settings_import_file_success">Подешавања су успешно увезена, додирните Сачувај да бисте их применили</string>
   <string name="argusos_settings_import_file_failed">Неуспешан увоз подешавања</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">Успешно извезени подешавања</string>
   <string name="argusos_settings_export_file_failed">Неуспео извоз подешавања</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Користите последњу верзију Morphe печева &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Користите Morphe печеве верзије &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно је ажурирање: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Да бисте ажурирали печеве, користите Morphe да бисте поново закрпили ову апликацију</string>
+  <string name="argusos_settings_about_links_body_version_current">Користите последњу верзију ArgusOS печева &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Користите ArgusOS печеве верзије &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно је ажурирање: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Да бисте ажурирали печеве, користите ArgusOS да бисте поново закрпили ову апликацију</string>
   <string name="argusos_settings_about_links_dev_header">Напомена</string>
   <string name="argusos_settings_about_links_dev_body">Ова верзија је предиздање и можда ћете имати неочекиване проблеме</string>
   <string name="argusos_settings_about_links_header">Званични линкови</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">Евидентирање отклањања грешака</string>
   <string name="argusos_debug_stacktrace_title">Следење стека у логу дебјуговања</string>
   <string name="argusos_debug_stacktrace_summary">Укључује трагове стека у дневнике за отклањање грешака како би се помогло у идентификацији грешака</string>
-  <string name="argusos_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с Morphe-ом</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у Morphe-у.
+  <string name="argusos_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с ArgusOS-ом</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у ArgusOS-у.
 
 Нећете бити обавештени ни о каквим неочекиваним догађајима."</string>
   <string name="argusos_debug_export_logs_title">Извези евиденције отклањања грешака</string>
-  <string name="argusos_debug_export_logs_summary">Извези лог дебјуговања Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Извези лог дебјуговања ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Извези у датотеку</string>
   <string name="argusos_debug_export_logs_success">Лог дебјуговања успешно извезен</string>
   <string name="argusos_debug_export_logs_failed">Неуспео извоз логова дебјуговања</string>

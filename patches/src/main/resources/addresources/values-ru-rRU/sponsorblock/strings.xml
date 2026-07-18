@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL-адрес API изменен</string>
   <string name="argusos_sb_settings_ie_title">Резервное копирование настроек</string>
   <string name="argusos_sb_settings_copy">Копировать</string>
-  <string name="argusos_sb_settings_ie_summary">Ваша JSON конфигурация SponsorBlock, которая может быть импортирована или экспортирована в Morphe и другие платформы SponsorBlock</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Ваша конфигурация JSON SponsorBlock, которую можно импортировать/экспортировать в Morphe и другие платформы SponsorBlock.
+  <string name="argusos_sb_settings_ie_summary">Ваша JSON конфигурация SponsorBlock, которая может быть импортирована или экспортирована в ArgusOS и другие платформы SponsorBlock</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Ваша конфигурация JSON SponsorBlock, которую можно импортировать/экспортировать в ArgusOS и другие платформы SponsorBlock.
 
 В ней содержится ваш личный идентификатор пользователя. Будьте осторожны при ее распространении"</string>
   <string name="argusos_sb_settings_import_successful">Настройки успешно импортированы</string>

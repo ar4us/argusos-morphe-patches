@@ -28,7 +28,7 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">使用您选择的外部下载器，而非 YouTube Music 内置的下载功能</string>
   <string name="argusos_external_downloader_flyout_menu_title">覆盖下载菜单</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_music_screen_0_about_title">关于</string>
   <string name="argusos_settings_music_screen_1_ads_title">广告</string>
   <string name="argusos_settings_music_screen_2_general_title">通用</string>

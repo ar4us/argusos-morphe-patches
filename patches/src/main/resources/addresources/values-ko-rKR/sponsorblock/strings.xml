@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL을 변경하였습니다</string>
   <string name="argusos_sb_settings_ie_title">설정 가져오기 / 내보내기</string>
   <string name="argusos_sb_settings_copy">복사하기</string>
-  <string name="argusos_sb_settings_ie_summary">Morphe 및 다른 SponsorBlock 플랫폼에서 가져오거나 내보낼 수 있는 SponsorBlock JSON 설정 파일입니다</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Morphe 및 다른 SponsorBlock 플랫폼으로 가져오거나 내보낼 수 있는 SponsorBlock JSON 설정 파일입니다
+  <string name="argusos_sb_settings_ie_summary">ArgusOS 및 다른 SponsorBlock 플랫폼에서 가져오거나 내보낼 수 있는 SponsorBlock JSON 설정 파일입니다</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"ArgusOS 및 다른 SponsorBlock 플랫폼으로 가져오거나 내보낼 수 있는 SponsorBlock JSON 설정 파일입니다
     
 여기에는 개인 사용자 ID가 포함되어 있습니다. 이 정보를 공유하려면 주의하세요"</string>
   <string name="argusos_sb_settings_import_successful">설정을 성공적으로 가져왔습니다</string>

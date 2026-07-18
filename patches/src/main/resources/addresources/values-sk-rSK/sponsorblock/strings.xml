@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL sa zmenila</string>
   <string name="argusos_sb_settings_ie_title">Importovať / Exportovať nastavenia</string>
   <string name="argusos_sb_settings_copy">Kopírovať</string>
-  <string name="argusos_sb_settings_ie_summary">JSON konfigurácia SponsorBlocku, ktorú je možné importovať / exportovať do Morphe a iných SponsorBlock platforiem</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Vaša konfigurácia JSON pre SponsorBlock, ktorú je možné importovať / exportovať do Morphe a iných platforiem SponsorBlock
+  <string name="argusos_sb_settings_ie_summary">JSON konfigurácia SponsorBlocku, ktorú je možné importovať / exportovať do ArgusOS a iných SponsorBlock platforiem</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Vaša konfigurácia JSON pre SponsorBlock, ktorú je možné importovať / exportovať do ArgusOS a iných platforiem SponsorBlock
 
 Tieto informácie zahŕňajú aj vaše súkromné používateľské ID. Buďte pri jej zdieľaní opatrní"</string>
   <string name="argusos_sb_settings_import_successful">Nastavenia boli úspešne importované</string>

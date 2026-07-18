@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">आयात करा</string>
   <string name="argusos_settings_import_copy">कॉपी करा</string>
-  <string name="argusos_settings_import_reset">Morphe सेटिंग्ज डीफॉल्टवर रीसेट करा</string>
+  <string name="argusos_settings_import_reset">ArgusOS सेटिंग्ज डीफॉल्टवर रीसेट करा</string>
   <string name="argusos_settings_import_success">%d सेटिंग्ज आयात केले</string>
   <string name="argusos_settings_import_failure_parse">आयात अयशस्वी: %s</string>
   <string name="argusos_settings_search_hint">सेटिंग्ज शोधा</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">शोध इतिहास रिक्त आहे</string>
   <string name="argusos_settings_search_empty_history_summary">शोध इतिहास जतन करण्यासाठी, शोध क्वेरी टाइप करा आणि एंटर दाबा</string>
   <string name="argusos_settings_search_history_title">शोध इतिहास दर्शवा</string>
-  <string name="argusos_show_menu_icons_title">Morphe सेटिंग्ज चिन्ह दर्शवा</string>
-  <string name="argusos_language_title">Morphe भाषा</string>
+  <string name="argusos_show_menu_icons_title">ArgusOS सेटिंग्ज चिन्ह दर्शवा</string>
+  <string name="argusos_language_title">ArgusOS भाषा</string>
   <string name="argusos_language_user_dialog_message">"काही भाषांसाठी भाषांतर उपलब्ध नसू शकते किंवा अपूर्ण असू शकते.
 
-नवीन भाषांतर करण्यासाठी किंवा विद्यमान भाषांतरे सुधारण्यासाठी, morphe.software/translate ला भेट द्या"</string>
+नवीन भाषांतर करण्यासाठी किंवा विद्यमान भाषांतरे सुधारण्यासाठी, argusos.software/translate ला भेट द्या"</string>
   <string name="argusos_language_DEFAULT">ॲप भाषा</string>
   <string name="argusos_pref_import_export_title">आयात / निर्यात</string>
-  <string name="argusos_pref_import_export_summary">आयात / निर्यात Morphe सेटिंग्ज</string>
+  <string name="argusos_pref_import_export_summary">आयात / निर्यात ArgusOS सेटिंग्ज</string>
   <string name="argusos_settings_import_file">फाईलमधून आयात करा</string>
   <string name="argusos_settings_import_file_success">सेटिंग्ज यशस्वीरित्या आयात केल्या, लागू करण्यासाठी सेव्ह बटणावर टॅप करा</string>
   <string name="argusos_settings_import_file_failed">सेटिंग्ज आयात करण्यात अयशस्वी</string>
@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">डीबग लॉगिंग सक्षम करा</string>
   <string name="argusos_debug_stacktrace_title">डीबग लॉग स्टॅक ट्रेस</string>
   <string name="argusos_debug_stacktrace_summary">त्रुटी ओळखण्यात मदत करण्यासाठी डीबग लॉगमध्ये स्टॅक ट्रेस समाविष्ट करते</string>
-  <string name="argusos_debug_toast_on_error_title">Morphe त्रुटीवर टोस्ट दर्शवा</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"त्रुटी टोस्ट बंद केल्याने सर्व Morphe त्रुटी सूचना लपतील.
+  <string name="argusos_debug_toast_on_error_title">ArgusOS त्रुटीवर टोस्ट दर्शवा</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"त्रुटी टोस्ट बंद केल्याने सर्व ArgusOS त्रुटी सूचना लपतील.
 
 तुम्हाला कोणत्याही अनपेक्षित घटनांची सूचना मिळणार नाही."</string>
   <string name="argusos_debug_export_logs_title">डीबग लॉग एक्सपोर्ट करा</string>

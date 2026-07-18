@@ -36,20 +36,20 @@ Ověřte, zda je název balíčku správný a zda je aplikace nainstalována"</s
   <string name="argusos_custom_branding_name_entry_5">Vlastní</string>
   <string name="argusos_custom_branding_icon_title">Ikona aplikace</string>
   <string name="argusos_custom_branding_icon_entry_1">Původní</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe černá</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe tmavý</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe světlo</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS černá</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS tmavý</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS světlo</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play světlo</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play světlo</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play černá</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play černá</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Vlastní</string>
   <string name="argusos_custom_branding_notification_icon_title">Oznámení</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Přizpůsob ikonu aplikace</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe přehrávání</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS přehrávání</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Upozornění Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Upozornění ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Vaše historie sledování není ukládána.&lt;br&gt;&lt;br&gt;Toto je s největší pravděpodobností způsobeno blokátorem reklam DNS nebo síťovým proxy.&lt;br&gt;&lt;br&gt;Pro opravu toho přidejte na bílý seznam &lt;b&gt;s.youtube.com&lt;/b&gt; nebo vypněte všechny blokátory DNS a proxy.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Znovu nezobrazovat</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Pro přihlášení stiskněte pokračovat níže"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Přihlášení bylo úspěšné</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Ověření uloženo
 
-• Váš konfigurační profil Morphe nebude importován nebo exportován Android VR ověření
+• Váš konfigurační profil ArgusOS nebude importován nebo exportován Android VR ověření
 • Pokud tento aplikace nepoužijete během 6 měsíců, odstraní Google toto ověření
 • Jestliže změníte své heslo Googlu nebo odstraníte toto zařízení z Vašich nastavení Googlu, budete muset znovu se přihlásit."</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 dočasně není k dispozici (Časový limit API)</string>

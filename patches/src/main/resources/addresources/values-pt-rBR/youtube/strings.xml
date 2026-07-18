@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Sobre</string>
   <string name="argusos_settings_screen_01_ads_title">Anúncios</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Miniaturas alternativas</string>
@@ -417,7 +417,7 @@ Informação: pode não funcionar em transmissões ao vivo"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Trocar ações de Salvar e Fila</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Toque para opções de fila, toque e segure para salvar para assistir mais tarde</string>
   <string name="argusos_queue_override_flyout_menu_title">Substituir fila de reprodução flutuante</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Abre a fila do Morphe em vez da fila do YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Abre a fila do ArgusOS em vez da fila do YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Não conectado(a)</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Nenhum ID de playlist</string>
   <string name="argusos_queue_manager_check_failed_queue">Fila está vazia</string>
@@ -431,7 +431,7 @@ Informação: pode não funcionar em transmissões ao vivo"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Fila criada</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Removido da fila</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Fila salva em %s</string>
-  <string name="argusos_queue_manager_playlist_title">Fila Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Fila ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Adicionar à fila</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Adicionar à fila e abrir</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Adicionar à fila e reproduzir</string>
@@ -573,7 +573,7 @@ Observação: Se \"Simular streams de vídeo\" não estiver ativado, habilitar i
   <string name="argusos_hide_quick_actions_more_button_title">Posição do botão de pesquisa</string>
   <string name="argusos_hide_quick_actions_more_videos_button_title">Mostrar botão \'Configurações\'</string>
   <string name="argusos_hide_quick_actions_playlist_button_title">Posição do botão de configurações</string>
-  <string name="argusos_hide_quick_actions_save_button_title">Quando ativado, tocar abre as configurações do Morphe e pressionar e segurar abre as configurações do YouTube, desative para alternar</string>
+  <string name="argusos_hide_quick_actions_save_button_title">Quando ativado, tocar abre as configurações do ArgusOS e pressionar e segurar abre as configurações do YouTube, desative para alternar</string>
   <string name="argusos_hide_quick_actions_share_button_title">Ocultar botão Compartilhar</string>
   <string name="argusos_quick_actions_top_margin_title">Margem superior das ações rápidas</string>
   <string name="argusos_quick_actions_top_margin_summary">Defina a margem superior da barra de ações rápidas (0-32 dp)</string>
@@ -621,7 +621,7 @@ Observação: Se \"Simular streams de vídeo\" não estiver ativado, habilitar i
   <string name="argusos_show_settings_button_title">Mostrar botão Configurações</string>
   <string name="argusos_show_settings_button_index_title">Posição do botão de configurações</string>
   <string name="argusos_show_settings_button_type_title">Ação do botão Configurações</string>
-  <string name="argusos_show_settings_button_type_summary">Abre as configurações do Morphe quando ativado, ou as configurações do YouTube quando desativado</string>
+  <string name="argusos_show_settings_button_type_summary">Abre as configurações do ArgusOS quando ativado, ou as configurações do YouTube quando desativado</string>
   <string name="argusos_swap_create_with_notifications_button_title">Troca o botão Criar pelo botão Notificações</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Se alterar esta configuração não tiver efeito, tente mudar para o modo de navegação anônima</string>
   <string name="argusos_hide_navigation_button_labels_title">Ocultar rótulos dos botões de navegação</string>
@@ -655,7 +655,7 @@ Para acessar as Configurações, ative o botão Configurações via Geral → Ba
   <string name="argusos_show_toolbar_settings_button_title">Mostrar botão de Configurações</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Posição do botão de Configurações</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Ação do botão Configurações</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Quando ativado, tocar abre as configurações do Morphe e pressionar e segurar abre as configurações do YouTube, desative para inverter</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Quando ativado, tocar abre as configurações do ArgusOS e pressionar e segurar abre as configurações do YouTube, desative para inverter</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menu suspenso</string>
   <string name="argusos_hide_player_flyout_summary">Escolha quais componentes aparecem no menu flutuante</string>
@@ -839,7 +839,7 @@ Configurações → Reprodução (ou Reprodução automática) → Reproduzir o 
   <string name="argusos_ryd_attribution_summary">"Dados fornecidos pela API Return YouTube Dislike
 
 Toque aqui para abrir ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Estatísticas da API do Return YouTube Dislike deste dispositivo</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Tempo de resposta da API, média</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Tempo de resposta da API, mínimo</string>

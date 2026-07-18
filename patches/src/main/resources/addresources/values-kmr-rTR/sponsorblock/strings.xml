@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL-a API-yê girtin</string>
   <string name="argusos_sb_settings_ie_title">Import / Export mîhengan</string>
   <string name="argusos_sb_settings_copy">Copî bike</string>
-  <string name="argusos_sb_settings_ie_summary">Konfîgûrasyona JSON’ê SponsorBlockê ya ku dikare bi Morphe re biweşînin / biweşînin</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Konfîgûrasyona JSON'ê ya SponsorBlock'ê ya ku dikare bi Morphe re biweşînin / biweşînin da ku platformên din ên SponsorBlock'ê têne bikar anîn
+  <string name="argusos_sb_settings_ie_summary">Konfîgûrasyona JSON’ê SponsorBlockê ya ku dikare bi ArgusOS re biweşînin / biweşînin</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Konfîgûrasyona JSON'ê ya SponsorBlock'ê ya ku dikare bi ArgusOS re biweşînin / biweşînin da ku platformên din ên SponsorBlock'ê têne bikar anîn
 
 Ev bi hevsengî tên bikar anîn. Hêrs dibe ku vê bi hevsengî bikar anîn"</string>
   <string name="argusos_sb_settings_import_successful">Sazkirin bi serketî tê zeviyan</string>

@@ -86,8 +86,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">प्रतिलिपि गर्नुहोस्</string>
   <string name="argusos_sb_settings_ie_title">सेटिङहरू आयात / निर्यात गर्नुहोस्</string>
   <string name="argusos_sb_settings_copy">सेटिंगहरू सफलतापूर्वक आयात गरियो</string>
-  <string name="argusos_sb_settings_ie_summary">तपाईंको SponsorBlock JSON कन्फिगरेसन जुन Morphe र अन्य SponsorBlock प्लेटफर्महरूमा आयात / निर्यात गर्न सकिन्छ</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"तपाईंको SponsorBlock JSON कन्फिगरेसन जुन Morphe र अन्य SponsorBlock प्लेटफर्महरूमा आयात / निर्यात गर्न सकिन्छ
+  <string name="argusos_sb_settings_ie_summary">तपाईंको SponsorBlock JSON कन्फिगरेसन जुन ArgusOS र अन्य SponsorBlock प्लेटफर्महरूमा आयात / निर्यात गर्न सकिन्छ</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"तपाईंको SponsorBlock JSON कन्फिगरेसन जुन ArgusOS र अन्य SponsorBlock प्लेटफर्महरूमा आयात / निर्यात गर्न सकिन्छ
 
 यसमा तपाईंको निजी प्रयोगकर्ता ID समावेश छ। बुद्धिमान भएर यसलाई साझा गर्नुहोस्"</string>
   <string name="argusos_sb_settings_import_successful">सेटिङहरू सफलतापूर्वक आयात गरियो</string>

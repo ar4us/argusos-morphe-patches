@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importe kirin</string>
   <string name="argusos_settings_import_copy">Nuşînekiye</string>
-  <string name="argusos_settings_import_reset">Sazkarên Morphe pêşdizitin</string>
+  <string name="argusos_settings_import_reset">Sazkarên ArgusOS pêşdizitin</string>
   <string name="argusos_settings_import_success">%d sazkar hatin imported kirin</string>
   <string name="argusos_settings_import_failure_parse">Importe kirin ne serket: %s</string>
   <string name="argusos_settings_search_hint">Dizimên sazkarê bigere</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Dîroka dizimê vala ye</string>
   <string name="argusos_settings_search_empty_history_summary">Bo raya şewitîna doza lêgerînê şopandî, î reîka lêgerînê binivîsîne û Enter bikşîne</string>
   <string name="argusos_settings_search_history_title">Nîşan da dîroka dizimê</string>
-  <string name="argusos_show_menu_icons_title">Îkonên sazkirina Morphe nîşan da</string>
-  <string name="argusos_language_title">Zimanê Morphe</string>
+  <string name="argusos_show_menu_icons_title">Îkonên sazkirina ArgusOS nîşan da</string>
+  <string name="argusos_language_title">Zimanê ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Wergerandin ji bo hin zimanên ku derketine, kêmtir e an tam nakin.
 
-Da ku zimanên nû wergerînin an wergerandinên hebin baş bikin, malpera morphe.software/translate serîzade bike."</string>
+Da ku zimanên nû wergerînin an wergerandinên hebin baş bikin, malpera argusos.software/translate serîzade bike."</string>
   <string name="argusos_language_DEFAULT">Zimanê sepanê</string>
   <string name="argusos_pref_import_export_title">Importe kirin / Export kirin</string>
-  <string name="argusos_pref_import_export_summary">Importe kirin / Export kirin sazkirina Morphe</string>
+  <string name="argusos_pref_import_export_summary">Importe kirin / Export kirin sazkirina ArgusOS</string>
   <string name="argusos_settings_import_file">Ji pel dabe</string>
   <string name="argusos_settings_import_file_success">Nastînên bi serketî hatin vegirtin, kilîka \"Çekn\"ê biçpîne ku bixebitîn</string>
   <string name="argusos_settings_import_file_failed">Nedarî destûxaneyan vekişin</string>
@@ -63,8 +63,8 @@ Da ku zimanên nû wergerînin an wergerandinên hebin baş bikin, malpera morph
   <string name="argusos_settings_export_file_success">Nastînên sazkirinê ji rêzika hevokî ve birayê.</string>
   <string name="argusos_settings_export_file_failed">Ji rêzika hevokî sazkirinên nezanin.</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Hûn îro versîyona herî dawî ya Morphe Patches &lt;i&gt;%s&lt;/i&gt; bikar tînin</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Hûn versîyona Morphe Patches &lt;i&gt;%1$s&lt;/i&gt; bikar tînin &lt;br&gt;&lt;br&gt;&lt;b&gt;Nûvekirin heye: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Da ku patches xwe nûve bikin, sêwirana Morphe bi karanîn pêxin.</string>
+  <string name="argusos_settings_about_links_body_version_current">Hûn îro versîyona herî dawî ya ArgusOS Patches &lt;i&gt;%s&lt;/i&gt; bikar tînin</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Hûn versîyona ArgusOS Patches &lt;i&gt;%1$s&lt;/i&gt; bikar tînin &lt;br&gt;&lt;br&gt;&lt;b&gt;Nûvekirin heye: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Da ku patches xwe nûve bikin, sêwirana ArgusOS bi karanîn pêxin.</string>
   <string name="argusos_settings_about_links_dev_header">Nuşte</string>
   <string name="argusos_settings_about_links_dev_body">Ev veguhestine pêşxistine ye, tu pêşbirkaya nedilê bikin</string>
   <string name="argusos_settings_about_links_header">Girêdanên fermî</string>
@@ -88,12 +88,12 @@ Da ku zimanên nû wergerînin an wergerandinên hebin baş bikin, malpera morph
   <string name="argusos_debug_title">Çalak kirina tomarên teşhîsê</string>
   <string name="argusos_debug_stacktrace_title">Rêveşeke logsê debug</string>
   <string name="argusos_debug_stacktrace_summary">Hêlanîna şopên pelan di tomarên teşhîsê de da ku alîkariya dîtina xeletiyan bike</string>
-  <string name="argusos_debug_toast_on_error_title">Qextinê li toastê ser Morphe error</string>
+  <string name="argusos_debug_toast_on_error_title">Qextinê li toastê ser ArgusOS error</string>
   <string name="argusos_debug_toast_on_error_user_dialog_message">"Qextinê ava toastê dixebite gelî ser bibe ê qextinê li hemû qextinê têvene.
 
 Tu nedaî belav bibe de kû dabeş bendê neqezbîn."</string>
   <string name="argusos_debug_export_logs_title">Rapora logên çepkirinê</string>
-  <string name="argusos_debug_export_logs_summary">Logs debug ên Morphe vekişîne</string>
+  <string name="argusos_debug_export_logs_summary">Logs debug ên ArgusOS vekişîne</string>
   <string name="argusos_debug_export_logs_file">Bê ser kontrolê vekişîne</string>
   <string name="argusos_debug_export_logs_success">Logs debug bi serketî hatin vekirin</string>
   <string name="argusos_debug_export_logs_failed">Logs debug serketin nakin vekirin</string>

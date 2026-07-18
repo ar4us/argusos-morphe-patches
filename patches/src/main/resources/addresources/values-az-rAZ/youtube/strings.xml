@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Haqqında</string>
   <string name="argusos_settings_screen_01_ads_title">Reklamlar</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Seçmə miniatürlər</string>
@@ -417,7 +417,7 @@ Məlumat: Canlı yayımlarda işləməyə bilər"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Saxla və Növbə fəaliyyətlərini dəyişdir</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Növbə seçimləri üçün toxun, sonra baxmağa saxlamaq üçün toxun və saxla</string>
   <string name="argusos_queue_override_flyout_menu_title">Axında açılan növbə düyməsini əvəzlə</string>
-  <string name="argusos_queue_override_flyout_menu_summary">YouTube növbəsi əvəzinə Morphe növbəsini açır</string>
+  <string name="argusos_queue_override_flyout_menu_summary">YouTube növbəsi əvəzinə ArgusOS növbəsini açır</string>
   <string name="argusos_queue_manager_check_failed_auth">Daxil olunmayıb</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Pleylist ID-si yoxdur</string>
   <string name="argusos_queue_manager_check_failed_queue">Növbə boşdur</string>
@@ -431,7 +431,7 @@ Məlumat: Canlı yayımlarda işləməyə bilər"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Növbə yaradıldı</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Növbədən təmizləndi</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Növbə %s-də saxlanıldı</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe Növbəsi</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS Növbəsi</string>
   <string name="argusos_queue_manager_add_to_queue">Növbəyə əlavə et</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Növbəyə əlavə et və aç</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Növbəyə əlavə et və oynat</string>
@@ -621,7 +621,7 @@ Qeyd: Əgər \"Video yayımlarını saxtalaşdır\" işlək deyilsə, bunu aktiv
   <string name="argusos_show_settings_button_title">Ayarlar düyməsini göstər</string>
   <string name="argusos_show_settings_button_index_title">Ayarlar düyməsi mövqeyi</string>
   <string name="argusos_show_settings_button_type_title">Ayarlar düyməsi fəaliyyəti</string>
-  <string name="argusos_show_settings_button_type_summary">İşlək olduqda Morphe tənzimləmələrin, qapadılanda YouTube tənzimləmələrin açır</string>
+  <string name="argusos_show_settings_button_type_summary">İşlək olduqda ArgusOS tənzimləmələrin, qapadılanda YouTube tənzimləmələrin açır</string>
   <string name="argusos_swap_create_with_notifications_button_title">Yarat düyməsi ilə Bildirişlər düyməsini əvəzlə</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Bu tənzimləməni dəyişdirmək təsir göstərmirsə, Gizli rejimə keçməyi sına</string>
   <string name="argusos_hide_navigation_button_labels_title">Fəaliyyət düymə etiketlərini gizlət</string>
@@ -655,7 +655,7 @@ Tənzimləmələrə daxil olmaq üçün Ümumi → Alətlər Cərgəsi→ Tənzi
   <string name="argusos_show_toolbar_settings_button_title">Ayarlar düyməsini göstər</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Ayarlar düyməsi mövqeyi</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Ayarlar düyməsi fəaliyyəti</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">İşə salındıqda, toxunma Morphe tənzimləmələrin açır və uzun basma YouTube tənzimləmələrin açır, dəyişdirmək üçün qapat</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">İşə salındıqda, toxunma ArgusOS tənzimləmələrin açır və uzun basma YouTube tənzimləmələrin açır, dəyişdirmək üçün qapat</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Açılan menyu</string>
   <string name="argusos_hide_player_flyout_summary">Açılan menyuda hansı elementlər görünür seç</string>
@@ -839,7 +839,7 @@ Ayarlar→ Oxunuş (və ya Avtomatik oxunuş) → Növbəti videonu avtomatik ox
   <string name="argusos_ryd_attribution_summary">"Məlumat Return YouTube Dislike API tərəfindən təmin olunur
 
 ReturnYouTubeDislike.com 'u açmaq üçün buraya toxun"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Bu cihazda Return YouTube Dislike API statistikası</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Orta hesabla API cavab müddəti</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Ən aşağı API cavab müddəti</string>

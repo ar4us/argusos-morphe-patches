@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">사용자 정의</string>
   <string name="argusos_custom_branding_icon_title">앱 아이콘</string>
   <string name="argusos_custom_branding_icon_entry_1">원본</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe Black</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe Dark</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe Light</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS Black</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS Dark</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS Light</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe Play Light</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS Play Light</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe Play Black</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS Play Black</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">사용자 정의</string>
   <string name="argusos_custom_branding_notification_icon_title">알림 아이콘</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">앱 아이콘과 맞추기</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe Play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS Play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Morphe 알림</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">ArgusOS 알림</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">시청 기록이 저장되지 않습니다.&lt;br&gt;&lt;br&gt; DNS 광고 차단기 또는 네트워크 프록시로 인하여 발생한 문제일 가능성이 높습니다.&lt;br&gt;&lt;br&gt; 이 문제를 해결하려면 &lt;b&gt;s.youtube.com&lt;/b&gt;을 허용 목록에서 제외하거나 모든 DNS 차단기 및 프록시를 해제하세요.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">다시 보지 않기</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ YouTube Premium 사용자는 이 설정이 필요하지 않을 수 있습니다"
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">로그인 성공</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"인증을 저장하였습니다
 
-• Morphe 설정에서 Android VR 인증을 가져오거나 내보낼 수 없습니다.
+• ArgusOS 설정에서 Android VR 인증을 가져오거나 내보낼 수 없습니다.
 • 이 앱을 6개월 동안 사용하지 않으면 Google에서 이 인증이 제거됩니다.
 • Google 암호를 변경하거나 Google 설정에서 이 기기 등록을 해제하면 다시 로그인해야 합니다"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2를 일시적으로 사용할 수 없습니다 (API 시간 초과)</string>

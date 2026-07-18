@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">自定义</string>
   <string name="argusos_custom_branding_icon_title">应用图标</string>
   <string name="argusos_custom_branding_icon_entry_1">原始</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe 黑色</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe 深色</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe 暗色调</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS 黑色</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS 深色</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS 暗色调</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe 玩转光影</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS 玩转光影</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe 玩转黑色</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS 玩转黑色</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">自定义</string>
   <string name="argusos_custom_branding_notification_icon_title">通知图标</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">匹配应用图标</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe 玩乐</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS 玩乐</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Morphe 通知</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">ArgusOS 通知</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">您的观看历史记录未保存。&lt;br&gt;&lt;br&gt;这很可能是由 DNS 广告拦截器或网络代理造成的。&lt;br&gt;&lt;br&gt;要解决此问题，请将 &lt;b&gt;s.youtube.com&lt;/b&gt; 添加到白名单或关闭所有 DNS 广告拦截器和代理。</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">不再显示</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">登录成功</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"身份验证保存成功
 
-• 您的 Morphe 设置将无法导出/导入 Android VR 认证
+• 您的 ArgusOS 设置将无法导出/导入 Android VR 认证
 • 长期未使用时，该认证可能被 Google 移除
 • 更改 Google 密码或在 Google 设置中注销本设备后，需重新登录"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 暂时不可用（API 超时）</string>

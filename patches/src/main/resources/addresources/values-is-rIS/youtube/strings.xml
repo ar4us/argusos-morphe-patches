@@ -17,8 +17,8 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="argusos_settings_screen_00_about_title">Um Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
+  <string name="argusos_settings_screen_00_about_title">Um ArgusOS</string>
   <string name="argusos_settings_screen_01_ads_title">Auglýsingar</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Aðrar smámyndir</string>
   <string name="argusos_settings_screen_03_feed_title">Straumur</string>
@@ -416,7 +416,7 @@ API lykillinn þinn ætti aldrei að deila. Allir með aðgang að honum geta no
   <string name="argusos_swap_save_and_queue_actions_title">Skipta um röð á Vista og Biðlista aðgerðum</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Hnútur fyrir biðlista valkosti, haltu inni til að vista til að horfa á seinna</string>
   <string name="argusos_queue_override_flyout_menu_title">Rafmagnúðu biðröð fljótfallsins</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Opnar Morphe biðröðina í stað YouTube biðröðarinnar</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Opnar ArgusOS biðröðina í stað YouTube biðröðarinnar</string>
   <string name="argusos_queue_manager_check_failed_auth">Ekki skráður inn</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Ekki er playlist ID</string>
   <string name="argusos_queue_manager_check_failed_queue">Biðlisti er tómur</string>
@@ -430,7 +430,7 @@ API lykillinn þinn ætti aldrei að deila. Allir með aðgang að honum geta no
   <string name="argusos_queue_manager_fetch_succeeded_create">Biðlisti búinn til</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Fjarlægt úr biðlista</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Biðlisti vistaður í %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe biðröð</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS biðröð</string>
   <string name="argusos_queue_manager_add_to_queue">Bæta við í biðlista</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Bæta við í biðlista og opna</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Bæta við í biðlista og spila</string>
@@ -618,7 +618,7 @@ Athugið: Ef 'Spoofa myndband streymi' er ekki virkjað getur þetta valkosti va
   <string name="argusos_show_settings_button_title">Sýnir Stillingar hnappinn</string>
   <string name="argusos_show_settings_button_index_title">Stillingar hnappur staðsetning</string>
   <string name="argusos_show_settings_button_type_title">Starfa árásnstjórnstikur</string>
-  <string name="argusos_show_settings_button_type_summary">Opnar Morphe stillingar þegar virkjað, eða YouTube stillingar þegar óvirkt</string>
+  <string name="argusos_show_settings_button_type_summary">Opnar ArgusOS stillingar þegar virkjað, eða YouTube stillingar þegar óvirkt</string>
   <string name="argusos_swap_create_with_notifications_button_title">Skildu við skipti Create hnappinn og Notifications hnappinn</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Ef breyting á þessari stillingu hefur ekki áhrif skaltu prófa að skipta yfir í leynistillinga ham</string>
   <string name="argusos_hide_navigation_button_labels_title">Fela stýrihnappamerki</string>
@@ -652,7 +652,7 @@ Til þess að fá access til stillingarinnar skaltu koma á stillinguna í gegnu
   <string name="argusos_show_toolbar_settings_button_title">Sýnir Stillingar hnappinn</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Stillingar hnappur staðsetning</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Starfa árásnstjórnstikur</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Þegar virkt, opnar ýta á Morphe stillingar og langt ýta á YouTube stillingar, óvirkt til að skipta út</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Þegar virkt, opnar ýta á ArgusOS stillingar og langt ýta á YouTube stillingar, óvirkt til að skipta út</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Flytandi valmynd</string>
   <string name="argusos_hide_player_flyout_summary">Veldu hvaða þættir birtast í fljótandi glugganum</string>
@@ -836,7 +836,7 @@ Stillingar → Spilun (eða Sjálfvædd spilun) → Sjálfvædd næsta myndband"
   <string name="argusos_ryd_attribution_summary">"Gagnagögn eru veitt af Return YouTube Dislike API
 
 Taktu hér til að opna ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Return YouTube Dislike API tölfræði fyrir þetta tæki</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Samspil niðurhal </string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Lágmarks svarstími API</string>

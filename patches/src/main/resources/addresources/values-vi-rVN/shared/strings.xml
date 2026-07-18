@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Nhập</string>
   <string name="argusos_settings_import_copy">Sao chép</string>
-  <string name="argusos_settings_import_reset">Đặt lại cài đặt Morphe về mặc định</string>
+  <string name="argusos_settings_import_reset">Đặt lại cài đặt ArgusOS về mặc định</string>
   <string name="argusos_settings_import_success">Đã nhập %d cài đặt</string>
   <string name="argusos_settings_import_failure_parse">Không thể nhập: %s</string>
   <string name="argusos_settings_search_hint">Tìm kiếm cài đặt</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Lịch sử tìm kiếm đang trống</string>
   <string name="argusos_settings_search_empty_history_summary">Để lưu lịch sử tìm kiếm, nhập từ khoá tìm kiếm và bấm Enter</string>
   <string name="argusos_settings_search_history_title">Hiện lịch sử tìm kiếm cài đặt</string>
-  <string name="argusos_show_menu_icons_title">Hiện biểu tượng cài đặt Morphe</string>
-  <string name="argusos_language_title">Ngôn ngữ thiết lập Morphe</string>
+  <string name="argusos_show_menu_icons_title">Hiện biểu tượng cài đặt ArgusOS</string>
+  <string name="argusos_language_title">Ngôn ngữ thiết lập ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Một số ngôn ngữ có thể bị thiếu hoặc chưa hoàn thiện.
 
-Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch hiện tại bằng cách truy cập morphe.software/translate"</string>
+Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch hiện tại bằng cách truy cập argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Ngôn ngữ ứng dụng</string>
   <string name="argusos_pref_import_export_title">Nhập hoặc Xuất</string>
-  <string name="argusos_pref_import_export_summary">Nhập hoặc xuất các cài đặt Morphe</string>
+  <string name="argusos_pref_import_export_summary">Nhập hoặc xuất các cài đặt ArgusOS</string>
   <string name="argusos_settings_import_file">Nhập từ tệp</string>
   <string name="argusos_settings_import_file_success">Đã nhập cài đặt thành công, bấm Lưu để áp dụng</string>
   <string name="argusos_settings_import_file_failed">Không thể nhập cài đặt</string>
@@ -63,8 +63,8 @@ Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch h
   <string name="argusos_settings_export_file_success">Đã xuất cài đặt thành công</string>
   <string name="argusos_settings_export_file_failed">Không thể xuất cài đặt</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Bạn đang dùng bản vá Morphe phiên bản &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Bạn đang dùng bản vá Morphe phiên bản &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Đã có bản cập nhật mới: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Để cập nhật các bản vá của bạn, hãy dùng Morphe để vá lại ứng dụng này</string>
+  <string name="argusos_settings_about_links_body_version_current">Bạn đang dùng bản vá ArgusOS phiên bản &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Bạn đang dùng bản vá ArgusOS phiên bản &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Đã có bản cập nhật mới: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Để cập nhật các bản vá của bạn, hãy dùng ArgusOS để vá lại ứng dụng này</string>
   <string name="argusos_settings_about_links_dev_header">Lưu ý</string>
   <string name="argusos_settings_about_links_dev_body">Đây là phiên bản phát hành trước và bạn có thể gặp phải các sự cố không mong muốn</string>
   <string name="argusos_settings_about_links_header">Liên kết chính chủ</string>
@@ -88,12 +88,12 @@ Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch h
   <string name="argusos_debug_title">Bật ghi nhật ký gỡ lỗi</string>
   <string name="argusos_debug_stacktrace_title">Ghi nhật ký gỡ lỗi (Stack Trace)</string>
   <string name="argusos_debug_stacktrace_summary">Thêm stack trace vào nhật ký để dễ tìm nguyên nhân</string>
-  <string name="argusos_debug_toast_on_error_title">Hiện thông báo ngắn về lỗi Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Tắt thông báo lỗi sẽ ẩn mọi thông báo lỗi từ Morphe.
+  <string name="argusos_debug_toast_on_error_title">Hiện thông báo ngắn về lỗi ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Tắt thông báo lỗi sẽ ẩn mọi thông báo lỗi từ ArgusOS.
 
 Bạn sẽ không được thông báo khi xẩy ra lỗi bất ngờ."</string>
   <string name="argusos_debug_export_logs_title">Nhật ký gỡ lỗi</string>
-  <string name="argusos_debug_export_logs_summary">Xuất nhật ký gỡ lỗi của Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Xuất nhật ký gỡ lỗi của ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Xuất sang tệp</string>
   <string name="argusos_debug_export_logs_success">Xuất bản nhật ký gỡ lỗi thành công</string>
   <string name="argusos_debug_export_logs_failed">Không thể xuất nhật ký gỡ lỗi</string>

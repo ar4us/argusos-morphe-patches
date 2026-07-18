@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importuj</string>
   <string name="argusos_settings_import_copy">Skopiuj</string>
-  <string name="argusos_settings_import_reset">Przywrócono domyślne ustawienia Morphe</string>
+  <string name="argusos_settings_import_reset">Przywrócono domyślne ustawienia ArgusOS</string>
   <string name="argusos_settings_import_success">Zaimportowano %d ustawień</string>
   <string name="argusos_settings_import_failure_parse">Importowanie nie powiodło się: %s</string>
   <string name="argusos_settings_search_hint">Szukaj w ustawieniach</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Historia wyszukiwania jest pusta</string>
   <string name="argusos_settings_search_empty_history_summary">Aby zapisać historię wyszukiwania, wpisz zapytanie i naciśnij Enter</string>
   <string name="argusos_settings_search_history_title">Pokaż historię wyszukiwania ustawień</string>
-  <string name="argusos_show_menu_icons_title">Pokaż ikony ustawień Morphe</string>
-  <string name="argusos_language_title">Język Morphe</string>
+  <string name="argusos_show_menu_icons_title">Pokaż ikony ustawień ArgusOS</string>
+  <string name="argusos_language_title">Język ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Tłumaczenia dla niektórych języków mogą być niekompletne lub może ich brakować.
 
-Aby przetłumaczyć aplikację na nowe języki lub poprawić istniejące tłumaczenia, odwiedź stronę morphe.software/translate"</string>
+Aby przetłumaczyć aplikację na nowe języki lub poprawić istniejące tłumaczenia, odwiedź stronę argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Język aplikacji</string>
   <string name="argusos_pref_import_export_title">Import / Eksport</string>
-  <string name="argusos_pref_import_export_summary">Importuj / Eksportuj ustawienia Morphe</string>
+  <string name="argusos_pref_import_export_summary">Importuj / Eksportuj ustawienia ArgusOS</string>
   <string name="argusos_settings_import_file">Importuj z pliku</string>
   <string name="argusos_settings_import_file_success">Zaimportowano. Zapisz, aby zastosować</string>
   <string name="argusos_settings_import_file_failed">Nie udało się zaimportować ustawień</string>
@@ -63,8 +63,8 @@ Aby przetłumaczyć aplikację na nowe języki lub poprawić istniejące tłumac
   <string name="argusos_settings_export_file_success">Ustawienia wyeksportowane pomyślnie</string>
   <string name="argusos_settings_export_file_failed">Nie udało się wyeksportować ustawień</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Używasz najnowszej wersji modyfikacji Morphe &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Używasz modyfikacji Morphe w wersji &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostępna aktualizacja: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Aby zaktualizować modyfikacje, zmodyfikuj tę aplikację ponownie za pomocą Morphe</string>
+  <string name="argusos_settings_about_links_body_version_current">Używasz najnowszej wersji modyfikacji ArgusOS &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Używasz modyfikacji ArgusOS w wersji &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostępna aktualizacja: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Aby zaktualizować modyfikacje, zmodyfikuj tę aplikację ponownie za pomocą ArgusOS</string>
   <string name="argusos_settings_about_links_dev_header">Uwaga</string>
   <string name="argusos_settings_about_links_dev_body">To jest wersja przedpremierowa, w której mogą wystąpić nieoczekiwane błędy</string>
   <string name="argusos_settings_about_links_header">Oficjalne linki</string>
@@ -88,12 +88,12 @@ Aby przetłumaczyć aplikację na nowe języki lub poprawić istniejące tłumac
   <string name="argusos_debug_title">Włącz logi debugowania</string>
   <string name="argusos_debug_stacktrace_title">Zrzuty stosu w logach debugowania</string>
   <string name="argusos_debug_stacktrace_summary">Dołącza zrzuty stosu do logów debugowania, aby pomóc w identyfikacji błędów</string>
-  <string name="argusos_debug_toast_on_error_title">Pokaż powiadomienie o błędzie Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Wyłączenie tej opcji ukrywa wszystkie komunikaty o błędach Morphe.
+  <string name="argusos_debug_toast_on_error_title">Pokaż powiadomienie o błędzie ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Wyłączenie tej opcji ukrywa wszystkie komunikaty o błędach ArgusOS.
 
 Nie dostaniesz informacji o żadnych nieoczekiwanych zdarzeniach."</string>
   <string name="argusos_debug_export_logs_title">Eksportuj logi debugowania</string>
-  <string name="argusos_debug_export_logs_summary">Eksportuj logi debugowania Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Eksportuj logi debugowania ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Wyeksportuj do pliku</string>
   <string name="argusos_debug_export_logs_success">Logi debugowania wyeksportowane pomyślnie</string>
   <string name="argusos_debug_export_logs_failed">Nie udało się wyeksportować logów debugowania</string>

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">O programu</string>
   <string name="argusos_settings_screen_01_ads_title">Oglasi</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternativne sličice</string>
@@ -418,7 +418,7 @@ Napomena: Možda neće raditi na direktnim prenosima"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Zameni akcije Štednje i stavljanja u red</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Dodirnite za opcije reda, dodirnite i zadržite da biste sačavali za gledanje kasnije</string>
   <string name="argusos_queue_override_flyout_menu_title">Preuzmi red za reprize</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Otvara Morphe red čekanja umesto YouTube reda čekanja</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Otvara ArgusOS red čekanja umesto YouTube reda čekanja</string>
   <string name="argusos_queue_manager_check_failed_auth">Nije prijavljen</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">ID liste za reprodukciju nije naveden</string>
   <string name="argusos_queue_manager_check_failed_queue">Red je prazan</string>
@@ -432,7 +432,7 @@ Napomena: Možda neće raditi na direktnim prenosima"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Red je kreiran</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Uklonjeno iz reda</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Red je sačuvan u %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe red</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS red</string>
   <string name="argusos_queue_manager_add_to_queue">Dodaj u red</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Dodaj u red i otvori</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Dodaj u red i reprodukuj</string>
@@ -622,7 +622,7 @@ Napomena: Ako \"Lažiranje video tokova\" nije omogućeno, omogućavanje ovog mo
   <string name="argusos_show_settings_button_title">Prikaži dugme „Podešavanja”</string>
   <string name="argusos_show_settings_button_index_title">Položaj dugmeta „Podešavanja”</string>
   <string name="argusos_show_settings_button_type_title">Akcija dugmeta za podešavanja</string>
-  <string name="argusos_show_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja Morphe-a, a držanje otvara podešavanja YouTube-a, onemogući da ih razmeni</string>
+  <string name="argusos_show_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja ArgusOS-a, a držanje otvara podešavanja YouTube-a, onemogući da ih razmeni</string>
   <string name="argusos_swap_create_with_notifications_button_title">Zameni dugme Napravi sa dugmetom Obaveštenja</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Ako menjanje ove postavke ne stupi na snagu, pokušajte da pređete u Incognito režim</string>
   <string name="argusos_hide_navigation_button_labels_title">Sakrij oznake dugmadi za navigaciju</string>
@@ -656,7 +656,7 @@ Da biste pristupili Podešavanjima, omogućite dugme Podešavanja preko Opšte �
   <string name="argusos_show_toolbar_settings_button_title">Prikaži dugme „Podešavanja”</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Položaj dugmeta „Podešavanja”</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Akcija za dugme za podešavanja</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja Morphe-a, a držanje otvara podešavanja YouTube-a</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja ArgusOS-a, a držanje otvara podešavanja YouTube-a</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Padajući meni</string>
   <string name="argusos_hide_player_flyout_summary">Sakrij meni „Traka zvuka”</string>
@@ -840,7 +840,7 @@ Postavke → Reprodukcija (ili Automatsko puštanje) → Automatski pusti slede�
   <string name="argusos_ryd_attribution_summary">"Podatke obezbeđuje Return YouTube Dislike API
 
 Dodirnite ovde da otvorite ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistike ReturnYouTubeDislike API-ja za ovaj uređaj</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Vreme odgovora API-ja, prosečno</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Vreme odgovora API-ja, minimalno</string>

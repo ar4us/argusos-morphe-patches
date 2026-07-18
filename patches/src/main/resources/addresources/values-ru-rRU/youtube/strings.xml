@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Информация</string>
   <string name="argusos_settings_screen_01_ads_title">Реклама</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Альтернативные миниатюры</string>
@@ -420,7 +420,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Поменять местами действия \"Сохранить\" и \"В очередь\"</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Нажмите для опций очереди, нажмите и удерживайте, чтобы сохранить для просмотра позже</string>
   <string name="argusos_queue_override_flyout_menu_title">Кнопка для переопределения очереди всплывающего окна каналов</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Открывает очередь Morphe вместо очереди YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Открывает очередь ArgusOS вместо очереди YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Не вошел в систему</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">ID плейлиста не указан</string>
   <string name="argusos_queue_manager_check_failed_queue">Очередь пуста</string>
@@ -434,7 +434,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Очередь создана</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Удалено из очереди</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Очередь сохранена в %s</string>
-  <string name="argusos_queue_manager_playlist_title">Очередь Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Очередь ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Добавить в очередь</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Добавить в очередь и открыть</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Добавить в очередь и воспроизвести</string>
@@ -624,7 +624,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_settings_button_title">Показать кнопку \"Настройки\"</string>
   <string name="argusos_show_settings_button_index_title">Положение кнопки \"Настройки\"</string>
   <string name="argusos_show_settings_button_type_title">Действие кнопки \"Настройки\"</string>
-  <string name="argusos_show_settings_button_type_summary">При включении нажатие открывает настройки Morphe, а удержание — настройки YouTube, отключение меняет поведение</string>
+  <string name="argusos_show_settings_button_type_summary">При включении нажатие открывает настройки ArgusOS, а удержание — настройки YouTube, отключение меняет поведение</string>
   <string name="argusos_swap_create_with_notifications_button_title">Заменяет кнопку «Создать» кнопкой «Уведомления»</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Если изменение этой настройки не получило эффекта, попробуйте переключиться в режим Инкогнито</string>
   <string name="argusos_hide_navigation_button_labels_title">Скрыть подписи кнопок навигации</string>
@@ -658,7 +658,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">Показать кнопку \"Настройки\"</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Положение кнопки \"Настройки\"</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Действие кнопки \"Настройки\"</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">При включении нажатие открывает настройки Morphe, а удержание — настройки YouTube, отключение меняет поведение</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">При включении нажатие открывает настройки ArgusOS, а удержание — настройки YouTube, отключение меняет поведение</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Выдвижное меню плеера</string>
   <string name="argusos_hide_player_flyout_summary">Выберите, какие компоненты отображаются в выпадающем меню плеера</string>
@@ -700,7 +700,7 @@ Second \"item\" text"</string>
   <string name="argusos_hide_player_flyout_quality_header_title">Скрыть заголовок Качество</string>
   <!-- layout.hide.autoplaypreview.hideAutoplayPreviewPatch -->
   <string name="argusos_hide_autoplay_preview_title">Скрыть предварительный просмотр автовоспроизведения</string>
-  <string name="argusos_hide_autoplay_preview_summary">Ваша конфигурация JSON SponsorBlock может быть импортирована или экспортирована в Morphe и другие платформы SponsorBlock. Она включает в себя Ваш личный идентификатор пользователя. Подумайте дважды перед тем, как делиться ею с кем-либо</string>
+  <string name="argusos_hide_autoplay_preview_summary">Ваша конфигурация JSON SponsorBlock может быть импортирована или экспортирована в ArgusOS и другие платформы SponsorBlock. Она включает в себя Ваш личный идентификатор пользователя. Подумайте дважды перед тем, как делиться ею с кем-либо</string>
   <!-- layout.buttons.overlay.hidePlayerOverlayButtonsPatch -->
   <string name="argusos_overlay_buttons_screen_title">Кнопки наложения</string>
   <string name="argusos_overlay_buttons_screen_summary">Выберите, какие элементы отображаются поверх видеоплеера</string>
@@ -842,7 +842,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"Данные предоставлены API Return YouTube Dislike
 
 Нажмите здесь, чтобы открыть ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Статистика Return YouTube Dislike API этого устройства</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Время ответа API, среднее</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Время ответа API, минимальное</string>

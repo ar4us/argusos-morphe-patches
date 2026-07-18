@@ -28,7 +28,7 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">Gebruikt je gekozen externe downloader in plaats van de ingebouwde downloadfunctie van YouTube Music</string>
   <string name="argusos_external_downloader_flyout_menu_title">Downloadmenu overschrijven</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_music_screen_0_about_title">Over</string>
   <string name="argusos_settings_music_screen_1_ads_title">Advertenties</string>
   <string name="argusos_settings_music_screen_2_general_title">Algemeen</string>

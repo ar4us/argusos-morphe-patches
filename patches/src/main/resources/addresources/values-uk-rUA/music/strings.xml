@@ -28,8 +28,8 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">Використовує вибраний зовнішній завантажувач замість вбудованої функції завантаження YouTube Music</string>
   <string name="argusos_external_downloader_flyout_menu_title">Замінити меню \"Завантажити\"</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="argusos_settings_music_screen_0_about_title">Про Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
+  <string name="argusos_settings_music_screen_0_about_title">Про ArgusOS</string>
   <string name="argusos_settings_music_screen_1_ads_title">Реклама</string>
   <string name="argusos_settings_music_screen_2_general_title">Загальні</string>
   <string name="argusos_settings_music_screen_3_player_title">Плеєр</string>

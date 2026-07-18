@@ -24,15 +24,15 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">ផ្ទាល់ខ្លួន</string>
   <string name="argusos_custom_branding_icon_title">អាយខនកម្មវិធី</string>
   <string name="argusos_custom_branding_icon_entry_1">ច្បាប់ដើម</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe ខ្មៅ</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe ងងឹត</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe ភ្លឺ</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS ខ្មៅ</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS ងងឹត</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS ភ្លឺ</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">ផ្ទាល់ខ្លួន</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">កំណត់សម្គាល់ Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">កំណត់សម្គាល់ ArgusOS</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
   <!-- "Spoof video streams" must use the same translation as argusos_spoof_video_streams_title.
          "Sign in to Android VR" must use the same translation as argusos_spoof_video_streams_sign_in_android_vr_about_title -->

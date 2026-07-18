@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importovat</string>
   <string name="argusos_settings_import_copy">Kopírovat</string>
-  <string name="argusos_settings_import_reset">Nastavení Morphe obnoveno do výchozího stavu</string>
+  <string name="argusos_settings_import_reset">Nastavení ArgusOS obnoveno do výchozího stavu</string>
   <string name="argusos_settings_import_success">Importováno %d nastavení</string>
   <string name="argusos_settings_import_failure_parse">Import selhal: %s</string>
   <string name="argusos_settings_search_hint">Nastavení vyhledávání</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Historie vyhledávání je prázdná</string>
   <string name="argusos_settings_search_empty_history_summary">Chcete-li uložit historii vyhledávání, zadejte vyhledávací dotaz a stiskněte Enter</string>
   <string name="argusos_settings_search_history_title">Zobrazit historii vyhledávání v nastavení</string>
-  <string name="argusos_show_menu_icons_title">Zobrazit ikony nastavení Morphe</string>
-  <string name="argusos_language_title">Jazyk Morphe</string>
+  <string name="argusos_show_menu_icons_title">Zobrazit ikony nastavení ArgusOS</string>
+  <string name="argusos_language_title">Jazyk ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Překlady pro některé jazyky mohou chybět nebo být neúplné.
 
-Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštivte morphe.software/translate"</string>
+Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštivte argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Jazyk aplikace</string>
   <string name="argusos_pref_import_export_title">Importovat / Exportovat</string>
-  <string name="argusos_pref_import_export_summary">Importovat / exportovat nastavení Morphe</string>
+  <string name="argusos_pref_import_export_summary">Importovat / exportovat nastavení ArgusOS</string>
   <string name="argusos_settings_import_file">Importovat ze souboru</string>
   <string name="argusos_settings_import_file_success">Nastavení importována úspěšně, klepněte na Uložit pro aplikaci</string>
   <string name="argusos_settings_import_file_failed">Nepodařilo se importovat nastavení</string>
@@ -63,8 +63,8 @@ Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštiv
   <string name="argusos_settings_export_file_success">Nastavení úspěšně exportováno</string>
   <string name="argusos_settings_export_file_failed">Nepodařilo se exportovat nastavení</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Používáte nejnovější verzi Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Používáte verzi Morphe Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Je dostupná aktualizace: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pro aktualizaci vašich patchů použijte aplikaci Morphe k opětovnému patchování této aplikace</string>
+  <string name="argusos_settings_about_links_body_version_current">Používáte nejnovější verzi ArgusOS Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Používáte verzi ArgusOS Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Je dostupná aktualizace: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pro aktualizaci vašich patchů použijte aplikaci ArgusOS k opětovnému patchování této aplikace</string>
   <string name="argusos_settings_about_links_dev_header">Poznámka</string>
   <string name="argusos_settings_about_links_dev_body">Tato verze je předběžná a můžete narazit na neočekávané problémy</string>
   <string name="argusos_settings_about_links_header">Oficiální odkazy</string>
@@ -88,12 +88,12 @@ Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštiv
   <string name="argusos_debug_title">Povolit protokolování ladění</string>
   <string name="argusos_debug_stacktrace_title">Sledování zásobníku ladění</string>
   <string name="argusos_debug_stacktrace_summary">Zahrnuje trasování zásobníku v protokolech ladění pro usnadnění identifikace chyb</string>
-  <string name="argusos_debug_toast_on_error_title">Zobrazit oznámení v případě chyby Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Vypnutí chybových oznámení skryje všechna chybová oznámení Morphe.
+  <string name="argusos_debug_toast_on_error_title">Zobrazit oznámení v případě chyby ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Vypnutí chybových oznámení skryje všechna chybová oznámení ArgusOS.
 
 Nebudete informováni o žádné neočekávané události."</string>
   <string name="argusos_debug_export_logs_title">Exportovat ladicí protokoly</string>
-  <string name="argusos_debug_export_logs_summary">Exportovat protokoly ladění Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Exportovat protokoly ladění ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Exportovat do souboru</string>
   <string name="argusos_debug_export_logs_success">Protokoly ladění byly úspěšně exportovány</string>
   <string name="argusos_debug_export_logs_failed">Nepodařilo se exportovat protokoly ladění: %s</string>

@@ -71,7 +71,7 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API-webbadress ändrades</string>
   <string name="argusos_sb_settings_ie_title">Importera/exportera inställningar</string>
   <string name="argusos_sb_settings_copy">Kopiera</string>
-  <string name="argusos_sb_settings_ie_summary">Din JSON-konfiguration för SponsorBlock som kan importeras/exporteras till Morphe och andra SponsorBlock-plattformar</string>
+  <string name="argusos_sb_settings_ie_summary">Din JSON-konfiguration för SponsorBlock som kan importeras/exporteras till ArgusOS och andra SponsorBlock-plattformar</string>
   <string name="argusos_sb_settings_import_successful">Inställningar har importerats</string>
   <string name="argusos_sb_settings_import_failed">Det gick inte att importera: %s</string>
   <string name="argusos_sb_settings_export_failed">Det gick inte att exportera: %s</string>

@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">تم تغيير رابط API</string>
   <string name="argusos_sb_settings_ie_title">إستيراد/تصدير الإعدادات</string>
   <string name="argusos_sb_settings_copy">نسخ</string>
-  <string name="argusos_sb_settings_ie_summary">تكوين SponsorBlock JSON الخاص بك والذي يمكن استيراده/تصديره إلى Morphe ومنصات SponsorBlock الأخرى</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"تكوين SponsorBlock الخاص بك كتنسيق JSON والذي يمكن استيراده / تصديره إلى Morphe وغيره من منصات SponsorBlock الأخرى
+  <string name="argusos_sb_settings_ie_summary">تكوين SponsorBlock JSON الخاص بك والذي يمكن استيراده/تصديره إلى ArgusOS ومنصات SponsorBlock الأخرى</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"تكوين SponsorBlock الخاص بك كتنسيق JSON والذي يمكن استيراده / تصديره إلى ArgusOS وغيره من منصات SponsorBlock الأخرى
 
 يتضمن هذا معرف المستخدم الفريد الخاص بك User ID.
 تأكد من مشاركته بحكمة"</string>

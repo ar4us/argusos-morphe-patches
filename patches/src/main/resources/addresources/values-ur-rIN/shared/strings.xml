@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">امپورٹ</string>
   <string name="argusos_settings_import_copy">کاپی کریں</string>
-  <string name="argusos_settings_import_reset">Morphe کی ترتیبات کو ریسیٹ کریں</string>
+  <string name="argusos_settings_import_reset">ArgusOS کی ترتیبات کو ریسیٹ کریں</string>
   <string name="argusos_settings_import_success">امپورٹ کردہ %d ترتیبات</string>
   <string name="argusos_settings_import_failure_parse">امپورٹ ناکام: %s</string>
   <string name="argusos_settings_search_hint">ترتیبات کو تلاش کریں</string>
@@ -48,11 +48,11 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">تلاش کا ریکارڈ خالی ہے</string>
   <string name="argusos_settings_search_empty_history_summary">تلاش کا ریکارڈ محفوظ کرنے کے لئے اپنا مطلوبہ استفسار لکھ کر Enter دبائیں</string>
   <string name="argusos_settings_search_history_title">ترتیبات کی تلاش کا ریکارڈ ظاہر کریں</string>
-  <string name="argusos_show_menu_icons_title">Morphe کی ترتیبات کا آئیکن ظاہر کریں</string>
-  <string name="argusos_language_title">Morphe کی زبان</string>
+  <string name="argusos_show_menu_icons_title">ArgusOS کی ترتیبات کا آئیکن ظاہر کریں</string>
+  <string name="argusos_language_title">ArgusOS کی زبان</string>
   <string name="argusos_language_user_dialog_message">"کچھ زبانوں کے تراجم مفقود یا نامکمل ہو سکتے ہیں۔
 
-نئی زبانوں کا ترجمہ کرنے یا موجودہ تراجم کو بہتر بنانے کے لئے ، morphe.software/translate پر جائیں"</string>
+نئی زبانوں کا ترجمہ کرنے یا موجودہ تراجم کو بہتر بنانے کے لئے ، argusos.software/translate پر جائیں"</string>
   <string name="argusos_language_DEFAULT">ایپ کی زبان</string>
   <string name="argusos_pref_import_export_title">درآمد/برآمد </string>
   <string name="argusos_pref_import_export_summary">اMorphe کی ترتیبات کی درآمد/برآمد کریں</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">ترتیبات کی برآمدی مکمل ہو چکی</string>
   <string name="argusos_settings_export_file_failed">ترتیبات کی برآمدی ناکام ہو گئی</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">آپ Morphe Patches کا جدید ورژن استعمال کر رہے ہیں &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">آپ Morphe Patches کا ورژن &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt; استعمال کررہے ہیں اپڈیٹ دستیاب ہے: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt; پیچ کو اپڈیٹ کرنے کے لئے، Morphe کے استعمال سے اس ایپ کو دوبارہ پیچ کریں</string>
+  <string name="argusos_settings_about_links_body_version_current">آپ ArgusOS Patches کا جدید ورژن استعمال کر رہے ہیں &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">آپ ArgusOS Patches کا ورژن &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt; استعمال کررہے ہیں اپڈیٹ دستیاب ہے: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt; پیچ کو اپڈیٹ کرنے کے لئے، ArgusOS کے استعمال سے اس ایپ کو دوبارہ پیچ کریں</string>
   <string name="argusos_settings_about_links_dev_header">نوٹ</string>
   <string name="argusos_settings_about_links_dev_body">یہ ورژن ایک pre-release ہے اور آپکو کچھ غیر متوقع مسائل کا سامنا کرنا پڑ سکتا ہے</string>
   <string name="argusos_settings_about_links_header">آفیشل لنک</string>

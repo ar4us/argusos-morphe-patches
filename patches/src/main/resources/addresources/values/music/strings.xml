@@ -16,14 +16,14 @@ Second \"item\" text"</string>
 -->
 <resources>
     <!-- layout.branding.customBrandingPatch -->
-    <string name="argusos_custom_branding_name_entry_2" translatable="false">YT Music Morphe</string>
-    <string name="argusos_custom_branding_name_entry_3" translatable="false">Music Morphe</string>
+    <string name="argusos_custom_branding_name_entry_2" translatable="false">YT Music ArgusOS</string>
+    <string name="argusos_custom_branding_name_entry_3" translatable="false">Music ArgusOS</string>
     <string name="argusos_custom_branding_name_entry_4" translatable="false">Music</string>
 
     <!-- layout.branding.header.changeHeaderPatch -->
     <string name="argusos_header_logo_title">Header logo</string>
     <string name="argusos_header_logo_entry_1">Default</string>
-    <string name="argusos_header_logo_entry_2" translatable="false">Morphe</string>
+    <string name="argusos_header_logo_entry_2" translatable="false">ArgusOS</string>
     <string name="argusos_header_logo_entry_3">Custom</string>
 
     <!-- interaction.downloads.downloadsPatch -->
@@ -35,7 +35,7 @@ Second \"item\" text"</string>
 
     <!-- misc.settings.settingsPatch -->
 
-    <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+    <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
     <string name="argusos_settings_music_screen_0_about_title">About</string>
     <string name="argusos_settings_music_screen_1_ads_title">Ads</string>
     <string name="argusos_settings_music_screen_2_general_title">General</string>

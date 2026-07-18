@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">Скрий дублиране на видеа</string>
   <string name="argusos_sb_settings_ie_title">Импортиране / Експортиране на настройки</string>
   <string name="argusos_sb_settings_copy">Дублирането на видеа се показва</string>
-  <string name="argusos_sb_settings_ie_summary">Вашата конфигурация на SponsorBlock JSON, която може да бъде импортирана/експортирана в Morphe и други платформи на SponsorBlock</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Вашата JSON конфигурация на SponsorBlock, която може да бъде импортирана / експортирана в Morphe и други платформи на SponsorBlock
+  <string name="argusos_sb_settings_ie_summary">Вашата конфигурация на SponsorBlock JSON, която може да бъде импортирана/експортирана в ArgusOS и други платформи на SponsorBlock</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Вашата JSON конфигурация на SponsorBlock, която може да бъде импортирана / експортирана в ArgusOS и други платформи на SponsorBlock
 
 Това включва вашия частен потребителски идентификатор. Уверете се, че споделяте това разумно"</string>
   <string name="argusos_sb_settings_import_successful">Дублирането на видеа се показва</string>

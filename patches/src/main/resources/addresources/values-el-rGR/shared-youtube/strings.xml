@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">Προσαρμοσμένο</string>
   <string name="argusos_custom_branding_icon_title">Εικονίδιο εφαρμογής</string>
   <string name="argusos_custom_branding_icon_entry_1">Αρχικό</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe μαύρο</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe σκοτεινό</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe φωτεινό</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS μαύρο</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS σκοτεινό</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS φωτεινό</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe παιχνίδι φως</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS παιχνίδι φως</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe παιχνίδι μαύρο</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS παιχνίδι μαύρο</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Προσαρμοσμένο</string>
   <string name="argusos_custom_branding_notification_icon_title">Εικονίδιο ειδοποίησης</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Αλλαγή εικονιδίου της εφαρμογής;</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Ειδοποίηση Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Ειδοποίηση ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Το ιστορικό παρακολούθησης δεν αποθηκεύεται.&lt;br&gt;&lt;br&gt;Πιθανό να συμβαίνει λόγω κάποιας υπηρεσίας DNS που μπλοκάρει διαφημίσεις ή μέσω κάποιου διακομιστή μεσολάβησης δικτύου.&lt;br&gt;&lt;br&gt;Μια λύση γι\'αυτό θα ήταν να προσθέσετε σε whitelist το &lt;b&gt;s.youtube.com&lt;/b&gt; ή να απενεργοποιήστε το DNS και τους διακομιστές μεσολάβησης δικτύου.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Να μην εμφανιστεί ξανά</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Η είσοδος ολοκληρώθηκε με επιτυχία</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Η ταυτοποίηση αποθηκεύτηκε
 
-• Οι ρυθμίσεις του Morphe δεν θα εισάγουν/εξάγουν την ταυτοποίηση Android VR
+• Οι ρυθμίσεις του ArgusOS δεν θα εισάγουν/εξάγουν την ταυτοποίηση Android VR
 • Εάν η εφαρμογή παραμείνει αχρησιμοποίητη για 6 μήνες, η Google θα αφαιρέσει αυτή την ταυτοποίηση
 • Θα χρειαστεί να συνδεθείτε ξανά, εάν αλλάξετε το κωδικό πρόσβασης της Google ή απεγράψετε αυτή την συσκευή από τις ρυθμίσεις της Google"</string>
   <string name="argusos_oauth2_connection_failure_timeout">Το OAuth2 είναι προσωρινά μη διαθέσιμο (λήξη API)</string>

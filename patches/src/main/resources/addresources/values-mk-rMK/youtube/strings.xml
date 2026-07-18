@@ -17,8 +17,8 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="argusos_settings_screen_00_about_title">За Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
+  <string name="argusos_settings_screen_00_about_title">За ArgusOS</string>
   <string name="argusos_settings_screen_01_ads_title">Реклами</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Алтернативни сликички</string>
   <string name="argusos_settings_screen_03_feed_title">Содржини</string>
@@ -451,7 +451,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_settings_button_title">Прикажи копче Settings</string>
   <string name="argusos_show_settings_button_index_title">Позиција на копчето Settings</string>
   <string name="argusos_show_settings_button_type_title">Акција на копчето за поставки</string>
-  <string name="argusos_show_settings_button_type_summary">Кога е овозможено, допир го отвора Morphe поставените параметри, а долго притискање го отвора YouTube поставените параметри</string>
+  <string name="argusos_show_settings_button_type_summary">Кога е овозможено, допир го отвора ArgusOS поставените параметри, а долго притискање го отвора YouTube поставените параметри</string>
   <string name="argusos_swap_create_with_notifications_button_title">Заменете го копчето „Креирај“ со копчето „Известувања“</string>
   <string name="argusos_hide_navigation_button_labels_title">Скриј ги ознаките на копчињата за навигација</string>
   <string name="argusos_hide_navigation_bar_title">Скриј лента за навигација</string>
@@ -483,7 +483,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">Прикажи копче Settings</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Позиција на копчето Settings</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Акција на копчето за поставки за Toolbar</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Кога е овозможено, допир го отвора Morphe поставените параметри, а долго притискање го отвора YouTube поставените параметри</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Кога е овозможено, допир го отвора ArgusOS поставените параметри, а долго притискање го отвора YouTube поставените параметри</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Паѓачки мени</string>
   <string name="argusos_hide_player_flyout_summary">Изберете кои компоненти да се појавуваат во менито што се појавува</string>
@@ -652,7 +652,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_estimated_like_summary">Прикажува приближен број на Likes на видеа на кои креаторот ги деактивирал Likes</string>
   <string name="argusos_ryd_toast_on_connection_error_title">Прикажи известувања за грешки во поврзувањето</string>
   <string name="argusos_ryd_toast_on_connection_error_summary">Прикажува известување кога серверот Return YouTube Dislike не е достапен</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Статистика на Return YouTube Dislike API на овој уред</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Време за одговор на API, просек</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Време за одговор на API, минимум</string>

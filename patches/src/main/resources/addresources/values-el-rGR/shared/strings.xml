@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Εισαγωγή</string>
   <string name="argusos_settings_import_copy">Αντιγραφή</string>
-  <string name="argusos_settings_import_reset">Επαναφέρθηκαν οι προεπιλεγμένες ρυθμίσεις του Morphe</string>
+  <string name="argusos_settings_import_reset">Επαναφέρθηκαν οι προεπιλεγμένες ρυθμίσεις του ArgusOS</string>
   <string name="argusos_settings_import_success">Έγινε εισαγωγή %d ρυθμίσεων</string>
   <string name="argusos_settings_import_failure_parse">Η εισαγωγή απέτυχε: %s</string>
   <string name="argusos_settings_search_hint">Ρυθμίσεις αναζήτησης</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Το ιστορικό αναζήτησης είναι κενό</string>
   <string name="argusos_settings_search_empty_history_summary">Για να αποθηκεύσετε το ιστορικό αναζήτησης, πληκτρολογήστε ένα ερώτημα αναζήτησης και πατήστε Enter</string>
   <string name="argusos_settings_search_history_title">Εμφάνιση ιστορικού αναζήτησης ρυθμίσεων</string>
-  <string name="argusos_show_menu_icons_title">Εμφάνιση εικονιδίων στις ρυθμίσεις του Morphe</string>
-  <string name="argusos_language_title">Γλώσσα ρυθμίσεων του Morphe</string>
+  <string name="argusos_show_menu_icons_title">Εμφάνιση εικονιδίων στις ρυθμίσεις του ArgusOS</string>
+  <string name="argusos_language_title">Γλώσσα ρυθμίσεων του ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"Οι μεταφράσεις για κάποιες γλώσσες ενδέχεται να λείπουν ή να είναι ελλιπείς.
 
-Για να μεταφράσετε σε νέες γλώσσες ή να βελτιώσετε τις υπάρχουσες μεταφράσεις, επισκεφθείτε τη διεύθυνση morphe.software/translate"</string>
+Για να μεταφράσετε σε νέες γλώσσες ή να βελτιώσετε τις υπάρχουσες μεταφράσεις, επισκεφθείτε τη διεύθυνση argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Γλώσσα εφαρμογής</string>
   <string name="argusos_pref_import_export_title">Εισαγωγή / Εξαγωγή</string>
-  <string name="argusos_pref_import_export_summary">Εισαγωγή / Εξαγωγή ρυθμίσεων του Morphe</string>
+  <string name="argusos_pref_import_export_summary">Εισαγωγή / Εξαγωγή ρυθμίσεων του ArgusOS</string>
   <string name="argusos_settings_import_file">Εισαγωγή από αρχείο</string>
   <string name="argusos_settings_import_file_success">Οι ρυθμίσεις εισήχθησαν επιτυχώς, πατήστε Αποθήκευση για να τις εφαρμόσετε</string>
   <string name="argusos_settings_import_file_failed">Αποτυχία εισαγωγής ρυθμίσεων</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">Επιτυχής εξαγωγή ρυθμίσεων</string>
   <string name="argusos_settings_export_file_failed">Αποτυχία εξαγωγής ρυθμίσεων</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Χρησιμοποιείτε την πιο πρόσφατη έκδοση τροποποιήσεων του Morphe &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Χρησιμοποιείτε την έκδοση τροποποιήσεων Morphe &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Διαθέσιμη ενημέρωση: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Για να ενημερώσετε τις τροποποιήσεις σας, χρησιμοποιήστε το Morphe για να τροποποιήσετε ξανά αυτήν την εφαρμογή</string>
+  <string name="argusos_settings_about_links_body_version_current">Χρησιμοποιείτε την πιο πρόσφατη έκδοση τροποποιήσεων του ArgusOS &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Χρησιμοποιείτε την έκδοση τροποποιήσεων ArgusOS &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Διαθέσιμη ενημέρωση: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Για να ενημερώσετε τις τροποποιήσεις σας, χρησιμοποιήστε το ArgusOS για να τροποποιήσετε ξανά αυτήν την εφαρμογή</string>
   <string name="argusos_settings_about_links_dev_header">Σημείωση</string>
   <string name="argusos_settings_about_links_dev_body">Αυτή η έκδοση είναι σε πρώιμο στάδιο, επομένως πιθανότατα να αντιμετωπίσετε απρόοπτα προβλήματα</string>
   <string name="argusos_settings_about_links_header">Επίσημοι σύνδεσμοι</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">Ενεργοποίηση καταγραφής εντοπισμού σφαλμάτων</string>
   <string name="argusos_debug_stacktrace_title">Αρχείο καταγραφής εντοπισμού σφαλμάτων ίχνους στοίβας</string>
   <string name="argusos_debug_stacktrace_summary">Περιλαμβάνει ίχνη στοίβας στα αρχεία καταγραφής εντοπισμού σφαλμάτων για να βοηθήσει στον εντοπισμό σφαλμάτων</string>
-  <string name="argusos_debug_toast_on_error_title">Εμφάνιση μηνυμάτων σφαλμάτων του Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Η απενεργοποίηση των μηνυμάτων σφαλμάτων κρύβει όλες τις ειδοποιήσεις σφαλμάτων που αφορούν το Morphe.
+  <string name="argusos_debug_toast_on_error_title">Εμφάνιση μηνυμάτων σφαλμάτων του ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Η απενεργοποίηση των μηνυμάτων σφαλμάτων κρύβει όλες τις ειδοποιήσεις σφαλμάτων που αφορούν το ArgusOS.
 
 Δε θα ειδοποιηθείτε για τυχόν απρόβλεπτα γεγονότα."</string>
   <string name="argusos_debug_export_logs_title">Εξαγωγή αρχείων καταγραφής εντοπισμού σφαλμάτων</string>
-  <string name="argusos_debug_export_logs_summary">Εξαγωγή αρχείων καταγραφής εντοπισμού σφαλμάτων του Morphe</string>
+  <string name="argusos_debug_export_logs_summary">Εξαγωγή αρχείων καταγραφής εντοπισμού σφαλμάτων του ArgusOS</string>
   <string name="argusos_debug_export_logs_file">Εξαγωγή σε αρχείο</string>
   <string name="argusos_debug_export_logs_success">Τα αρχεία καταγραφής εντοπισμού σφαλμάτων εξήχθησαν επιτυχώς</string>
   <string name="argusos_debug_export_logs_failed">Αποτυχία εξαγωγής αρχείων καταγραφής εντοπισμού σφαλμάτων</string>

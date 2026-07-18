@@ -39,7 +39,7 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL на API променет</string>
   <string name="argusos_sb_settings_copy">Копирај</string>
   <string name="argusos_sb_settings_ie_summary">Вашата конфигурација во JSON на спонзор зашто и што можере со чино техеничи кчуро од перина со спонзор и овие платформи</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Вашата конфигурација на JSON на SponsorBlock што може да се увезе / изнесе во Morphe и други платформи на SponsorBlock
+  <string name="argusos_sb_settings_ie_summary_warning">"Вашата конфигурација на JSON на SponsorBlock што може да се увезе / изнесе во ArgusOS и други платформи на SponsorBlock
 
 Ова ги вклучува вашите приватен кориснички ID. Бидете сигурни дека ќе го споделите мудро"</string>
   <string name="argusos_sb_settings_import_successful">Поставките се увезени успешно</string>

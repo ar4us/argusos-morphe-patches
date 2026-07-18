@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">استيراد</string>
   <string name="argusos_settings_import_copy">نسخ</string>
-  <string name="argusos_settings_import_reset">إعادة تعيين إعدادات Morphe إلى الوضع الافتراضي</string>
+  <string name="argusos_settings_import_reset">إعادة تعيين إعدادات ArgusOS إلى الوضع الافتراضي</string>
   <string name="argusos_settings_import_success">تم استيراد %d إعدادات</string>
   <string name="argusos_settings_import_failure_parse">فشل الاستيراد: %s</string>
   <string name="argusos_settings_search_hint">بحث الإعدادات</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">سجل البحث فارغ</string>
   <string name="argusos_settings_search_empty_history_summary">لحفظ سجل البحث، اكتب استعلام بحث واضغط على Enter</string>
   <string name="argusos_settings_search_history_title">عرض سجل بحث الإعدادات</string>
-  <string name="argusos_show_menu_icons_title">عرض أيقونات إعدادات Morphe</string>
-  <string name="argusos_language_title">لغة Morphe</string>
+  <string name="argusos_show_menu_icons_title">عرض أيقونات إعدادات ArgusOS</string>
+  <string name="argusos_language_title">لغة ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"قد تكون ترجمات بعض اللغات مفقودة أو غير مكتملة.
 
-لترجمة لغات جديدة أو تحسين الترجمات الحالية، تفضل بزيارة morphe.software/translate"</string>
+لترجمة لغات جديدة أو تحسين الترجمات الحالية، تفضل بزيارة argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">لغة التطبيق</string>
   <string name="argusos_pref_import_export_title">استيراد / تصدير</string>
-  <string name="argusos_pref_import_export_summary">استيراد / تصدير إعدادات Morphe</string>
+  <string name="argusos_pref_import_export_summary">استيراد / تصدير إعدادات ArgusOS</string>
   <string name="argusos_settings_import_file">استيراد من ملف</string>
   <string name="argusos_settings_import_file_success">تم استيراد الإعدادات بنجاح، انقر على حفظ للتطبيق</string>
   <string name="argusos_settings_import_file_failed">فشل استيراد الإعدادات</string>
@@ -64,7 +64,7 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_failed">فشل تصدير الإعدادات</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="argusos_settings_about_links_body_version_current">أنت تستخدم أحدث إصدار من تعديلات مورڤِي &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">أنت تستخدم إصدار Morphe Patches&lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;تحديث متاح: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;لتحديث التعديلات الخاصة بك، استخدم Morphe لإعادة تعديل هذا التطبيق</string>
+  <string name="argusos_settings_about_links_body_version_outdated">أنت تستخدم إصدار ArgusOS Patches&lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;تحديث متاح: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;لتحديث التعديلات الخاصة بك، استخدم ArgusOS لإعادة تعديل هذا التطبيق</string>
   <string name="argusos_settings_about_links_dev_header">ملاحظة</string>
   <string name="argusos_settings_about_links_dev_body">هذه النسخة هي إصدار ما قبل الإطلاق وقد تواجه مشكلات غير متوقعة</string>
   <string name="argusos_settings_about_links_header">الروابط الرسمية</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">تمكين سجلات التصحيح</string>
   <string name="argusos_debug_stacktrace_title">مسار التتبع في سجل التصحيح</string>
   <string name="argusos_debug_stacktrace_summary">تتضمن سجلات تصحيح الأخطاء Stack Traces للمساعدة في تحديد الأخطاء</string>
-  <string name="argusos_debug_toast_on_error_title">عرض ملاحظة عند وجود خطأ في Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"يؤدي إيقاف تشغيل ملاحظات الأخطاء إلى إخفاء كافة إشعارات أخطاء Morphe.
+  <string name="argusos_debug_toast_on_error_title">عرض ملاحظة عند وجود خطأ في ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"يؤدي إيقاف تشغيل ملاحظات الأخطاء إلى إخفاء كافة إشعارات أخطاء ArgusOS.
 
 لن يتم إعلامك بأي أخطاء غير متوقعة."</string>
   <string name="argusos_debug_export_logs_title">تصدير سجلات تصحيح الأخطاء</string>
-  <string name="argusos_debug_export_logs_summary">تصدير سجلات تصحيح Morphe</string>
+  <string name="argusos_debug_export_logs_summary">تصدير سجلات تصحيح ArgusOS</string>
   <string name="argusos_debug_export_logs_file">تصدير إلى ملف</string>
   <string name="argusos_debug_export_logs_success">تم تصدير سجلات التصحيح بنجاح</string>
   <string name="argusos_debug_export_logs_failed">فشل تصدير سجلات التصحيح</string>

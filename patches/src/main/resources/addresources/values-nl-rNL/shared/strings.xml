@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importeren</string>
   <string name="argusos_settings_import_copy">Kopiëren</string>
-  <string name="argusos_settings_import_reset">Morphe-instellingen zijn teruggezet naar de standaardinstellingen</string>
+  <string name="argusos_settings_import_reset">ArgusOS-instellingen zijn teruggezet naar de standaardinstellingen</string>
   <string name="argusos_settings_import_success">%d instellingen geïmporteerd</string>
   <string name="argusos_settings_import_failure_parse">Importeren mislukt: %s</string>
   <string name="argusos_settings_search_hint">Zoekinstellingen</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Zoekgeschiedenis is leeg</string>
   <string name="argusos_settings_search_empty_history_summary">Om zoekgeschiedenis op te slaan, typ een zoekopdracht en druk op Enter</string>
   <string name="argusos_settings_search_history_title">Zoekgeschiedenis instellingen weergeven</string>
-  <string name="argusos_show_menu_icons_title">Pictogrammen voor Morphe-instellingen weergeven</string>
-  <string name="argusos_language_title">Morphe-taal</string>
+  <string name="argusos_show_menu_icons_title">Pictogrammen voor ArgusOS-instellingen weergeven</string>
+  <string name="argusos_language_title">ArgusOS-taal</string>
   <string name="argusos_language_user_dialog_message">"Vertalingen voor sommige talen kunnen ontbreken of onvolledig zijn.
 
-Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek morphe.software/translate"</string>
+Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">App-taal</string>
   <string name="argusos_pref_import_export_title">Importeren / Exporteren</string>
-  <string name="argusos_pref_import_export_summary">Morphe-instellingen importeren / exporteren</string>
+  <string name="argusos_pref_import_export_summary">ArgusOS-instellingen importeren / exporteren</string>
   <string name="argusos_settings_import_file">Importeren uit bestand</string>
   <string name="argusos_settings_import_file_success">Instellingen succesvol geïmporteerd, tik op Opslaan om toe te passen</string>
   <string name="argusos_settings_import_file_failed">Het importeren van instellingen is mislukt</string>
@@ -63,8 +63,8 @@ Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek morph
   <string name="argusos_settings_export_file_success">Instellingen succesvol geëxporteerd</string>
   <string name="argusos_settings_export_file_failed">Het exporteren van instellingen is mislukt</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">U gebruikt de nieuwste Morphe Patches versie &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">U gebruikt Morphe Patches versie &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Bijwerking beschikbaar: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om uw patches bij te werken, gebruikt u Morphe om deze app opnieuw te patchen</string>
+  <string name="argusos_settings_about_links_body_version_current">U gebruikt de nieuwste ArgusOS Patches versie &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">U gebruikt ArgusOS Patches versie &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Bijwerking beschikbaar: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om uw patches bij te werken, gebruikt u ArgusOS om deze app opnieuw te patchen</string>
   <string name="argusos_settings_about_links_dev_header">Opmerking</string>
   <string name="argusos_settings_about_links_dev_body">Deze versie is een pre-release en u kunt onverwachte problemen ondervinden</string>
   <string name="argusos_settings_about_links_header">Officiële links</string>
@@ -88,12 +88,12 @@ Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek morph
   <string name="argusos_debug_title">Schakel debuglogboek in</string>
   <string name="argusos_debug_stacktrace_title">Debug log stack trace</string>
   <string name="argusos_debug_stacktrace_summary">Bevat stack traces in debuglogs om fouten te helpen identificeren</string>
-  <string name="argusos_debug_toast_on_error_title">Toon toastmelding bij Morphe error</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Het uitschakelen van foutmeldingen verbergt alle Morphe-foutmeldingen.
+  <string name="argusos_debug_toast_on_error_title">Toon toastmelding bij ArgusOS error</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Het uitschakelen van foutmeldingen verbergt alle ArgusOS-foutmeldingen.
 
 U wordt niet op de hoogte gesteld van onverwachte gebeurtenissen."</string>
   <string name="argusos_debug_export_logs_title">Foutopsporingslogboeken exporteren</string>
-  <string name="argusos_debug_export_logs_summary">Export Morphe debug logs</string>
+  <string name="argusos_debug_export_logs_summary">Export ArgusOS debug logs</string>
   <string name="argusos_debug_export_logs_file">Exporteren naar bestand</string>
   <string name="argusos_debug_export_logs_success">Debuglogboeken succesvol geëxporteerd</string>
   <string name="argusos_debug_export_logs_failed">Mislukt om debuglogboeken te exporteren</string>

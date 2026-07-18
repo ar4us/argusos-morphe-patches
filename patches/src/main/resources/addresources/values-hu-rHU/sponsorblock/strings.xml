@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL megváltoztatva</string>
   <string name="argusos_sb_settings_ie_title">Beállítások importálása/exportálása</string>
   <string name="argusos_sb_settings_copy">Másolás</string>
-  <string name="argusos_sb_settings_ie_summary">Az Ön SponsorBlock JSON-konfigurációja, amely importálható/exportálható Morphe és más SponsorBlock platformokra</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"A SponsorBlock JSON konfigurációja, amely importálható / exportálható a Morphe és más SponsorBlock platformokra
+  <string name="argusos_sb_settings_ie_summary">Az Ön SponsorBlock JSON-konfigurációja, amely importálható/exportálható ArgusOS és más SponsorBlock platformokra</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"A SponsorBlock JSON konfigurációja, amely importálható / exportálható a ArgusOS és más SponsorBlock platformokra
 
 Ez magában foglalja a privát felhasználói azonosítóját. Ügyeljen arra, hogy bölcsen ossza meg"</string>
   <string name="argusos_sb_settings_import_successful">A beállítások sikeresen importálva</string>

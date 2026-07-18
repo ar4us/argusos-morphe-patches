@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">لمحة</string>
   <string name="argusos_settings_screen_01_ads_title">الإعلانات</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">مصغرات فيديو بديلة</string>
@@ -422,7 +422,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="argusos_swap_save_and_queue_actions_title">تبديل إجراءات حفظ وإضافة إلى قائمة الانتظار</string>
   <string name="argusos_swap_save_and_queue_actions_summary">انقر لخيارات قائمة الانتظار، واضغط مع الاستمرار للحفظ في المشاهدة لاحقًا</string>
   <string name="argusos_queue_override_flyout_menu_title">تجاوز زر قائمة الانتظار في القائمة المنبثقة</string>
-  <string name="argusos_queue_override_flyout_menu_summary">يفتح قائمة انتظار Morphe بدلًا من قائمة انتظار YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">يفتح قائمة انتظار ArgusOS بدلًا من قائمة انتظار YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">تسجيل الدخول غير ممكن</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">لا يوجد معرّف قائمة تشغيل</string>
   <string name="argusos_queue_manager_check_failed_queue">قائمة الانتظار فارغة</string>
@@ -436,7 +436,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="argusos_queue_manager_fetch_succeeded_create">تم إنشاء قائمة الانتظار</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">تمت الإزالة من قائمة الانتظار</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">تم حفظ قائمة الانتظار في %s</string>
-  <string name="argusos_queue_manager_playlist_title">قائمة تشغيل Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">قائمة تشغيل ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">إضافة إلى قائمة الانتظار</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">إضافة إلى قائمة الانتظار وفتح</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">إضافة إلى قائمة الانتظار وتشغيل</string>
@@ -626,7 +626,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="argusos_show_settings_button_title">عرض زر الإعدادات</string>
   <string name="argusos_show_settings_button_index_title">موضع زر الإعدادات</string>
   <string name="argusos_show_settings_button_type_title">إجراء زر الإعدادات</string>
-  <string name="argusos_show_settings_button_type_summary">يفتح إعدادات Morphe عند التمكين، أو إعدادات YouTube عند التعطيل</string>
+  <string name="argusos_show_settings_button_type_summary">يفتح إعدادات ArgusOS عند التمكين، أو إعدادات YouTube عند التعطيل</string>
   <string name="argusos_swap_create_with_notifications_button_title">تبديل زر الإنشاء بزر الإشعارات</string>
   <string name="argusos_swap_create_with_notifications_button_summary">إذا لم يُؤدِّ تغيير هذا الإعداد إلى أي نتيجة، جرِّب التبديل إلى وضع التصفّح المتخفي</string>
   <string name="argusos_hide_navigation_button_labels_title">إخفاء تسميات زر التنقل</string>
@@ -661,7 +661,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="argusos_show_toolbar_settings_button_title">عرض زر الإعدادات</string>
   <string name="argusos_show_toolbar_settings_button_index_title">موضع زر الإعدادات</string>
   <string name="argusos_show_toolbar_settings_button_type_title">إجراء زر الإعدادات</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">عند التمكين، يفتح النقر إعدادات Morphe، ويفتح الضغط المطوّل إعدادات YouTube، قم بتعطيله للتبديل بينهما.</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">عند التمكين، يفتح النقر إعدادات ArgusOS، ويفتح الضغط المطوّل إعدادات YouTube، قم بتعطيله للتبديل بينهما.</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">القائمة المنبثقة</string>
   <string name="argusos_hide_player_flyout_summary">اختر المكونات التي تظهر في القائمة المنبثقة</string>
@@ -845,7 +845,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="argusos_ryd_attribution_summary">"يتم توفير البيانات بواسطة Return YouTube Dislike API
 
 انقر هنا لفتح ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">إحصائيات واجهة برمجيات ReturnYouTubeDislike لهذا الجهاز</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">وقت استجابة API، متوسط</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">وقت استجابة API، الحد الأدنى</string>

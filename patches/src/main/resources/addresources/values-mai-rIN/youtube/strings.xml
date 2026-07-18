@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">लगभग</string>
   <string name="argusos_settings_screen_01_ads_title">विज्ञापन</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">वैकल्पिक थम्बनेल</string>
@@ -402,7 +402,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_video_likes_hidden_by_video_owner">भिडियो मालिकद्वारा लुकाइएको</string>
   <!-- Translations should match the language used in 'argusos_sb_enable_compact_skip_button'. -->
   <string name="argusos_ryd_estimated_like_title">अनुमानित लाइकहरू देखाउनुहोस्</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">यस उपकरणको Return YouTube Dislike API तथ्याङ्क</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API प्रतिक्रिया समय, औसत</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API प्रतिक्रिया समय, न्यूनतम</string>

@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL API diubah</string>
   <string name="argusos_sb_settings_ie_title">Impor/Ekspor pengaturan</string>
   <string name="argusos_sb_settings_copy">Salin</string>
-  <string name="argusos_sb_settings_ie_summary">Konfigurasi JSON SponsorBlock Anda yang dapat diimpor / diekspor ke Morphe dan platform SponsorBlock lainnya</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Konfigurasi JSON SponsorBlock Anda yang dapat diimpor / diekspor ke Morphe dan platform SponsorBlock lainnya
+  <string name="argusos_sb_settings_ie_summary">Konfigurasi JSON SponsorBlock Anda yang dapat diimpor / diekspor ke ArgusOS dan platform SponsorBlock lainnya</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Konfigurasi JSON SponsorBlock Anda yang dapat diimpor / diekspor ke ArgusOS dan platform SponsorBlock lainnya
 
 Ini termasuk ID pengguna pribadi Anda. Pastikan untuk membagikannya dengan bijak"</string>
   <string name="argusos_sb_settings_import_successful">Pengaturan berhasil diimpor</string>

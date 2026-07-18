@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Importálás</string>
   <string name="argusos_settings_import_copy">Másolás</string>
-  <string name="argusos_settings_import_reset">A Morphe beállítások visszaállnak az alapértelmezettre</string>
+  <string name="argusos_settings_import_reset">A ArgusOS beállítások visszaállnak az alapértelmezettre</string>
   <string name="argusos_settings_import_success">%d beállítás importálva</string>
   <string name="argusos_settings_import_failure_parse">Sikertelen importálás: %s</string>
   <string name="argusos_settings_search_hint">Beállítások keresése</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">A keresési előzmények üresek</string>
   <string name="argusos_settings_search_empty_history_summary">A keresési előzmények mentéséhez írjon be egy keresési lekérdezést, majd nyomja meg az Entert</string>
   <string name="argusos_settings_search_history_title">Beállítások keresési előzményeinek megjelenítése</string>
-  <string name="argusos_show_menu_icons_title">Morphe beállításikonok megjelenítése</string>
-  <string name="argusos_language_title">Morphe nyelve</string>
+  <string name="argusos_show_menu_icons_title">ArgusOS beállításikonok megjelenítése</string>
+  <string name="argusos_language_title">ArgusOS nyelve</string>
   <string name="argusos_language_user_dialog_message">"Egyes nyelvek fordításai hiányozhatnak vagy hiányosak lehetnek.
 
-Új nyelvek fordításához vagy a meglévő fordítások javításához látogasson el a morphe.software/translate oldalra."</string>
+Új nyelvek fordításához vagy a meglévő fordítások javításához látogasson el a argusos.software/translate oldalra."</string>
   <string name="argusos_language_DEFAULT">Alkalmazás nyelve</string>
   <string name="argusos_pref_import_export_title">Importálás / exportálás</string>
-  <string name="argusos_pref_import_export_summary">Morphe beállítások importálása / exportálása</string>
+  <string name="argusos_pref_import_export_summary">ArgusOS beállítások importálása / exportálása</string>
   <string name="argusos_settings_import_file">Fájlból importálás</string>
   <string name="argusos_settings_import_file_success">A beállítások sikeresen importálva, koppintson a Mentés gombra a alkalmazáshoz</string>
   <string name="argusos_settings_import_file_failed">Hiba történt a beállítások importálásakor</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">A beállítások sikeresen exportálva</string>
   <string name="argusos_settings_export_file_failed">Hiba történt a beállítások exportálásakor</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">A Morphe Patches legutóbbi &lt;i&gt;%s&lt;/i&gt; verzióját itt használja</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Itt használja a Morphe Patches &lt;i&gt;%1$s&lt;/i&gt; verzióját&lt;br&gt;&lt;br&gt;&lt;b&gt;Frissítés elérhető: &lt;i&gt;%2$s&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;Az appfrissítéshez használja a Morphe-t</string>
+  <string name="argusos_settings_about_links_body_version_current">A ArgusOS Patches legutóbbi &lt;i&gt;%s&lt;/i&gt; verzióját itt használja</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Itt használja a ArgusOS Patches &lt;i&gt;%1$s&lt;/i&gt; verzióját&lt;br&gt;&lt;br&gt;&lt;b&gt;Frissítés elérhető: &lt;i&gt;%2$s&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;Az appfrissítéshez használja a ArgusOS-t</string>
   <string name="argusos_settings_about_links_dev_header">Megjegyzés</string>
   <string name="argusos_settings_about_links_dev_body">Ez a verzió egy előzetes kiadás, és nem kívánt hibákat tapasztalhat</string>
   <string name="argusos_settings_about_links_header">Hivatalos linkek</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">Hibakeresési naplózás engedélyezése</string>
   <string name="argusos_debug_stacktrace_title">Hibakeresési naplók verem nyomkövetése</string>
   <string name="argusos_debug_stacktrace_summary">A hibakeresési naplókba nyomkövetési információkat (stack trace) tartalmaz a hibák azonosításának megkönnyítése érdekében</string>
-  <string name="argusos_debug_toast_on_error_title">Üzenet megjelenítése Morphe hiba esetén</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"A hibaüzenetek kikapcsolása elrejti az összes Morphe hibaértesítést.
+  <string name="argusos_debug_toast_on_error_title">Üzenet megjelenítése ArgusOS hiba esetén</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"A hibaüzenetek kikapcsolása elrejti az összes ArgusOS hibaértesítést.
 
 Nem fog értesülni semmilyen váratlan eseményről."</string>
   <string name="argusos_debug_export_logs_title">Hibakeresési naplók exportálása</string>
-  <string name="argusos_debug_export_logs_summary">Morphe hibakeresési naplók exportálása</string>
+  <string name="argusos_debug_export_logs_summary">ArgusOS hibakeresési naplók exportálása</string>
   <string name="argusos_debug_export_logs_file">Exportálás fájlba</string>
   <string name="argusos_debug_export_logs_success">A hibakeresési naplók sikeresen exportálva</string>
   <string name="argusos_debug_export_logs_failed">Nem sikerült exportálni a hibakeresési naplókat</string>

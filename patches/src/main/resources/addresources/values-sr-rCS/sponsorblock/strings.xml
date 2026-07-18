@@ -87,8 +87,8 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">URL API-ja je promenjen</string>
   <string name="argusos_sb_settings_ie_title">Uvoz/Izvoz podešavanja</string>
   <string name="argusos_sb_settings_copy">Kopiraj</string>
-  <string name="argusos_sb_settings_ie_summary">Vaša SponsorBlock JSON konfiguracija koja može da se uveze/izveze u Morphe i druge SponsorBlock platforme</string>
-  <string name="argusos_sb_settings_ie_summary_warning">"Tvoja JSON konfiguracija SponsorBlock-a koja se može uvesti / izvesti u Morphe i druge SponsorBlock platforme
+  <string name="argusos_sb_settings_ie_summary">Vaša SponsorBlock JSON konfiguracija koja može da se uveze/izveze u ArgusOS i druge SponsorBlock platforme</string>
+  <string name="argusos_sb_settings_ie_summary_warning">"Tvoja JSON konfiguracija SponsorBlock-a koja se može uvesti / izvesti u ArgusOS i druge SponsorBlock platforme
 
 Ovo uključuje tvoj privatni korisnički ID. Obavezno budite oprezni pri deljenju ovog"</string>
   <string name="argusos_sb_settings_import_successful">Podešavanja su uspešno uvezena</string>

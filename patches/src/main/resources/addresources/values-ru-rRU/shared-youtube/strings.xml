@@ -37,19 +37,19 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_icon_title">Иконка приложения</string>
   <string name="argusos_custom_branding_icon_entry_1">Оригинальная</string>
   <string name="argusos_custom_branding_icon_entry_2">Мorphe чёрный</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe тёмный</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS тёмный</string>
   <string name="argusos_custom_branding_icon_entry_4">Мorphe светлый</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe светлый</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS светлый</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe чёрный</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS чёрный</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Пользовательский</string>
   <string name="argusos_custom_branding_notification_icon_title">Значок уведомления</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Соответствие значку приложения</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Уведомление Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Уведомление ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Ваша история просмотра не сохраняется.&lt;br&gt;&lt;br&gt; Вероятнее всего это вызвано DNS блокировщиком рекламы или сетевым прокси.&lt;br&gt;&lt;br&gt; Чтобы это исправить, добавьте &lt;b&gt;s.youtube.com&lt;/b&gt; в белый список блокировщика рекламы или отключите все блокировщики DNS и прокси.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Не показывать снова</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Вход выполнен успешно</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Аутентификация сохранена
 
-• В настройках Morphe не будет импортироваться/экспортироваться аутентификация Android VR
+• В настройках ArgusOS не будет импортироваться/экспортироваться аутентификация Android VR
 • Если это приложение не будет использоваться в течение 6 месяцев, Google удалит эту аутентификацию
 • Вам нужно будет снова войти, если вы измените пароль Google или отмените регистрацию этого устройства в настройках Google"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 временно недоступен (время ожидания API истекло)</string>

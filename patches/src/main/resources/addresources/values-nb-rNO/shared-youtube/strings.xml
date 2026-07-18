@@ -36,20 +36,20 @@ Verifiser at pakkenavnet er korrekt og appen er installert"</string>
   <string name="argusos_custom_branding_name_entry_5">Tilpass</string>
   <string name="argusos_custom_branding_icon_title">Appikon</string>
   <string name="argusos_custom_branding_icon_entry_1">Original</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe svart</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe mørk</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe lys</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS svart</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS mørk</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS lys</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe lek lett</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS lek lett</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe lek svart</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS lek svart</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Tilpass</string>
   <string name="argusos_custom_branding_notification_icon_title">Varslingsikon</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Tilpass app-ikon</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe spill</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS spill</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Morphe-varsel</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">ArgusOS-varsel</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Din seerhistorikk lagres ikke.&lt;br&gt;&lt;br&gt;Dette skyldes mest sannsynlig en DNS-annonsesblokkering eller et nettverksproxy.&lt;br&gt;&lt;br&gt;For å fikse dette, legg til &lt;b&gt;s.youtube.com&lt;/b&gt; på hvitelisten eller slå av alle DNS-blokkeringer og proxyer.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Ikke vis igjen</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Trykk på Fortsett nedenfor for å logge på"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Logget inn</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Autentisering lagret
 
-• Dine Morphe-innstillinger vil ikke importere/eksportere Android VR-autentisering
+• Dine ArgusOS-innstillinger vil ikke importere/eksportere Android VR-autentisering
 • Hvis denne appen ikke brukes på 6 måneder, vil Google fjerne denne autentiseringen
 • Du må logge inn igjen hvis du endrer Google-passordet ditt eller avregistrerer denne enheten fra Google-innstillingene dine"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 er midlertidig ikke tilgjengelig (API-utløp)</string>

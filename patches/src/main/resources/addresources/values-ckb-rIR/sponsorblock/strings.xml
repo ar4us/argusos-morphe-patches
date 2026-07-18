@@ -59,7 +59,7 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_invalid">ئادرس نامەی ڕاست نەكرا</string>
   <string name="argusos_sb_api_url_changed">ئادرس ڕێكەش كرێ</string>
   <string name="argusos_sb_settings_copy">وێنەلەمەر</string>
-  <string name="argusos_sb_settings_ie_summary">Your SponsorBlock JSON configuration that can be imported / exported to Morphe and other SponsorBlock platforms</string>
+  <string name="argusos_sb_settings_ie_summary">Your SponsorBlock JSON configuration that can be imported / exported to ArgusOS and other SponsorBlock platforms</string>
   <string name="argusos_sb_settings_import_successful">ڕێکخستنەکان بە سەرکەوتوویی هاوردەکران</string>
   <string name="argusos_sb_settings_import_failed">هەڵنەتە: %s</string>
   <string name="argusos_sb_settings_export_failed">هەڵنەتە دەخورا: %s</string>

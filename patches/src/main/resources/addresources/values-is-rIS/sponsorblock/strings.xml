@@ -87,7 +87,7 @@ Second \"item\" text"</string>
   <string name="argusos_sb_api_url_changed">API URL breytt</string>
   <string name="argusos_sb_settings_ie_title">Innflutningur / Útflutningur stillingar</string>
   <string name="argusos_sb_settings_copy">Afrita</string>
-  <string name="argusos_sb_settings_ie_summary">JSON stillingar þínar frá SponsorBlock sem hægt er að flytja / flytja út til Morphe og annarra vébandrása SponsorBlock</string>
+  <string name="argusos_sb_settings_ie_summary">JSON stillingar þínar frá SponsorBlock sem hægt er að flytja / flytja út til ArgusOS og annarra vébandrása SponsorBlock</string>
   <string name="argusos_sb_settings_ie_summary_warning">"JSON stillingurnar þínar frá SponsorBlock sem hægt er nota til að flytja/flytja til þín og annarra SponsorBlock borða.
 
 Þetta inniheldur einkaeignkóðáfnaríð þitt. Vertu viss um að deila þessu ráðvillir"</string>

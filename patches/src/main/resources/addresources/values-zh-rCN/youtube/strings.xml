@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">关于</string>
   <string name="argusos_settings_screen_01_ads_title">广告</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">可选缩略图</string>
@@ -418,7 +418,7 @@ Second \"item\" text"</string>
   <string name="argusos_swap_save_and_queue_actions_title">交换保存和队列操作</string>
   <string name="argusos_swap_save_and_queue_actions_summary">点击查看队列选项，长按保存以供稍后观看</string>
   <string name="argusos_queue_override_flyout_menu_title">覆盖信息流浮动队列按钮</string>
-  <string name="argusos_queue_override_flyout_menu_summary">打开 Morphe 队列，而不是 YouTube 队列</string>
+  <string name="argusos_queue_override_flyout_menu_summary">打开 ArgusOS 队列，而不是 YouTube 队列</string>
   <string name="argusos_queue_manager_check_failed_auth">未登录</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">没有播放列表ID</string>
   <string name="argusos_queue_manager_check_failed_queue">队列为空</string>
@@ -432,7 +432,7 @@ Second \"item\" text"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">队列已创建</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">已从队列中移除</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">队列已保存到 %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe 队列</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS 队列</string>
   <string name="argusos_queue_manager_add_to_queue">添加到队列</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">添加到队列并打开</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">添加到队列并播放</string>
@@ -622,7 +622,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_settings_button_title">显示设置按钮</string>
   <string name="argusos_show_settings_button_index_title">设置按钮位置</string>
   <string name="argusos_show_settings_button_type_title">设置按钮操作</string>
-  <string name="argusos_show_settings_button_type_summary">启用时打开 Morphe 设置，禁用时打开 YouTube 设置</string>
+  <string name="argusos_show_settings_button_type_summary">启用时打开 ArgusOS 设置，禁用时打开 YouTube 设置</string>
   <string name="argusos_swap_create_with_notifications_button_title">交换“创建”按钮与“通知”按钮</string>
   <string name="argusos_swap_create_with_notifications_button_summary">如果更改此设置没有生效，请尝试切换到无痕模式。</string>
   <string name="argusos_hide_navigation_button_labels_title">隐藏导航栏按钮标签</string>
@@ -656,7 +656,7 @@ Second \"item\" text"</string>
   <string name="argusos_show_toolbar_settings_button_title">显示设置按钮</string>
   <string name="argusos_show_toolbar_settings_button_index_title">设置按钮位置</string>
   <string name="argusos_show_toolbar_settings_button_type_title">设置按钮操作</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">启用时，点击可打开 Morphe 设置，长按可打开 YouTube 设置，禁用则反向操作</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">启用时，点击可打开 ArgusOS 设置，长按可打开 YouTube 设置，禁用则反向操作</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">弹出菜单</string>
   <string name="argusos_hide_player_flyout_summary">选择在浮动菜单中显示哪些组件</string>
@@ -840,7 +840,7 @@ Second \"item\" text"</string>
   <string name="argusos_ryd_attribution_summary">"数据由 Return YouTube Dislike API 提供
 
 点击此处打开 ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">ReturnYouTubeDislike API 设备统计信息</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API 响应时间，平均值</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API 响应时间，最小值</string>

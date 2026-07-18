@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Giới thiệu</string>
   <string name="argusos_settings_screen_01_ads_title">Quảng cáo</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Hình thu nhỏ thay thế</string>
@@ -415,7 +415,7 @@ Lưu ý: Có thể không hoạt động với video phát trực tiếp"</strin
   <string name="argusos_swap_save_and_queue_actions_title">Đổi chỗ Lưu và tùy chọn Hàng chờ</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Bấm để xem các tùy chọn hàng đợi, bấm giữ để lưu vào xem sau</string>
   <string name="argusos_queue_override_flyout_menu_title">Ghi đè nút hàng chờ trong trang video</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Mở hàng chờ Morphe thay vì hàng chờ YouTube</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Mở hàng chờ ArgusOS thay vì hàng chờ YouTube</string>
   <string name="argusos_queue_manager_check_failed_auth">Chưa đăng nhập</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Không có ID danh sách phát</string>
   <string name="argusos_queue_manager_check_failed_queue">Hàng chờ trống</string>
@@ -429,7 +429,7 @@ Lưu ý: Có thể không hoạt động với video phát trực tiếp"</strin
   <string name="argusos_queue_manager_fetch_succeeded_create">Đã tạo hàng chờ</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Đã xóa khỏi hàng chờ</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Đã lưu hàng chờ vào %s</string>
-  <string name="argusos_queue_manager_playlist_title">Hàng chờ Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Hàng chờ ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Thêm vào hàng chờ</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Thêm vào hàng chờ và mở</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Thêm vào hàng chờ và phát</string>
@@ -619,7 +619,7 @@ Cần cung cấp \"Cookie phụ đề\""</string>
   <string name="argusos_show_settings_button_title">Hiện nút Cài đặt</string>
   <string name="argusos_show_settings_button_index_title">Vị trí nút Cài đặt</string>
   <string name="argusos_show_settings_button_type_title">Thao tác nút cài đặt</string>
-  <string name="argusos_show_settings_button_type_summary">Mở cài đặt Morphe khi bật, hoặc mở cài đặt YouTube khi tắt</string>
+  <string name="argusos_show_settings_button_type_summary">Mở cài đặt ArgusOS khi bật, hoặc mở cài đặt YouTube khi tắt</string>
   <string name="argusos_swap_create_with_notifications_button_title">Đổi chỗ nút Tạo với nút Thông báo</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Nếu tắt đi bật lại cài đặt này cũng không có thay đổi gì, bạn có thể thử chuyển sang chế độ Ẩn danh</string>
   <string name="argusos_hide_navigation_button_labels_title">Ẩn tên nút điều hướng</string>
@@ -653,7 +653,7 @@ Cần cung cấp \"Cookie phụ đề\""</string>
   <string name="argusos_show_toolbar_settings_button_title">Hiện nút Cài đặt</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Vị trí nút Cài đặt</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Thao tác nút cài đặt</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Khi bật, bấm sẽ mở Cài đặt Morphe và giữ sẽ mở Cài đặt YouTube, tắt để đổi ngược lại</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Khi bật, bấm sẽ mở Cài đặt ArgusOS và giữ sẽ mở Cài đặt YouTube, tắt để đổi ngược lại</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menu tuỳ chọn</string>
   <string name="argusos_hide_player_flyout_summary">Chọn những thành phần sẽ xuất hiện trong menu tùy chọn</string>
@@ -837,7 +837,7 @@ Cài đặt → Phát (hoặc Tự động phát) → tự động phát video t
   <string name="argusos_ryd_attribution_summary">"Dữ liệu được cung cấp bởi API Return YouTube Dislike
 
 Bấm vào đây để mở ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Thống kê API ReturnYouTubeDislike của thiết bị này</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Thời gian phản hồi API, trung binh</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Thời gian phản hồi API, tối thiểu</string>

@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">自訂</string>
   <string name="argusos_custom_branding_icon_title">應用程式圖示</string>
   <string name="argusos_custom_branding_icon_entry_1">原始</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe 黑色</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe 深色</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe 淺色</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS 黑色</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS 深色</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS 淺色</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe 淺色</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS 淺色</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe 黑色</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS 黑色</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">自訂</string>
   <string name="argusos_custom_branding_notification_icon_title">通知圖示</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">變更應用程式圖示？</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe 玩</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS 玩</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Morphe 通知</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">ArgusOS 通知</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">你的觀看記錄未被儲存。&lt;br&gt;&lt;br&gt;這很可能是由 DNS 廣告封鎖器或網路代理所導致。&lt;br&gt;&lt;br&gt;若要解決此問題，請將 &lt;b&gt;s.youtube.com&lt;/b&gt; 加入白名單，或關閉所有 DNS 封鎖器和代理。</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">不再顯示</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">成功登入</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"驗證已儲存
 
-• 你的 Morphe 設定不會匯入/匯出 Android VR 驗證資訊。
+• 你的 ArgusOS 設定不會匯入/匯出 Android VR 驗證資訊。
 • 如果這個應用程式超過 6 個月未使用，Google 將會移除這個驗證授權。
 • 如果你變更 Google 密碼，或在 Google 設定中取消註冊這個裝置，則需要重新登入。"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 暫時不可用（API 已逾時）</string>

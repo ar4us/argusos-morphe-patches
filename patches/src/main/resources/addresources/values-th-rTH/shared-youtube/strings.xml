@@ -36,20 +36,20 @@ Second \"item\" text"</string>
   <string name="argusos_custom_branding_name_entry_5">กำหนดเอง</string>
   <string name="argusos_custom_branding_icon_title">ไอคอนแอป</string>
   <string name="argusos_custom_branding_icon_entry_1">ต้นฉบับ</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe ดำ</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe มืด</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe แสง</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS ดำ</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS มืด</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS แสง</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play light</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play light</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play black</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play black</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">กำหนดเอง</string>
   <string name="argusos_custom_branding_notification_icon_title">ไอคอนการแจ้งเตือน</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">จับคู่ไอคอนแอป</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">ประกาศ Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">ประกาศ ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">ประวัติการรับชมของคุณไม่ได้ถูกบันทึก&lt;br&gt;&lt;br&gt;สาเหตุที่เป็นไปได้มากที่สุดคือตัวบล็อกโฆษณา DNS หรือพร็อกซีเครือข่าย&lt;br&gt;&lt;br&gt;เพื่อแก้ไขปัญหานี้ ให้เพิ่ม &lt;b&gt;s.youtube.com&lt;/b&gt; ในรายการที่อนุญาต หรือปิดตัวบล็อกโฆษณา DNS และพร็อกซีทั้งหมด</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">อย่าแสดงอีก</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Second \"item\" text"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">เข้าสู่ระบบสำเร็จ</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"โทเค็นเข้าสู่ระบบสำเร็จ
 
-• ตั้งแตนี้ต่อไป Morphe รับ batery meter ข้อมูลฉบับเต็มจาก Android VR กลับสู่ระบบจะไม่สามารถทำได้
+• ตั้งแตนี้ต่อไป ArgusOS รับ batery meter ข้อมูลฉบับเต็มจาก Android VR กลับสู่ระบบจะไม่สามารถทำได้
 • ถ้าแอปนี้มิได้ใช้เป็นระยะเวลา 6 เดือน Google จะลบทोเค็นนี้ไป
 • ถ้าคุณเปลี่ยนรหัสผ่าน Google หรือลบที่นี้ออกจากตั้งค่า Google คุณก็ต้องเข้าสู่ระบบอีกครั้ง"</string>
   <string name="argusos_oauth2_connection_failure_timeout">OAuth2 นั้นล่าช้าชั่วคราว (API หมดเวลา)</string>

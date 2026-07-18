@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Über</string>
   <string name="argusos_settings_screen_01_ads_title">Werbung</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Alternative Thumbnails</string>
@@ -419,7 +419,7 @@ Information: Funktioniert möglicherweise nicht bei Livestreams"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Tausche Speichern- und Warteschlangenaktionen</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Tippen für Warteschlangen-Optionen; tippen und halten, um zum späteren Ansehen zu speichern.</string>
   <string name="argusos_queue_override_flyout_menu_title">Überschreiben-Schaltfläche für Feed-Flyout-Warteschlange</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Öffnet die Morphe-Warteschlange anstelle der YouTube-Warteschlange</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Öffnet die ArgusOS-Warteschlange anstelle der YouTube-Warteschlange</string>
   <string name="argusos_queue_manager_check_failed_auth">Nicht angemeldet</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Keine Wiedergabelisten-ID</string>
   <string name="argusos_queue_manager_check_failed_queue">Warteschlange ist leer</string>
@@ -433,7 +433,7 @@ Information: Funktioniert möglicherweise nicht bei Livestreams"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Warteschlange erstellt</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Aus der Warteschlange entfernt</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Warteschlange gespeichert unter %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe-Warteschlange</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS-Warteschlange</string>
   <string name="argusos_queue_manager_add_to_queue">Zur Warteschlange hinzufügen</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Zur Warteschlange hinzufügen und öffnen</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Zur Warteschlange hinzufügen und Video abspielen</string>
@@ -623,7 +623,7 @@ Hinweis: Wenn „Videostreams spoofen“ nicht aktiviert ist, kann das Aktiviere
   <string name="argusos_show_settings_button_title">Schaltfläche „Einstellungen“ anzeigen</string>
   <string name="argusos_show_settings_button_index_title">Position der Schaltfläche „Einstellungen“</string>
   <string name="argusos_show_settings_button_type_title">Aktion der Schaltfläche „Einstellungen“</string>
-  <string name="argusos_show_settings_button_type_summary">Öffnet Morphe-Einstellungen, wenn aktiviert; sonst YouTube-Einstellungen</string>
+  <string name="argusos_show_settings_button_type_summary">Öffnet ArgusOS-Einstellungen, wenn aktiviert; sonst YouTube-Einstellungen</string>
   <string name="argusos_swap_create_with_notifications_button_title">Erstellen-Schaltfläche mit Benachrichtigungsschaltfläche tauschen</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Wenn die Änderung dieser Einstellung keinen Effekt hat, versuchen Sie, in den Inkognito-Modus zu wechseln.</string>
   <string name="argusos_hide_navigation_button_labels_title">Navigationstastenbezeichnungen ausblenden</string>
@@ -657,7 +657,7 @@ Um auf die Einstellungen zuzugreifen, aktiviere den Einstellungen-Button über A
   <string name="argusos_show_toolbar_settings_button_title">Schaltfläche „Einstellungen“ anzeigen</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Position der Einstellungen-Schaltfläche</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Aktion der Schaltfläche „Einstellungen“</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Bei Aktivierung öffnet Tippen die Morphe-Einstellungen und Langdruck die YouTube-Einstellungen; zum Tauschen deaktivieren.</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Bei Aktivierung öffnet Tippen die ArgusOS-Einstellungen und Langdruck die YouTube-Einstellungen; zum Tauschen deaktivieren.</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Einstellungs-Menü</string>
   <string name="argusos_hide_player_flyout_summary">Wähle aus, welche Komponenten im Flyout-Menü angezeigt werden</string>
@@ -841,7 +841,7 @@ Einstellungen → Wiedergabe (oder Automatische Wiedergabe) → Nächstes Video 
   <string name="argusos_ryd_attribution_summary">"Daten werden von der Return YouTube Dislike API bereitgestellt
 
 Tippen Sie hier, um ReturnYouTubeDislike.com zu öffnen"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statistiken der Return YouTube Dislike API für dieses Gerät</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">API-Antwortzeit, Durchschnitt</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">API-Antwortzeit, Minimum</string>

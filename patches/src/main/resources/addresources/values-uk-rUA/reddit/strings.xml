@@ -48,7 +48,7 @@ Second \"item\" text"</string>
   <string name="argusos_remove_nsfw_dialog_title">Видалити діалог попередження NSFW</string>
   <string name="argusos_remove_nsfw_dialog_summary">Автоматично підтверджує попередження про контент для дорослих при відвідуванні субредіту</string>
   <string name="argusos_screen_miscellaneous_title">Різне</string>
-  <string name="argusos_about_title">Про Morphe</string>
+  <string name="argusos_about_title">Про ArgusOS</string>
   <string name="argusos_about_summary">Версія патчів та офіційні посилання</string>
   <string name="argusos_sanitize_sharing_links_title">Очищувати посилання для поширення</string>
   <string name="argusos_sanitize_sharing_links_summary">Видаляє параметри відстеження з посилань при поширенні</string>

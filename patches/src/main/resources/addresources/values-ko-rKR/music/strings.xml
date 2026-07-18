@@ -28,7 +28,7 @@ Second \"item\" text"</string>
   <string name="argusos_external_downloader_action_button_summary">YouTube Music의 기본 다운로드 기능 대신 선택한 외부 다운로더를 사용합니다</string>
   <string name="argusos_external_downloader_flyout_menu_title">오프라인 저장 메뉴 재정의하기</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_music_screen_0_about_title">정보</string>
   <string name="argusos_settings_music_screen_1_ads_title">광고</string>
   <string name="argusos_settings_music_screen_2_general_title">일반</string>

@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">នាំចូល</string>
   <string name="argusos_settings_import_copy">ចម្លង</string>
-  <string name="argusos_settings_import_reset">ការកំណត់របស់ Morphe ត្រូវស្ដារទៅបុរេជម្រើស</string>
+  <string name="argusos_settings_import_reset">ការកំណត់របស់ ArgusOS ត្រូវស្ដារទៅបុរេជម្រើស</string>
   <string name="argusos_settings_import_success">បាននាំចូលការកំណត់ %d</string>
   <string name="argusos_settings_import_failure_parse">ការនាំចូលបានបរាជ័យ៖ %s</string>
   <string name="argusos_settings_search_hint">ស្វែងរកការកំណត់</string>
@@ -41,7 +41,7 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">ប្រវត្តិស្វែងរក ទទេរ</string>
   <string name="argusos_language_DEFAULT">ភាសាកម្មវិធី</string>
   <string name="argusos_pref_import_export_title">នាំចូល / នាំចេញ</string>
-  <string name="argusos_pref_import_export_summary">ការកំណត់នាំចូល / នាំចេញរបស់ Morphe</string>
+  <string name="argusos_pref_import_export_summary">ការកំណត់នាំចូល / នាំចេញរបស់ ArgusOS</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="argusos_settings_about_links_header">បញ្ជាប់ផ្លូវការ</string>
   <string name="argusos_settings_about_links_website">វេបសាយ</string>

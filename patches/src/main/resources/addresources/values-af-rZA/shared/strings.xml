@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Invoer</string>
   <string name="argusos_settings_import_copy">Kopie</string>
-  <string name="argusos_settings_import_reset">Morphe instellings is teruggesit na verstek</string>
+  <string name="argusos_settings_import_reset">ArgusOS instellings is teruggesit na verstek</string>
   <string name="argusos_settings_import_success">%d instellings ingevoer</string>
   <string name="argusos_settings_import_failure_parse">Invoer misluk: %s</string>
   <string name="argusos_settings_search_hint">Soek instellings</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Soekgeskiedenis is leeg</string>
   <string name="argusos_settings_search_empty_history_summary">Om soekgeskiedenis te stoor, tik \'n soekversoek en druk Enter</string>
   <string name="argusos_settings_search_history_title">Wys soekgeskiedenis</string>
-  <string name="argusos_show_menu_icons_title">Wys Morphe instellingsikone</string>
-  <string name="argusos_language_title">Morphe taal</string>
+  <string name="argusos_show_menu_icons_title">Wys ArgusOS instellingsikone</string>
+  <string name="argusos_language_title">ArgusOS taal</string>
   <string name="argusos_language_user_dialog_message">"Vertalings vir sommige tale is dalk ontbrekend of onvolledig.
 
-Om nuwe tale te vertaal of bestaande vertalings te verbeter, besoek morphe.software/translate"</string>
+Om nuwe tale te vertaal of bestaande vertalings te verbeter, besoek argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Program taal</string>
   <string name="argusos_pref_import_export_title">Invoer / Uitvoer</string>
-  <string name="argusos_pref_import_export_summary">Importeer / Voer Morphe instellings uit</string>
+  <string name="argusos_pref_import_export_summary">Importeer / Voer ArgusOS instellings uit</string>
   <string name="argusos_settings_import_file">Invoer vanaf vyl</string>
   <string name="argusos_settings_import_file_success">Instellings is suksesvol ingevoer, tik Stoor om toe te pas</string>
   <string name="argusos_settings_import_file_failed">Instellings kon nie ingevoer word nie</string>
@@ -63,8 +63,8 @@ Om nuwe tale te vertaal of bestaande vertalings te verbeter, besoek morphe.softw
   <string name="argusos_settings_export_file_success">Instellings is suksesvol uitgevoer</string>
   <string name="argusos_settings_export_file_failed">Instellings kon nie uitgevoer word nie</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Jy gebruik die nuutste Morphe Patches weergawe &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Jy gebruik Morphe Verandering weergawe &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Opdatering beskikbaar: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om jou veranderinge op te dateer, gebruik Morphe om hierdie program weer te herverander.</string>
+  <string name="argusos_settings_about_links_body_version_current">Jy gebruik die nuutste ArgusOS Patches weergawe &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Jy gebruik ArgusOS Verandering weergawe &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Opdatering beskikbaar: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Om jou veranderinge op te dateer, gebruik ArgusOS om hierdie program weer te herverander.</string>
   <string name="argusos_settings_about_links_dev_header">Let wel</string>
   <string name="argusos_settings_about_links_dev_body">Hierdie weergawe is \'n voorvrystelling en jy mag onverwags probleme ervaar</string>
   <string name="argusos_settings_about_links_header">Amptelike skakels</string>
@@ -88,12 +88,12 @@ Om nuwe tale te vertaal of bestaande vertalings te verbeter, besoek morphe.softw
   <string name="argusos_debug_title">Aktiveer ontfoutingslogboek</string>
   <string name="argusos_debug_stacktrace_title">Ontfouting logboek stapelspoor</string>
   <string name="argusos_debug_stacktrace_summary">Sluit stapelspore in in ontfoutingslogboeke om foute te help identifiseer</string>
-  <string name="argusos_debug_toast_on_error_title">Wys rooster op Morphe fout</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Om foutrooster uit te skakel, verberg dit al Morphe foutkennisgewings.
+  <string name="argusos_debug_toast_on_error_title">Wys rooster op ArgusOS fout</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Om foutrooster uit te skakel, verberg dit al ArgusOS foutkennisgewings.
 
 Jy sal nie van enige onverwags gebeurtenisse in kennis gestel word nie."</string>
   <string name="argusos_debug_export_logs_title">Voer ontfouting protokolle uit</string>
-  <string name="argusos_debug_export_logs_summary">Voer Morphe ontfouting protokolle uit</string>
+  <string name="argusos_debug_export_logs_summary">Voer ArgusOS ontfouting protokolle uit</string>
   <string name="argusos_debug_export_logs_file">Uitvoer na vyl</string>
   <string name="argusos_debug_export_logs_success">Ontfouting logboeke is suksesvol uitgevoer</string>
   <string name="argusos_debug_export_logs_failed">Ontfouting logboeke kon nie uitgevoer word nie</string>

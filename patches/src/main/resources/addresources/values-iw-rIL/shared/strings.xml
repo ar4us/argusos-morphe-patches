@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">ייבוא</string>
   <string name="argusos_settings_import_copy">העתק</string>
-  <string name="argusos_settings_import_reset">הגדרות Morphe אופסו לברירת מחדל</string>
+  <string name="argusos_settings_import_reset">הגדרות ArgusOS אופסו לברירת מחדל</string>
   <string name="argusos_settings_import_success">%d הגדרות יובאו</string>
   <string name="argusos_settings_import_failure_parse">ייבוא נכשל: %s</string>
   <string name="argusos_settings_search_hint">חפש בהגדרות</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">היסטוריית החיפוש ריקה</string>
   <string name="argusos_settings_search_empty_history_summary">כדי לשמור היסטוריית חיפוש, הקלד שאילתת חיפוש ולחץ על Enter</string>
   <string name="argusos_settings_search_history_title">הצג הגדרות היסטוריית חיפוש</string>
-  <string name="argusos_show_menu_icons_title">הצג סמלי הגדרות Morphe</string>
-  <string name="argusos_language_title">שפת Morphe</string>
+  <string name="argusos_show_menu_icons_title">הצג סמלי הגדרות ArgusOS</string>
+  <string name="argusos_language_title">שפת ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"תרגומים עבור שפות מסוימות עשויים להיות חסרים או לא מלאים.
 
-כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-morphe.software/translate"</string>
+כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">שפת היישום</string>
   <string name="argusos_pref_import_export_title">ייבוא / ייצוא</string>
-  <string name="argusos_pref_import_export_summary">ייבוא / ייצוא הגדרות Morphe</string>
+  <string name="argusos_pref_import_export_summary">ייבוא / ייצוא הגדרות ArgusOS</string>
   <string name="argusos_settings_import_file">ייבוא מתוך קובץ</string>
   <string name="argusos_settings_import_file_success">ההגדרות יובאו בהצלחה, הקש שמור כדי להחיל</string>
   <string name="argusos_settings_import_file_failed">נכשל ייבוא הגדרות</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">הגדרות יובאו בהצלחה</string>
   <string name="argusos_settings_export_file_failed">נכשל לייצא הגדרות</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">אתה משתמש בגרסה האחרונה של Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">אתה משתמש בגרסת Morphe Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;עדכון זמין: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;כדי לעדכן את התיקונים שלך, השתמש ב-Morphe כדי לתקן מחדש את האפליקציה הזו</string>
+  <string name="argusos_settings_about_links_body_version_current">אתה משתמש בגרסה האחרונה של ArgusOS Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">אתה משתמש בגרסת ArgusOS Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;עדכון זמין: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;כדי לעדכן את התיקונים שלך, השתמש ב-ArgusOS כדי לתקן מחדש את האפליקציה הזו</string>
   <string name="argusos_settings_about_links_dev_header">הערה</string>
   <string name="argusos_settings_about_links_dev_body">גרסה זו היא קדם-הפצה וייתכן שתיתקל בבעיות בלתי צפויות</string>
   <string name="argusos_settings_about_links_header">קישורים רשמיים</string>
@@ -73,7 +73,7 @@ Second \"item\" text"</string>
   <string name="argusos_settings_about_links_translations">תרגומים</string>
   <string name="argusos_settings_about_links_credits">קרדיטים</string>
   <string name="argusos_settings_about_links_dev_header_up_to_date">עדכני</string>
-  <string name="argusos_settings_about_links_dev_header_update_available">עדכון Morphe זמין</string>
+  <string name="argusos_settings_about_links_dev_header_update_available">עדכון ArgusOS זמין</string>
   <string name="argusos_settings_about_contributors_current">פיתוח נוכחי</string>
   <string name="argusos_settings_about_contributors_prior">פיתוח קודם</string>
   <string name="argusos_settings_about_links_morphe">פיתוח פעיל</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">אפשר הודעות דיבאג</string>
   <string name="argusos_debug_stacktrace_title">עקבות מחסנית באיתור באגים</string>
   <string name="argusos_debug_stacktrace_summary">כולל מעקב מחסנית ביומני ניפוי באגים כדי לעזור בזיהוי שגיאות</string>
-  <string name="argusos_debug_toast_on_error_title">הצג הודעה קופצת בעת שגיאת Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"השבתת הודעות שגיאה קופצות מסתירה את כל הודעות השגיאה של Morphe.
+  <string name="argusos_debug_toast_on_error_title">הצג הודעה קופצת בעת שגיאת ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"השבתת הודעות שגיאה קופצות מסתירה את כל הודעות השגיאה של ArgusOS.
 
 לא תקבל הודעה על אירועים בלתי צפויים."</string>
   <string name="argusos_debug_export_logs_title">ייצוא יומני איתור באגים</string>
-  <string name="argusos_debug_export_logs_summary">ייצוא יומני איתור באגים Morphe</string>
+  <string name="argusos_debug_export_logs_summary">ייצוא יומני איתור באגים ArgusOS</string>
   <string name="argusos_debug_export_logs_file">ייצוא לקובץ</string>
   <string name="argusos_debug_export_logs_success">יומני איתור באגים יובאו בהצלחה</string>
   <string name="argusos_debug_export_logs_failed">נכשל לייצא יומני איתור באגים: %s</string>

@@ -36,20 +36,20 @@ Seiceáil go bhfuil an t-ainm pacáiste ceart agus go bhfuil an aip suiteáilte"
   <string name="argusos_custom_branding_name_entry_5">Saincheaptha</string>
   <string name="argusos_custom_branding_icon_title">Deilbhín aip</string>
   <string name="argusos_custom_branding_icon_entry_1">Bunaidh</string>
-  <string name="argusos_custom_branding_icon_entry_2">Morphe dubh</string>
-  <string name="argusos_custom_branding_icon_entry_3">Morphe dorcha</string>
-  <string name="argusos_custom_branding_icon_entry_4">Morphe solas</string>
+  <string name="argusos_custom_branding_icon_entry_2">ArgusOS dubh</string>
+  <string name="argusos_custom_branding_icon_entry_3">ArgusOS dorcha</string>
+  <string name="argusos_custom_branding_icon_entry_4">ArgusOS solas</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_5">Morphe play solas</string>
+  <string name="argusos_custom_branding_icon_entry_5">ArgusOS play solas</string>
   <!-- Translation should match argusos_custom_branding_notification_icon_entry_3 -->
-  <string name="argusos_custom_branding_icon_entry_6">Morphe play dubh</string>
+  <string name="argusos_custom_branding_icon_entry_6">ArgusOS play dubh</string>
   <!-- Translations of this should be identical to argusos_custom_branding_name_entry_5 -->
   <string name="argusos_custom_branding_icon_entry_7">Saincheaptha</string>
   <string name="argusos_custom_branding_notification_icon_title">Deilbhín fógra</string>
   <string name="argusos_custom_branding_notification_icon_entry_1">Deilbhín aip mheaitseála</string>
-  <string name="argusos_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="argusos_custom_branding_notification_icon_entry_3">ArgusOS play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="argusos_check_watch_history_domain_name_dialog_title">Fógra Morphe</string>
+  <string name="argusos_check_watch_history_domain_name_dialog_title">Fógra ArgusOS</string>
   <string name="argusos_check_watch_history_domain_name_dialog_message">Níl do stair faire á sábháil.&lt;br&gt;&lt;br&gt;Is dóichí gur bacadóir fógraí DNS nó seachfhreastalaí líonra is cúis leis seo.&lt;br&gt;&lt;br&gt;Chun seo a shocrú, cuir &lt;b&gt;s.youtube.com&lt;/b&gt; ar an liosta bán nó múch gach bacadóir agus seachfhreastalaí DNS.</string>
   <string name="argusos_check_watch_history_domain_name_dialog_ignore">Ná taispeáin arís</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -92,7 +92,7 @@ Chun síniú isteach, brúigh lean ar aghaidh thíos"</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_title">Sínithe isteach go rathúil</string>
   <string name="argusos_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Fíordheimhniú sábháilte
 
-• Ní dhéanfaidh do shocruithe Morphe fíordheimhniú Android VR a allmhairiú/a onnmhairiú
+• Ní dhéanfaidh do shocruithe ArgusOS fíordheimhniú Android VR a allmhairiú/a onnmhairiú
 • Mura n-úsáidtear an aip seo ar feadh 6 mhí, bainfidh Google an fíordheimhniú seo
 • Beidh ort síniú isteach arís má athraíonn tú do phasfhocal Google nó má dhíchláraíonn tú an gléas seo ó do shocruithe Google"</string>
   <string name="argusos_oauth2_connection_failure_timeout">Níl OAuth2 ar fáil go sealadach (tá an t-am caite ag an API)</string>

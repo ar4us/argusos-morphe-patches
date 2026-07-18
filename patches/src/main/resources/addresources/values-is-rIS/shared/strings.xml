@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">Innfluta</string>
   <string name="argusos_settings_import_copy">Afrita</string>
-  <string name="argusos_settings_import_reset">Morphe stillingar endurstillaðar að sjálfgefnu gildi</string>
+  <string name="argusos_settings_import_reset">ArgusOS stillingar endurstillaðar að sjálfgefnu gildi</string>
   <string name="argusos_settings_import_success">Innfluttar %d stillingar</string>
   <string name="argusos_settings_import_failure_parse">Innflutning mistókst: %s</string>
   <string name="argusos_settings_search_hint">Leita í stillingum</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">Leitarsaga er tóm</string>
   <string name="argusos_settings_search_empty_history_summary">Til að vista leitarsögu skaltu slá inn leitarfyrirspurn og ýta á Enter</string>
   <string name="argusos_settings_search_history_title">Sýna leitarsögu</string>
-  <string name="argusos_show_menu_icons_title">Sýna Morphe stillingatafnar</string>
-  <string name="argusos_language_title">Morphe tungumál</string>
+  <string name="argusos_show_menu_icons_title">Sýna ArgusOS stillingatafnar</string>
+  <string name="argusos_language_title">ArgusOS tungumál</string>
   <string name="argusos_language_user_dialog_message">"Þýðingar fyrir sum lönd gætu verið vantar eða ófullnægð.
 
-Til að þýða ný lönd eða bæta núverandi þýðingar skaltu heimsækja morphe.software/translate"</string>
+Til að þýða ný lönd eða bæta núverandi þýðingar skaltu heimsækja argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">Tungumál apps</string>
   <string name="argusos_pref_import_export_title">Innflutningur / Útflutningur</string>
-  <string name="argusos_pref_import_export_summary">Innfluta / Útfluta Morphe stillingar</string>
+  <string name="argusos_pref_import_export_summary">Innfluta / Útfluta ArgusOS stillingar</string>
   <string name="argusos_settings_import_file">Innfluta úr skrá</string>
   <string name="argusos_settings_import_file_success">Stillingar innfluttar með góðum árangri, ýttu á Vista til að nota</string>
   <string name="argusos_settings_import_file_failed">Innflutning mistókst</string>
@@ -63,8 +63,8 @@ Til að þýða ný lönd eða bæta núverandi þýðingar skaltu heimsækja mo
   <string name="argusos_settings_export_file_success">Stillingar útfærðar með góðum árangri</string>
   <string name="argusos_settings_export_file_failed">Útflutning mistókst</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">Þú notar nýjustu Morphe Patches útgáfuna &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">Þú notar Morphe Patches útgáfu &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Uppfærsla í boði: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Til að uppfæra þína tákna skaltu nota Morphe til að endurtáka þetta app</string>
+  <string name="argusos_settings_about_links_body_version_current">Þú notar nýjustu ArgusOS Patches útgáfuna &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">Þú notar ArgusOS Patches útgáfu &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Uppfærsla í boði: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Til að uppfæra þína tákna skaltu nota ArgusOS til að endurtáka þetta app</string>
   <string name="argusos_settings_about_links_dev_header">Athugaðu</string>
   <string name="argusos_settings_about_links_dev_body">Þessi útgáfa er forútgáfa og þú gætir upplifað óvænt vandamál</string>
   <string name="argusos_settings_about_links_header">Opinberar tenglar</string>
@@ -88,12 +88,12 @@ Til að þýða ný lönd eða bæta núverandi þýðingar skaltu heimsækja mo
   <string name="argusos_debug_title">Virkja debug log</string>
   <string name="argusos_debug_stacktrace_title">Debug log staðsetja spor</string>
   <string name="argusos_debug_stacktrace_summary">Felur stöðusýningu debug log til að hjálpa til með að ákvarða villur</string>
-  <string name="argusos_debug_toast_on_error_title">Sýna toast á Morphe villu</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"Slökkt á villu toast felur öll Morphe villu tilkynninga.
+  <string name="argusos_debug_toast_on_error_title">Sýna toast á ArgusOS villu</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"Slökkt á villu toast felur öll ArgusOS villu tilkynninga.
 
 Þú verður ekki varað við óvæntum atburðum."</string>
   <string name="argusos_debug_export_logs_title">Útflutningur debug log</string>
-  <string name="argusos_debug_export_logs_summary">Útflutningur Morphe debug log</string>
+  <string name="argusos_debug_export_logs_summary">Útflutningur ArgusOS debug log</string>
   <string name="argusos_debug_export_logs_file">Útflutningur úr skrá</string>
   <string name="argusos_debug_export_logs_success">Debug logs successfully exported</string>
   <string name="argusos_debug_export_logs_failed">Útflutningur debug log mistókst</string>

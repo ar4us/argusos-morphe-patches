@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">Derbarê</string>
   <string name="argusos_settings_screen_01_ads_title">Reklam</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Wênekên piçûk ên alternatîf</string>
@@ -419,7 +419,7 @@ Info: May not work on live streams"</string>
   <string name="argusos_swap_save_and_queue_actions_title">Veguherîneya kirina tomarkirinê û kirina rêzê</string>
   <string name="argusos_swap_save_and_queue_actions_summary">Bikîne bo vebijarkên rêzê, bikîne û bidin girtin da ku paşê li serê şîret bike</string>
   <string name="argusos_queue_override_flyout_menu_title">Bi serkirîkirina pêşniyarên rêzika peydakirinê</string>
-  <string name="argusos_queue_override_flyout_menu_summary">Lihevîneya Morphe li şûna hejmara YouTube\'yê vekirin</string>
+  <string name="argusos_queue_override_flyout_menu_summary">Lihevîneya ArgusOS li şûna hejmara YouTube\'yê vekirin</string>
   <string name="argusos_queue_manager_check_failed_auth">Tewrê nîşanî dayî ne</string>
   <string name="argusos_queue_manager_check_failed_playlist_id">Îd-a lîsteyê tune ye</string>
   <string name="argusos_queue_manager_check_failed_queue">Lîste vala ye</string>
@@ -433,7 +433,7 @@ Info: May not work on live streams"</string>
   <string name="argusos_queue_manager_fetch_succeeded_create">Lîste çêkirin</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Derxistina ji lîsteyê kirin</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Lîste li %s hatî parastin</string>
-  <string name="argusos_queue_manager_playlist_title">Girîsekê Morphe</string>
+  <string name="argusos_queue_manager_playlist_title">Girîsekê ArgusOS</string>
   <string name="argusos_queue_manager_add_to_queue">Ket lîsteyê kirin</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Ket lîsteyê kirin û vekirin</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Ket lîsteyê kirin û vîdyoyê bidarxin</string>
@@ -623,7 +623,7 @@ Not: Ger 'Herikînên vîdyoyê' nebe, vekirina vê dikare têkiliyên nehevdît
   <string name="argusos_show_settings_button_title">Butona serişteyê nîşan bide</string>
   <string name="argusos_show_settings_button_index_title">Helkefta butona serişteyê</string>
   <string name="argusos_show_settings_button_type_title">Çalakiya butona Mîhengê</string>
-  <string name="argusos_show_settings_button_type_summary">Dema ku vekirî ye, serişteya Morphe vekirî ye. Dema ku vekirî nîn e, serişteya YouTube vekirî ye</string>
+  <string name="argusos_show_settings_button_type_summary">Dema ku vekirî ye, serişteya ArgusOS vekirî ye. Dema ku vekirî nîn e, serişteya YouTube vekirî ye</string>
   <string name="argusos_swap_create_with_notifications_button_title">Swap Create button with Notifications button</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Ger guherîna vê mîhengî bandor neke, biceribîne ku veguhere moda Incognito</string>
   <string name="argusos_hide_navigation_button_labels_title">Çavkaniyên butona naweşandinê</string>
@@ -658,7 +658,7 @@ Ji bo ku derfetên sazkarî pêşero, rêzika 'Settings' zivirînin bi General �
   <string name="argusos_show_toolbar_settings_button_title">Butona Serişte nîşan bide</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Helkefta butona Serişte</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Çalakîya gûçikeka sazkarî</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Dema ku vekirî ye, tîkêkirina Morphe serişteya vekirî, dema ku vekirî nîn e, serişteya YouTube vekirî</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Dema ku vekirî ye, tîkêkirina ArgusOS serişteya vekirî, dema ku vekirî nîn e, serişteya YouTube vekirî</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Menûya vexwarinê</string>
   <string name="argusos_hide_player_flyout_summary">Rêbaza desteyê hejmara desteyê kêş dibe</string>
@@ -842,7 +842,7 @@ Settings → Playback (an Autoplay) → Autoplay next video"</string>
   <string name="argusos_ryd_attribution_summary">"Daneyê ji aliyê Return YouTube Dislike API ve tê peydakirin.
 
 Virê bikirin da ku ReturnYouTubeDislike.com vekin."</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Statîstîkên API-ya Return YouTube Dislike ji vê alavê re.</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Demerê bersiva API, seraverî</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Demerê bersiva API, herî kêm</string>

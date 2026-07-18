@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About ArgusOS" (i.e., About this app). -->
   <string name="argusos_settings_screen_00_about_title">О програму</string>
   <string name="argusos_settings_screen_01_ads_title">Огласи</string>
   <string name="argusos_settings_screen_02_alt_thumbnails_title">Алтернативне сличице</string>
@@ -432,7 +432,7 @@ Promene uključuju:
   <string name="argusos_queue_manager_fetch_succeeded_create">Ред чекања креиран</string>
   <string name="argusos_queue_manager_fetch_succeeded_remove">Уклоњено из реда чекања</string>
   <string name="argusos_queue_manager_fetch_succeeded_save">Ред чекања је сачуван на %s</string>
-  <string name="argusos_queue_manager_playlist_title">Morphe ред</string>
+  <string name="argusos_queue_manager_playlist_title">ArgusOS ред</string>
   <string name="argusos_queue_manager_add_to_queue">Додај у ред чекања</string>
   <string name="argusos_queue_manager_add_to_queue_and_open_queue">Додај у ред чекања и отвори</string>
   <string name="argusos_queue_manager_add_to_queue_and_play_video">Додај у ред чекања и пусти</string>
@@ -622,7 +622,7 @@ Promene uključuju:
   <string name="argusos_show_settings_button_title">Прикажи дугме „Подешавања“</string>
   <string name="argusos_show_settings_button_index_title">Позиција дугмета „Подешавања“</string>
   <string name="argusos_show_settings_button_type_title">Акција дугмета за подешавања</string>
-  <string name="argusos_show_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма Morphe, а дугим притиском – подешавања програма YouTube.</string>
+  <string name="argusos_show_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма ArgusOS, а дугим притиском – подешавања програма YouTube.</string>
   <string name="argusos_swap_create_with_notifications_button_title">Замените дугме „Направи“ дугметом „Обавештења“</string>
   <string name="argusos_swap_create_with_notifications_button_summary">Ако промена ове поставке не ступи на снагу, покушајте да пређете у режим инкогнита</string>
   <string name="argusos_hide_navigation_button_labels_title">Сакриј ознаке дугмади за навигацију</string>
@@ -656,7 +656,7 @@ Promene uključuju:
   <string name="argusos_show_toolbar_settings_button_title">Прикажи дугме „Подешавања“</string>
   <string name="argusos_show_toolbar_settings_button_index_title">Позиција дугмета „Подешавања“</string>
   <string name="argusos_show_toolbar_settings_button_type_title">Акција дугмета подешавања</string>
-  <string name="argusos_show_toolbar_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма Morphe, а дугим притиском – подешавања програма YouTube. Онемогућите да бисте их заменили.</string>
+  <string name="argusos_show_toolbar_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма ArgusOS, а дугим притиском – подешавања програма YouTube. Онемогућите да бисте их заменили.</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="argusos_hide_player_flyout_title">Падајући мени</string>
   <string name="argusos_hide_player_flyout_summary">Одаберите које компоненте ће се појављивати у изскачућем менију.</string>
@@ -840,7 +840,7 @@ Promene uključuju:
   <string name="argusos_ryd_attribution_summary">"Подаци су пружени од стране Return YouTube Dislike API
 
 Додирните овде да бисте отворили ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when ArgusOS debug mode is enabled. Typical users will never see these. -->
   <string name="argusos_ryd_statistics_category_title">Статистике ReturnYouTubeDislike API-ја за овај уређај</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeAverage_title">Време одговора API-ја, просечно</string>
   <string name="argusos_ryd_statistics_getFetchCallResponseTimeMin_title">Време одговора API-ја, минимално</string>

@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="argusos_settings_import">นำเข้า</string>
   <string name="argusos_settings_import_copy">คัดลอก</string>
-  <string name="argusos_settings_import_reset">การตั้งค่า Morphe ถูกตั้งค่าเป็นค่าเริ่มต้น</string>
+  <string name="argusos_settings_import_reset">การตั้งค่า ArgusOS ถูกตั้งค่าเป็นค่าเริ่มต้น</string>
   <string name="argusos_settings_import_success">นำเข้าการตั้งค่า %d</string>
   <string name="argusos_settings_import_failure_parse">การนำเข้าล้มเหลว: %s</string>
   <string name="argusos_settings_search_hint">ค้นหาในการตั้งค่า</string>
@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="argusos_settings_search_empty_history_title">ประวัติการค้นหาว่างเปล่า</string>
   <string name="argusos_settings_search_empty_history_summary">หากต้องการบันทึกประวัติการค้นหา ให้พิมพ์คำค้นหาแล้วกด Enter</string>
   <string name="argusos_settings_search_history_title">แสดงประวัติการค้นหาในการตั้งค่า</string>
-  <string name="argusos_show_menu_icons_title">แสดงไอคอนการตั้งค่า Morphe</string>
-  <string name="argusos_language_title">ภาษา Morphe</string>
+  <string name="argusos_show_menu_icons_title">แสดงไอคอนการตั้งค่า ArgusOS</string>
+  <string name="argusos_language_title">ภาษา ArgusOS</string>
   <string name="argusos_language_user_dialog_message">"คำแปลสำหรับบางภาษาอาจหายไปหรือไม่สมบูรณ์
 
-หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ morphe.software/translate"</string>
+หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ argusos.software/translate"</string>
   <string name="argusos_language_DEFAULT">ภาษาของแอป</string>
   <string name="argusos_pref_import_export_title">นำเข้า / ส่งออก</string>
-  <string name="argusos_pref_import_export_summary">นำเข้า / ส่งออกการตั้งค่า Morphe</string>
+  <string name="argusos_pref_import_export_summary">นำเข้า / ส่งออกการตั้งค่า ArgusOS</string>
   <string name="argusos_settings_import_file">นำเข้าจากไฟล์</string>
   <string name="argusos_settings_import_file_success">การตั้งค่าถูกนำเข้าเรียบร้อยแล้ว แตะที่บันทึกเพื่อใช้</string>
   <string name="argusos_settings_import_file_failed">ไม่สามารถนำเข้าการตั้งค่า</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="argusos_settings_export_file_success">การส่งออกการตั้งค่าสำเร็จ</string>
   <string name="argusos_settings_export_file_failed">การส่งออกการตั้งค่าล้มเหลว</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="argusos_settings_about_links_body_version_current">คุณกำลังใช้ Morphe Patches เวอร์ชัน &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="argusos_settings_about_links_body_version_outdated">คุณกำลังใช้ Morphe Patches เวอร์ชัน &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;อัพเดตใหม่พร้อมให้ใช้: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;เพื่ออัพเดตแพทช์ของคุณ ให้ใช้ Morphe เพื่อแพทช์แอปพลิเคชันนี้ใหม่</string>
+  <string name="argusos_settings_about_links_body_version_current">คุณกำลังใช้ ArgusOS Patches เวอร์ชัน &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="argusos_settings_about_links_body_version_outdated">คุณกำลังใช้ ArgusOS Patches เวอร์ชัน &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;อัพเดตใหม่พร้อมให้ใช้: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;เพื่ออัพเดตแพทช์ของคุณ ให้ใช้ ArgusOS เพื่อแพทช์แอปพลิเคชันนี้ใหม่</string>
   <string name="argusos_settings_about_links_dev_header">หมายเหตุ</string>
   <string name="argusos_settings_about_links_dev_body">เวอร์ชันนี้เป็นเวอร์ชันก่อนวางจำหน่ายและคุณอาจพบปัญหาที่ไม่คาดคิด</string>
   <string name="argusos_settings_about_links_header">ลิงก์อย่างเป็นทางการ</string>
@@ -88,12 +88,12 @@ Second \"item\" text"</string>
   <string name="argusos_debug_title">เปิดการบันทึกการแก้ไขข้อบกพร่อง</string>
   <string name="argusos_debug_stacktrace_title">Debug log stack trace</string>
   <string name="argusos_debug_stacktrace_summary">รวม stack trace ในบันทึกการแก้ไขข้อบกพร่องเพื่อช่วยระบุข้อผิดพลาด</string>
-  <string name="argusos_debug_toast_on_error_title">แสดง  toast  เมื่อเกิดข้อผิดพลาดของ Morphe</string>
-  <string name="argusos_debug_toast_on_error_user_dialog_message">"การปิดการแจ้งเตือนข้อผิดพลาดจะซ่อนการแจ้งเตือนข้อผิดพลาดของ Morphe ทั้งหมด
+  <string name="argusos_debug_toast_on_error_title">แสดง  toast  เมื่อเกิดข้อผิดพลาดของ ArgusOS</string>
+  <string name="argusos_debug_toast_on_error_user_dialog_message">"การปิดการแจ้งเตือนข้อผิดพลาดจะซ่อนการแจ้งเตือนข้อผิดพลาดของ ArgusOS ทั้งหมด
 
 คุณจะไม่ได้รับแจ้งเกี่ยวกับเหตุการณ์ที่ไม่คาดคิดใดๆ"</string>
   <string name="argusos_debug_export_logs_title">ส่งออกบันทึกการแก้ไขข้อบกพร่อง</string>
-  <string name="argusos_debug_export_logs_summary">Export Morphe debug logs</string>
+  <string name="argusos_debug_export_logs_summary">Export ArgusOS debug logs</string>
   <string name="argusos_debug_export_logs_file">Export to file</string>
   <string name="argusos_debug_export_logs_success">Debug logs exported successfully</string>
   <string name="argusos_debug_export_logs_failed">Failed to export debug logs</string>
